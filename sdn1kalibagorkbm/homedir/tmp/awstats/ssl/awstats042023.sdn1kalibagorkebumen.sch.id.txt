@@ -1,0 +1,444 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/sdn1kalibagorkbm/tmp/awstats/ssl/awstats.sdn1kalibagorkebumen.sch.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2036                
+POS_TIME 2708                
+POS_VISITOR 8526                
+POS_DAY 11739               
+POS_DOMAIN 3302                
+POS_LOGIN 3720                
+POS_ROBOT 3875                
+POS_WORMS 4169                
+POS_EMAILSENDER 4300                
+POS_EMAILRECEIVER 4443                
+POS_SESSION 11960               
+POS_SIDER 12117               
+POS_FILETYPES 4578                
+POS_DOWNLOADS 4762                
+POS_OS 4810                
+POS_BROWSER 5081                
+POS_SCREENSIZE 6129                
+POS_UNKNOWNREFERER 6203                
+POS_UNKNOWNREFERERBROWSER 6317                
+POS_ORIGIN 6399                
+POS_SEREFERRALS 6535                
+POS_PAGEREFS 6679                
+POS_SEARCHWORDS 7490                
+POS_KEYWORDS 7642                
+POS_MISC 2371                
+POS_ERRORS 7701                
+POS_CLUSTER 3576                
+POS_SIDER_404 7820                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230506050714 1 0 9194378711906
+FirstTime 20230420023057
+LastTime 20230426045849
+LastUpdate 20230507035839 1 0 0 0 0
+TotalVisits 95                  
+TotalUnique 83                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 83                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 14 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 6206 4 5 1812
+1 2 2 74114 0 0 0
+2 8 17 146795 9 12 16
+3 7 7 5593 9 11 799
+4 3 3 2397 0 3 0
+5 3 3 2397 0 2 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 2 2 1401 2 3 107
+9 0 0 0 0 0 0
+10 31 33 346455 24 41 25899
+11 4 13 120999 1 1 52
+12 24 24 40200 16 20 26685
+13 0 0 0 0 0 0
+14 1 1 12100 0 0 0
+15 20 20 14207 18 18 1177
+16 2 2 1401 5 7 2397
+17 0 0 0 0 0 0
+18 0 0 0 1 1 52
+19 54 56 363259 44 63 26646
+20 2 2 74114 3 3 35
+21 5 5 112763 0 1 0
+22 0 0 0 4 4 70
+23 2 2 74114 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+cn 63 67 693712
+us 54 72 321396
+id 15 15 10606
+fr 12 12 335707
+gb 11 11 8198
+ro 6 6 4400
+za 4 4 2802
+nl 3 3 2200
+ua 2 2 1598
+pt 2 2 1598
+ru 2 2 1401
+it 1 1 602
+ca 1 1 799
+pl 1 1 799
+se 1 1 12095
+in 1 1 602
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+unknown 8 312 20230422191527 8
+feed 3 2200 20230425121028 0
+Apache\-HttpClient/ 3 2397 20230423103555 0
+java 2 1598 20230423005510 0
+curl 2 1598 20230421163253 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 20 242244 0 0
+woff 6 136000 0 0
+html 145 831559 0 0
+svg 6 14860 0 0
+png 12 9588 0 0
+css 4 67416 0 0
+xml 8 96848 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+androidoreo 7 7
+Unknown 3 3
+macosx 8 8
+linux 10 8
+win7 1 1
+winnt 9 7
+macosx14 1 1
+androidjellybean 5 5
+macosx9 1 1
+androidkitkat 1 1
+android 9 9
+linuxubuntu 24 24
+macosx15 4 4
+win10 96 78
+ios_iphone 22 22
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 52
+chrome100.0.592 1 1
+chrome83.0.4103.97 2 2
+safari 6 6
+firefox108.0 1 1
+firefox112.0 3 3
+chrome33.0.1750.152 1 1
+chrome86.0.2906 1 1
+firefox82.0 1 1
+chrome111.0.0.0 4 4
+firefox83.0 1 1
+chrome70.0.1592 1 1
+chrome79.0.3945.79 13 4
+chrome107.0.966 1 1
+chrome69.0.2285 1 1
+chrome108.0.0.0 3 3
+chrome82.0.588 1 1
+chrome97.0.2996 1 1
+chrome93.0.612 1 1
+firefox109.0 3 3
+android 5 5
+chrome61.0.2673 1 1
+safari16.2 2 2
+chrome90.0.1683 1 1
+netscape5.0 3 3
+safari16.3 4 4
+chrome83.0.4103.61 1 1
+chrome110.0.0.0 1 1
+chrome107.0.1901 1 1
+chrome67.0.1650 1 1
+chrome87.0.4280.88 7 7
+chrome62.0.647 1 0
+firefox58.0 9 9
+chrome97.0.570 1 1
+firefox72.0 4 4
+chrome81.0.2991 1 1
+chrome91.0.2343 1 1
+safari16.1 5 5
+chrome83.0.4103.116 44 44
+chrome98.0.1169 1 1
+chrome112.0.5615.121 13 4
+chrome112.0.0.0 14 14
+chrome68.0.3440.106 1 1
+chrome85.0.4183.102 3 3
+safari16.4 5 5
+firefox52.0 7 7
+firefox104.0 1 1
+firefox111.0 12 12
+chrome98.0.40 1 0
+chrome97.0.1661 1 1
+chrome59.0.110 1 1
+chrome54.0.646 1 0
+chrome76.0.756 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0 20230424121622
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 86 90
+From1 0 0
+From2 0 0
+From3 18 36
+From4 75 75
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+https://webmail.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+http://cpanel.sdn1kalibagorkebumen.sch.id/axis2/axis2-admin/ 2 2
+http://cpanel.sdn1kalibagorkebumen.sch.id/axis2/ 2 2
+http://webmail.sdn1kalibagorkebumen.sch.id/axis2/axis2-admin/ 2 2
+http://webmail.sdn1kalibagorkebumen.sch.id/axis2/ 2 2
+http://cpanel.sdn1kalibagorkebumen.sch.id/axis2-admin/ 2 2
+http://webmail.sdn1kalibagorkebumen.sch.id/axis2-admin/ 2 2
+https://webmail.sdn1kalibagorkebumen.sch.id 0 6
+https://webmail.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1676830268/unprotected/cpanel/style_v2_optimized.css 0 12
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+503 31 0
+401 27 1353
+500 32 3424
+404 54 16
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/pma/index.php 1 -
+/index_sso.php 1 -
+/axis2/axis2-admin/ 6 -
+/PhpMyAdmin/index.php 1 -
+/sitemap.xml 6 -
+/axis2/ 6 -
+/phpmyadmin/index.php 1 -
+/axis2-admin/ 6 -
+/robots.txt 6 -
+/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f 18 https://sdn1kalibagorkebumen.sch.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f
+/mhgsPWyjtuvQuU 1 https://sdn1kalibagorkebumen.sch.id/raport/
+/php/thinkphp/aaaffff123.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 83
+106.75.96.247 22 24 248811 20230422191531
+106.75.70.38 21 23 247998 20230421104735
+36.72.213.38 14 14 9807 20230424193430
+106.75.30.226 8 8 96848 20230422191527
+106.75.63.211 8 8 96859 20230421104732
+205.169.39.171 5 14 133102 20230421025743
+51.178.81.195 4 4 2999 20230425034006
+96.9.249.37 4 13 120999 20230425114643
+44.195.244.245 4 4 25796 20230423124804
+34.254.53.125 3 3 2397 20230421053432
+18.204.233.163 3 3 2397 20230426045849
+84.247.50.238 3 3 2200 20230422192738
+216.131.88.4 2 2 1401 20230424121658
+37.120.149.54 2 2 1401 20230422152825
+197.242.159.250 2 2 1401 20230424121801
+35.181.6.211 2 2 1204 20230422192806
+51.255.62.2 2 2 74114 20230425203102
+87.115.231.172 2 2 1598 20230423192702
+185.242.7.134 2 2 1401 20230422152825
+95.216.161.91 2 2 1598 20230420152533
+161.35.246.138 2 2 1598 20230423033723
+109.201.130.27 1 1 799 20230422192641
+216.131.107.4 1 1 799 20230422192641
+212.103.48.77 1 1 602 20230424121800
+185.65.135.249 1 1 12095 20230421023517
+212.103.48.69 1 1 799 20230422152753
+216.131.116.87 1 1 602 20230422152727
+15.237.52.83 1 1 602 20230424121658
+188.165.87.105 1 1 37051 20230425233033
+51.254.49.111 1 1 37063 20230426010437
+13.40.132.91 1 1 799 20230424121723
+188.165.87.96 1 1 37051 20230425215915
+45.133.172.203 1 1 602 20230422192706
+46.166.179.211 1 1 799 20230425121027
+185.108.105.165 1 1 799 20230422192643
+104.223.92.177 1 1 602 20230422192808
+193.239.84.89 1 1 799 20230424121622
+102.129.153.165 1 1 799 20230423192703
+146.70.101.55 1 1 602 20230422192706
+147.182.220.169 1 1 12100 20230421143221
+185.108.105.166 1 1 799 20230425034007
+207.204.229.7 1 1 602 20230422152827
+188.165.87.99 1 1 37063 20230425213656
+164.90.241.135 1 1 799 20230424121722
+51.254.49.99 1 1 37051 20230426010440
+197.242.159.238 1 1 799 20230425121036
+106.75.29.156 1 1 799 20230421120037
+82.132.230.198 1 1 602 20230422192809
+24.199.69.21 1 1 799 20230423033726
+87.89.48.69 1 1 799 20230422192737
+192.200.158.222 1 1 799 20230422152658
+54.244.60.62 1 1 799 20230422103452
+106.75.16.16 1 1 799 20230422034421
+51.75.141.254 1 1 799 20230424121622
+104.129.56.115 1 1 799 20230425121029
+37.120.149.59 1 1 799 20230423192703
+143.244.34.14 1 1 799 20230424121723
+58.17.6.9 1 1 799 20230422000757
+198.23.242.157 1 1 799 20230425034008
+31.94.9.27 1 1 799 20230422152752
+13.36.171.254 1 1 602 20230422152727
+18.236.228.23 1 1 799 20230423212304
+176.67.82.3 1 1 799 20230424121724
+208.115.245.106 1 1 799 20230421104506
+212.102.57.24 1 1 602 20230424121658
+106.75.100.243 1 1 799 20230420023057
+3.71.52.180 1 1 799 20230422152658
+216.131.114.6 1 1 799 20230424121622
+107.150.31.41 1 1 799 20230424121622
+197.242.156.68 1 1 602 20230422152827
+217.138.194.118 1 1 799 20230423033727
+52.43.173.150 1 1 799 20230423212311
+205.185.223.3 1 1 602 20230422192706
+52.41.8.5 1 1 602 20230422160926
+216.131.114.7 1 1 799 20230422152752
+172.255.125.179 1 1 799 20230422192737
+128.90.147.42 1 1 602 20230424121800
+188.165.87.109 1 1 37051 20230425213648
+188.165.87.110 1 1 37063 20230425233033
+157.97.122.9 1 1 799 20230422192643
+46.166.179.212 1 1 602 20230422152827
+104.244.209.41 1 1 602 20230424121659
+216.151.180.4 1 1 602 20230422152728
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20230420 4 4 14495 3
+20230421 44 55 508546 11
+20230422 69 71 373471 36
+20230423 10 10 19291 10
+20230424 32 32 22613 19
+20230425 17 26 385186 13
+20230426 3 3 74913 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 7
+0s-30s 88
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/ 89 521726 73 63
+/raport/ 32 19264 20 26
+/axis2/axis2-admin/ 8 96881 0 2
+/axis2/ 8 96828 0 0
+/sitemap.xml 8 96848 2 0
+/axis2-admin/ 8 96860 0 0
+/PhpMyAdmin/index.php 4 48449 0 0
+/phpmyadmin/index.php 4 48456 0 0
+/pma/index.php 4 48443 0 0
+/index_sso.php 4 48424 0 2
+/php/thinkphp/aaaffff123.php 4 48472 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45816 0 1
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45320 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44864 0 1
+END_SIDER

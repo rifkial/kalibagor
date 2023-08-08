@@ -1,0 +1,17 @@
+--- 
+documentroot: /home/sdn1kalibagorkbm/public_html/e-raport
+group: sdn1kalibagorkbm
+hascgi: 1
+homedir: /home/sdn1kalibagorkbm
+ip: 172.26.14.48
+ipv6: ~
+no_cache_update: 1
+owner: root
+phpopenbasedirprotect: 1
+phpversion: alt-php81
+serveradmin: webmaster@e-raport.sdn1kalibagorkebumen.sch.id
+serveralias: www.e-raport.sdn1kalibagorkebumen.sch.id
+servername: e-raport.sdn1kalibagorkebumen.sch.id
+usecanonicalname: 'On'
+user: sdn1kalibagorkbm
+userdirprotect: ''

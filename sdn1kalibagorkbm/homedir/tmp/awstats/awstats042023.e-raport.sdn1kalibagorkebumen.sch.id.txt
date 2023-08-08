@@ -1,0 +1,391 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/sdn1kalibagorkbm/tmp/awstats/awstats.e-raport.sdn1kalibagorkebumen.sch.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2041                
+POS_TIME 2699                
+POS_VISITOR 8916                
+POS_DAY 9704                
+POS_DOMAIN 3345                
+POS_LOGIN 3613                
+POS_ROBOT 3768                
+POS_WORMS 3971                
+POS_EMAILSENDER 4102                
+POS_EMAILRECEIVER 4245                
+POS_SESSION 9890                
+POS_SIDER 10085               
+POS_FILETYPES 4380                
+POS_DOWNLOADS 4574                
+POS_OS 5056                
+POS_BROWSER 5228                
+POS_SCREENSIZE 5495                
+POS_UNKNOWNREFERER 5569                
+POS_UNKNOWNREFERERBROWSER 5781                
+POS_ORIGIN 5988                
+POS_SEREFERRALS 6125                
+POS_PAGEREFS 6269                
+POS_SEARCHWORDS 6496                
+POS_KEYWORDS 6648                
+POS_MISC 2363                
+POS_ERRORS 6707                
+POS_CLUSTER 3469                
+POS_SIDER_404 6872                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501015827 1 0 9426035679999
+FirstTime 0
+LastTime 20230429183545
+LastUpdate 20230501114943 1 0 0 0 0
+TotalVisits 19                  
+TotalUnique 16                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 18                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 2 2 2221
+3 0 0 0 0 0 0
+4 0 0 0 0 1 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 16 50 449108 9 11 560685
+8 0 0 0 0 0 0
+9 13 55 432193 2 7 1598
+10 71 96 522966 38 53 1339843
+11 0 0 0 1 2 3134
+12 200 262 1286214 85 109 2578670
+13 23 42 173163 7 14 265606
+14 123 267 1268504 38 86 2113611
+15 7 39 211715 2 11 5440
+16 68 103 676374 42 50 649629
+17 63 101 617344 35 44 2073814
+18 114 118 418608 63 96 2560599
+19 0 0 0 4 4 952
+20 6 61 367120 4 9 9946
+21 1 17 101212 0 1 0
+22 0 0 0 0 1 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+id 696 1121 6051442
+us 9 80 472361
+zz 0 8 564
+gb 0 2 154
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+Googlebot/ 18 102841 20230428185100 0
+bingbot/ 2 3792 20230429135520 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 265 849698 0 0
+js 184 2709255 0 0
+Unknown 656 2356985 0 0
+jpg 34 75128 0 0
+txt 10 718 0 0
+png 13 451956 0 0
+html 49 80781 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+/.well-known/pki-validation/C4CE3B56738FD2B23AE03A608B9CF37B.txt 4 0 308
+/.well-known/pki-validation/97FEDB4F568E3C6583B5D08AFECA9544.txt 2 0 154
+/.well-known/pki-validation/23271B27D00D8BA31BC15B5A7ED2D54C.txt 1 0 64
+/.well-known/pki-validation/01048C5A92E90678964DD204D7987FAF.txt 1 0 64
+/.well-known/pki-validation/ED63C89825845E7310F2C353CE630B62.txt 1 0 64
+/.well-known/pki-validation/16CD304C869AF20539462D74230F2389.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx9 2 2
+win10 661 431
+android 35 3
+Unknown 13 3
+linux 54 10
+win7 8 1
+macosx15 404 253
+linuxubuntu 34 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+firefox109.0 34 2
+chrome33.0.1750.152 2 2
+chrome112.0.0.0 1058 674
+chrome83.0.4103.61 8 1
+chrome79.0.3945.79 17 1
+firefox83.0 2 2
+opera74.1.3922.71199 17 1
+chrome111.0.0.0 43 18
+Unknown 13 3
+chrome111.0.5563.64 17 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+WhatsApp/2.23.7.78_A 20230418202331
+Sectigo_DCV 20230418122854
+COMODO_DCV 20230418122849
+WhatsApp/2.23.6.76_A 20230428135614
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Sectigo_DCV 20230418122854
+WhatsApp/2.23.6.76_A 20230428135614
+COMODO_DCV 20230418122849
+WhatsApp/2.23.7.78_A 20230418202331
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 43 53
+From1 0 0
+From2 0 0
+From3 2 2
+From4 660 1156
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.sdn1kalibagorkbm.sch.id 1 1
+https://www.sdn1kalibagorkbm.sch.id 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+405 3 825797
+500 39 10955801
+301 6 4242
+404 122 219930
+403 6 7374
+302 195 45907
+401 2 64
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 22
+/manage-p5/user_profile.html 1 https://e-raport.sdn1kalibagorkebumen.sch.id/manage-p5/create
+/asset/css/form-1.css 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/user_profile.html 4 https://e-raport.sdn1kalibagorkebumen.sch.id/statistic
+/logo/20230419052032.png 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/asset/css/bootstrap.min.css 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/asset/js/app.js 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/asset/css/plugins.css 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/public/https://e-raport.sdn1kalibagorkebumen.sch.id/public/asset/img/90x90.jpg 2 https://e-raport.sdn1kalibagorkebumen.sch.id/setting-score/score/create/112023-m9Mdx
+/asset/js/custom.js 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/asset/js/popper.min.js 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/asset/js/bootstrap.min.js 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/auth_pass_recovery.html 2 -
+/robots.txt 5 -
+/public/logo/20230409154341.jpeg 10 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/asset/js/form-1.js 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/asset/css/switches.css 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/asset/js/perfect-scrollbar.min.js 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/public/asset/css/fonts/dropify.ttf 35 https://e-raport.sdn1kalibagorkebumen.sch.id/public/asset/css/dropify.min.css
+/public/asset/img/sma.png 2 https://e-raport.sdn1kalibagorkebumen.sch.id/covers
+/asset/css/theme-checkbox-radio.css 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/asset/js/jquery-3.1.1.min.js 2 https://e-raport.sdn1kalibagorkebumen.sch.id/
+/public/asset/css/fonts/dropify.woff 35 https://e-raport.sdn1kalibagorkebumen.sch.id/public/asset/css/dropify.min.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 18
+36.72.213.38 245 322 1712326 20230429183545
+182.1.87.89 209 267 1326580 20230419130149
+36.72.215.176 92 192 850902 20230428145234
+36.72.213.242 69 107 648104 20230426104044
+125.160.108.130 34 51 174800 20230428145048
+36.72.216.198 18 43 316609 20230426154925
+182.2.73.228 16 50 449108 20230429071559
+34.254.53.125 6 38 209895 20230418153016
+112.215.210.200 5 33 261159 20230428144620
+182.1.71.93 3 19 104654 20230418204426
+205.169.39.111 2 25 161258 20230418203338
+140.213.101.248 2 2 3202 20230429094732
+140.213.163.6 1 1 1575 20230419104232
+65.154.226.169 1 17 101208 20230418202603
+36.72.216.142 1 17 101211 20230418130733
+114.10.126.240 1 17 101212 20230418213109
+91.199.212.132 0 2 154 
+172.31.16.240 0 8 564 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20230418 14 143 780156 6
+20230419 210 268 1328155 2
+20230426 87 150 964713 4
+20230428 262 480 2580579 4
+20230429 132 170 870918 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 2
+0s-30s 8
+30mn-1h 5
+30s-2mn 1
+1h+ 2
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 69
+/ 49 80781 17 9
+/courses 46 147512 0 0
+/levels 40 125228 0 0
+/classes 36 108201 0 0
+/majors 33 101693 0 0
+/set-template 33 660 0 0
+/statistic 29 117560 0 0
+/student-class 26 104873 0 1
+/auth/login 26 46914 2 3
+/dashboard 25 127667 0 0
+/users 21 73374 0 0
+/setting-score/competence 20 59627 0 2
+/setting-score/list-competence 18 48786 0 1
+/manage-p5 18 44245 0 1
+/teachers 18 51749 0 0
+/admins 16 54950 0 0
+/school-years 16 49759 0 0
+/setting-score/score 16 40758 0 0
+/template 12 63235 0 0
+/setting 11 65978 0 0
+/levels/create 10 46720 0 0
+/courses/create 10 47061 0 0
+/achievement 10 21516 0 1
+/preview 9 24614 0 0
+/home 9 25686 0 0
+/courses/ppkn-hUtES/edit 1 4743 0 0
+/admins/mohamad-ambyah-spd-stzPC/edit 1 5807 0 0
+/basic-competency/create 1 4945 0 0
+/courses/bahasa-indonesia-cOCD0 5 34408 0 0
+/setting-score/pts-configuration 2 9894 0 0
+/basic-competency 2 5507 0 0
+/users/create 7 47591 0 0
+/manage-p5/create 8 62801 0 0
+/users/reed-ellison-sVIo6/edit 1 6949 0 0
+/admins/mohamad-ambyah-spd-1FKXi/edit 1 5807 0 0
+/setting-score/kkm 3 16215 0 0
+/admins/mohamad-ambyah-spd-8sz7C/edit 1 5806 0 0
+/extracurricular/create 2 10520 0 0
+/school-years/202320241-F1bLG/edit 1 4962 0 0
+/levels/xi-QuCFg/edit 1 4697 0 0
+/attitude/social 7 39515 0 0
+/levels/x-uYh8H/edit 1 4693 0 0
+/setting-score/competence/edit 1 5367 0 0
+/letterhead 3 17675 0 0
+/setting-score/predicated-score/create 2 10009 0 0
+/admins/mohamad-ambyah-spd-EAVzk/edit 1 5807 0 0
+/courses/ppkn-AsE13/edit 1 4742 0 0
+/achievement/create 1 4081 0 0
+/setting-score/pas-configuration 2 9882 0 0
+/covers 7 46039 0 0
+/teachers/create 4 25719 0 0
+/teacher_note 7 30093 0 0
+/_ignition/health-check 3 99 0 0
+/setting-score/score-competency 5 23613 0 0
+/setting-score/assesment-weight 8 41004 0 0
+/attitude/spiritual 6 32925 0 0
+/setting-score/description 4 21234 0 0
+/score-extra/sepakbola-sRAP4 3 15177 0 0
+/setting-score/score/create/112023-m9Mdx 5 23983 0 0
+/classes/x-tpa-iYDZA/edit 3 15098 0 0
+/setting-score/competence/create 4 23423 0 0
+/majors/create 4 18503 0 0
+/setting-score/predicated-score 6 15691 0 0
+/attendance 5 19453 0 1
+/subject-teacher/study_class 1 479 0 0
+/preview/print/202320241-F1bLG 3 9309 0 0
+/extracurricular 6 21256 0 0
+/courses/matematika-pY5Gg 2 12792 0 0
+/classes/create 6 30306 0 0
+END_SIDER

@@ -1,0 +1,6 @@
+[/home/sdn1kalibagorkbm/public_html]
+htaccess_list = /home/sdn1kalibagorkbm/public_html/.htaccess,/home/sdn1kalibagorkbm/public_html/public/.htaccess
+
+[/home/sdn1kalibagorkbm/public_html/e-raport]
+htaccess_list = /home/sdn1kalibagorkbm/public_html/e-raport/.htaccess,/home/sdn1kalibagorkbm/public_html/e-raport/public/.htaccess
+

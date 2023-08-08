@@ -1,0 +1,1495 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	1690	724	42	535	661272519
+D	28034071	28156622
+19468	30	1	1	799
+19468	150	2	1	24205
+19468	185	2	2	1598
+19468	198	1	1	799
+19469	11	1	1	799
+19469	31	1	1	12095
+19469	35	15	3	133901
+19469	51	1	1	799
+19469	66	3	3	2397
+19469	129	38	16	370080
+19469	144	1	1	799
+19469	174	1	1	12100
+19469	197	1	1	799
+19469	198	2	2	1598
+19470	1	1	1	799
+19470	44	1	1	799
+19470	126	1	1	799
+19470	185	18	18	12609
+19470	193	1	1	602
+19470	231	38	16	369974
+19470	232	1	1	799
+19470	233	17	17	12204
+19471	11	1	1	799
+19471	43	3	3	2397
+19471	56	1	1	799
+19471	127	1	1	799
+19471	153	2	1	24207
+19471	233	3	3	2397
+19471	256	2	2	1598
+19472	5	8	8	5407
+19472	104	2	2	1401
+19472	147	19	19	13408
+19472	234	4	4	2999
+19473	44	4	4	3196
+19473	141	13	1	120999
+19473	146	4	4	3196
+19473	246	2	2	74114
+19473	259	2	2	74114
+19473	263	1	1	37051
+19473	282	2	2	74114
+19474	12	2	2	74114
+19474	59	1	1	799
+19484	61	1	1	799
+19484	77	1	1	602
+19484	89	1	1	799
+19484	97	1	1	799
+19484	100	1	1	799
+19484	103	1	1	799
+19484	145	1	1	799
+19484	157	1	1	799
+19484	177	1	1	799
+19484	195	1	1	799
+19484	211	1	1	799
+19484	241	1	1	799
+19484	269	2	2	1598
+19485	43	1	1	799
+19485	94	1	1	799
+19485	95	2	2	1598
+19485	96	4	4	2408
+19485	118	1	1	602
+19485	146	1	1	799
+19485	185	2	2	1401
+19485	196	1	1	12073
+19485	249	1	1	799
+19485	250	1	1	799
+19485	257	1	1	12074
+19485	259	1	1	602
+19486	33	1	1	799
+19486	41	1	1	799
+19486	61	4	4	3196
+19486	91	2	2	799
+19486	256	1	1	799
+19486	257	1	1	602
+19486	258	1	1	602
+19486	280	1	1	799
+19487	223	1	1	799
+19487	230	14	1	122107
+19488	17	1	1	799
+19488	140	1	1	799
+19488	179	1	1	799
+19488	254	2	2	1598
+19489	63	4	4	3196
+19489	116	1	1	799
+19489	143	1	1	799
+19489	154	1	1	0
+19489	191	1	1	12071
+19489	204	1	1	799
+19489	226	3	3	38499
+19489	234	1	1	36901
+19489	235	1	1	36901
+19489	239	1	1	36901
+19489	255	1	1	36901
+19489	271	1	1	36901
+19489	272	2	2	1598
+19489	286	1	1	799
+19490	18	1	1	799
+19490	35	27	2	243088
+19490	47	1	1	799
+19490	49	1	1	12076
+19490	84	1	1	799
+19490	96	2	2	799
+19490	151	2	0	24220
+19491	33	1	1	799
+19492	12	1	1	799
+19492	23	1	1	799
+19492	204	1	1	799
+19492	206	1	1	799
+19492	255	1	1	799
+19492	264	1	1	799
+19493	39	1	1	799
+19493	67	4	4	3196
+19493	105	1	1	799
+19493	107	18	1	562145
+19493	210	1	1	799
+19493	264	2	2	24149
+19494	9	1	1	799
+19494	141	1	1	799
+19495	40	1	1	799
+19495	124	1	1	799
+19495	125	2	2	1598
+19495	169	1	1	799
+19496	11	1	1	799
+19496	18	2	2	1598
+19496	28	1	1	799
+19496	46	1	1	799
+19496	133	1	1	799
+19496	148	1	1	799
+19496	157	1	1	799
+19496	178	1	1	602
+19496	192	1	1	6898
+19496	257	1	1	799
+19497	4	1	1	6898
+19497	84	37	2	1349981
+19497	86	1	0	42236
+19497	90	18	0	509211
+19497	102	12	0	386037
+19497	103	33	0	731525
+19497	104	90	0	1279817
+19497	105	9	0	182945
+19497	106	1	0	7472
+19497	116	1	1	979
+19497	121	1	1	602
+19497	127	12	1	395203
+19497	128	8	5	110194418
+19498	24	1	1	979
+19498	69	1	1	979
+19498	70	21	4	570624
+19498	93	1	1	979
+19498	126	1	1	979
+19498	196	1	1	979
+19498	217	1	1	979
+19498	262	2	2	1958
+19499	5	1	1	979
+19499	191	1	1	979
+19499	214	1	1	979
+19499	223	1	1	979
+19499	232	1	1	979
+19500	11	1	1	979
+19500	28	21	4	564705
+19500	38	17	1	501130
+19500	45	1	1	602
+19500	52	1	1	602
+19500	59	1	1	6898
+19500	71	16	0	494232
+19500	86	1	1	979
+19501	20	1	1	12074
+19501	25	1	1	979
+19501	225	1	1	979
+19501	230	1	1	979
+19502	62	3	3	2937
+19502	130	1	1	979
+19502	138	1	1	602
+19502	153	1	1	979
+19502	161	1	1	602
+19502	201	1	1	979
+19502	255	1	1	979
+19503	31	1	1	979
+19503	35	1	1	602
+19503	38	1	1	979
+19503	39	1	1	602
+19503	42	2	2	1581
+19503	57	1	1	36913
+19503	96	1	1	979
+19503	114	1	1	979
+19503	132	1	1	979
+19503	233	1	1	979
+19504	62	1	1	602
+19504	82	18	2	502093
+19504	147	1	1	979
+19504	169	1	1	979
+19505	40	1	1	602
+19505	58	1	1	979
+19505	131	1	1	602
+19505	165	1	1	602
+19505	169	1	1	602
+19505	268	1	1	979
+19506	190	1	1	979
+19506	282	1	1	979
+19507	125	1	1	979
+19508	31	1	1	979
+19508	230	1	1	979
+19509	112	1	1	602
+19509	144	1	1	979
+19509	220	13	1	395453
+19509	280	2	2	1958
+19510	53	1	1	979
+19510	155	1	1	979
+19510	170	1	1	979
+19510	196	1	0	36729841
+19510	198	1	1	979
+19510	200	11	11	39008
+19510	201	20	15	146961534
+19510	203	1	1	979
+19510	213	4	4	3916
+19510	214	17	13	146947451
+19510	215	1	0	0
+19510	260	1	1	979
+19511	41	1	1	979
+19511	74	2	2	1958
+19511	107	1	1	979
+19511	184	1	1	979
+19511	213	38	3	165803191
+19511	242	2	2	1958
+19512	11	1	1	979
+19512	71	1	1	979
+19512	143	2	2	1958
+19512	251	1	1	979
+19512	268	2	2	1958
+19513	63	4	4	3916
+19513	139	1	1	979
+19513	141	2	2	1958
+19513	219	1	1	979
+19513	276	2	2	1958
+19514	10	1	1	36913
+19514	27	1	1	979
+19514	84	2	2	1958
+19514	221	1	1	979
+19514	273	1	1	979
+19514	282	1	1	979
+19514	286	1	1	979
+19515	1	1	1	36901
+19515	108	1	1	979
+19515	263	2	2	1958
+19516	4	1	1	979
+19516	153	1	1	979
+19516	206	1	1	979
+19516	237	1	1	979
+19517	116	1	1	979
+19518	23	6	1	4912
+19518	120	1	1	12074
+19518	210	1	1	596
+19519	49	1	1	737
+19519	138	5	1	3742
+19519	232	1	1	738
+19519	273	2	2	1476
+19520	7	1	1	484
+19520	13	1	1	484
+19520	19	1	1	484
+19520	34	1	1	737
+19520	45	1	1	596
+19520	64	4	4	6940
+19520	208	5	1	3742
+19520	245	1	1	608
+19520	257	1	1	601
+19520	281	2	2	1476
+19521	76	1	1	596
+19521	88	1	1	484
+19521	107	1	1	490
+19521	120	1	1	490
+19521	226	1	1	738
+19521	256	5	1	3742
+19521	264	2	2	1476
+19522	6	1	1	603
+19522	48	12	1	85286
+19522	96	1	1	484
+19522	144	1	1	599
+19522	259	2	2	1480
+19522	282	3	1	2941
+19523	10	7	2	5514
+19523	42	2	1	953
+19523	67	1	1	599
+19523	83	1	1	599
+19523	86	6	1	4915
+19523	101	1	1	599
+19523	116	1	1	603
+19523	129	3	3	2628
+19523	130	4	4	4289
+19523	138	4	0	3957
+19523	144	1	1	602
+19523	158	17	1	101182
+19523	186	1	1	607
+19523	199	17	1	101182
+19523	204	2	0	7817
+19523	213	1	1	599
+19523	220	6	1	4925
+19523	222	1	1	740
+19523	227	1	1	607
+19523	238	2	2	1480
+19523	245	2	1	812
+19523	259	1	1	743
+19523	285	3	1	3058
+19524	68	2	1	953
+19524	144	6	1	4917
+19524	164	1	1	599
+19524	166	1	1	599
+19524	195	1	1	599
+19524	203	1	1	738
+19524	209	1	1	490
+19524	239	1	1	490
+19525	132	1	1	603
+19525	141	1	1	484
+19525	150	1	1	604
+19525	159	15	1	93363
+19525	168	5	1	4441
+19525	177	17	1	101183
+19525	186	1	1	607
+19525	241	1	1	738
+19526	220	5	0	4316
+19526	223	4	0	2179
+19526	232	1	0	2137
+19526	276	1	0	328
+19527	7	2	0	687
+19527	21	2	2	1089
+19527	39	1	1	484
+19527	47	1	1	490
+19527	57	1	1	607
+19527	222	1	1	734
+19528	135	1	1	742
+19528	236	1	1	734
+19529	14	25	3	106907
+19529	46	48	2	360270
+19529	55	2	0	41698
+19529	78	2	0	165931
+19529	234	1	1	734
+19529	247	2	2	1468
+19531	31	1	1	598
+19531	88	1	1	741
+19531	225	1	1	734
+19531	236	5	1	3744
+19532	53	2	1	920
+19532	58	2	2	1196
+19532	146	1	1	12076
+19532	148	1	1	598
+19533	37	5	1	3744
+19533	155	1	1	484
+19533	229	2	2	1332
+19534	69	1	1	742
+19534	118	6	1	4914
+19534	136	1	1	607
+19534	178	1	1	603
+19534	189	2	2	974
+19535	15	1	1	598
+19535	39	13	1	85437
+19535	48	2	1	812
+19535	66	1	1	607
+19535	84	1	1	484
+19535	197	5	1	3744
+19535	226	1	1	603
+19535	243	1	1	734
+19536	72	1	1	484
+19536	118	1	1	601
+19536	139	6	1	4917
+19536	180	2	2	1202
+19536	198	4	2	1889
+19536	249	1	1	740
+19536	256	2	2	1480
+19537	32	5	1	3746
+19537	219	1	1	600
+19537	222	1	1	738
+19537	233	1	1	490
+19537	243	1	1	490
+19538	26	17	1	101212
+19538	44	1	1	603
+19538	62	2	1	812
+19538	80	1	1	603
+19538	98	3	1	2096
+19538	149	5	1	3746
+19538	161	1	1	600
+19538	176	1	1	600
+19538	196	1	1	600
+19539	68	1	1	599
+19539	94	1	1	484
+19539	112	1	1	484
+19539	121	1	1	744
+19539	130	1	1	484
+19539	150	1	1	608
+19539	240	1	1	741
+19539	255	5	1	3745
+19539	265	1	1	741
+19540	78	1	1	482
+19540	140	1	1	600
+19540	166	1	1	600
+19540	255	2	2	1478
+19541	6	1	1	1868
+19541	67	5	1	3746
+19541	197	1	1	739
+19541	238	1	1	739
+19541	253	1	1	739
+19541	265	1	1	600
+19542	75	36	2	367423
+19542	131	13	1	69042
+19542	140	1	1	484
+19542	149	3	1	2100
+19542	204	1	1	602
+19542	222	1	1	484
+19542	239	4	4	2956
+19542	240	2	1	812
+19542	243	1	1	36901
+19542	257	1	1	600
+19542	258	1	1	1575
+19543	46	1	1	744
+19543	126	2	1	24158
+19543	159	1	1	600
+19544	51	1	1	609
+19544	71	5	1	3746
+19544	73	1	1	609
+19544	276	18	16	24215
+19545	0	1	1	600
+19545	3	1	1	744
+19545	167	1	1	742
+19545	185	5	1	3746
+19545	198	1	1	484
+19545	225	1	1	12072
+19545	250	2	2	1478
+19545	254	2	2	12817
+19546	6	1	1	744
+19546	12	1	1	744
+19546	25	29	2	300137
+19546	26	1	0	1794
+19546	39	1	1	12079
+19546	77	1	1	12075
+19546	80	1	1	744
+19546	97	1	1	600
+19546	148	1	1	608
+19546	193	5	1	3750
+19547	31	1	1	600
+19547	221	4	4	2964
+19547	241	1	1	741
+19547	255	5	1	3746
+19547	275	1	1	602
+19548	23	12	1	85315
+19548	60	1	1	1739
+19548	130	1	1	741
+19548	166	1	1	600
+19548	232	1	1	744
+19548	262	1	1	741
+19548	263	1	1	741
+19549	55	5	1	3746
+19549	135	1	1	744
+19549	219	1	1	741
+19549	235	1	1	600
+19550	43	1	1	739
+19550	62	4	4	6940
+19550	90	1	1	12075
+19550	136	6	1	4915
+19550	245	2	2	1198
+19550	264	1	1	1740
+19550	265	1	1	1739
+19550	266	2	2	38648
+19550	286	1	1	36901
+19551	33	1	1	599
+19551	93	1	1	739
+19551	176	1	1	744
+19551	233	5	1	3745
+19551	239	2	2	1478
+19551	249	1	1	739
+19551	284	5	1	4441
+19552	14	17	1	101209
+19552	22	1	1	600
+19552	32	1	1	484
+19552	62	60	3	40767236
+19552	167	1	1	600
+19552	249	1	1	484
+19552	256	2	2	1480
+19552	270	1	1	600
+19553	39	1	1	36913
+19553	41	1	1	36913
+19553	60	5	1	3746
+1	0	0	0	5	0	0	28076196	0	0	28076102	0	/e-raport/public/asset/css/fonts/dropify.woff
+1	2	0	0	0	28041826	0	0	28035537	0	0	1924	/cPanel_magic_revision_1650472201/unprotected/cpanel/images/notice-success.png
+1	0	0	0	1	0	0	28076102	0	0	28076102	0	/e-raport/users/assets/img/favicon.ico
+1	0	0	0	3	0	0	28146374	0	0	28076131	0	/e-raport/auth/assets/img/favicon.ico
+1	7	7	0	0	28141228	0	0	28057689	0	0	4443	/?SD
+1	1	0	0	0	28076102	0	0	28076102	0	0	1851	/e-raport/public/asset/img/200x200.jpg
+1	9	9	0	0	28147207	0	0	28083887	0	0	5802	/?SA
+1	6	0	0	1	28076206	0	28076203	28076201	0	28076203	161158	/e-raport/setting-score/score
+1	0	0	0	1	0	0	28037968	0	0	28037968	0	/mhgsPWyjtuvQuU
+1	0	0	0	1	0	0	28076194	0	0	28076194	0	/e-raport/teachers/kepin-waluyo-sqfHz/assets/img/favicon.ico
+1	23	0	0	0	28155192	0	0	28070458	0	0	32634	/e-raport/public/asset/css/perfect-scrollbar.css
+1	3	0	0	0	28076201	0	0	28076195	0	0	1985	/e-raport/public/asset/custom/avatar.css
+1	28	0	0	0	28155192	0	0	28070458	0	0	2063944	/e-raport/public/asset/css/bootstrap.min.css
+1	0	0	0	1	0	0	28076193	0	0	28076193	0	/e-raport/teachers/kepin-waluyo-l6Qb2/assets/img/favicon.ico
+1	3	0	0	0	28076200	0	0	28076200	0	0	294079	/e-raport/courses/bahasa-indonesia-kEbtn
+1	3	0	0	0	28140858	0	0	28076102	0	0	669908	/e-raport/public/asset/js/datatables.js
+1	1	0	0	0	28076200	0	0	28076200	0	0	18547	/e-raport/courses?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=teacher&columns[2][name]=teacher&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=classes&columns[3][name]=classes&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=status&columns[4][name]=status&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485630489
+1	1	0	0	0	28076195	0	0	28076195	0	0	42212	/e-raport/manage-p5/create
+1	1	1	0	0	28058877	0	0	28058877	0	0	799	/?C=M;O=D
+1	4	0	0	0	28146369	0	0	28076101	0	0	33572	/e-raport/public/asset/custom/dashboard.css
+1	1	1	0	0	28061129	0	0	28061129	0	0	602	/raport/?C=M;O=D
+1	0	0	0	3	0	0	28037727	0	0	28037727	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=18370650
+1	1	0	0	0	28076206	0	0	28076206	0	0	1032	/e-raport/manage-p5?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=tema&columns[1][name]=tema&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=title&columns[2][name]=title&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=teacher&columns[3][name]=teacher&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=class&columns[4][name]=class&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=sub_element_count&columns[5][name]=sub_element_count&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&columns[6][data]=action&columns[6][name]=action&columns[6][searchable]=true&columns[6][orderable]=true&columns[6][search][value]=&columns[6][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684486011108
+1	3	0	0	0	28076201	0	0	28076200	0	0	5927	/e-raport/public/asset/custom/search.css
+1	6	6	0	0	28135600	0	0	28040854	0	0	4755	/?C=M;O=A
+1	0	0	2	0	0	28076206	0	0	28076201	0	0	/e-raport/set-layout/teacher
+1	4	4	0	0	28108868	0	0	28039706	0	0	2290	/raport/?C=M;O=A
+1	16	0	0	0	28146374	0	0	28076131	0	0	102492	/e-raport/auth/login
+1	1	0	0	0	28076203	0	0	28076203	0	0	1032	/e-raport/manage-p5?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=tema&columns[1][name]=tema&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=title&columns[2][name]=title&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=teacher&columns[3][name]=teacher&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=class&columns[4][name]=class&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=sub_element_count&columns[5][name]=sub_element_count&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&columns[6][data]=action&columns[6][name]=action&columns[6][searchable]=true&columns[6][orderable]=true&columns[6][search][value]=&columns[6][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485827077
+1	0	0	1	0	0	28121994	0	0	28121994	0	0	/e-raport/classes/destroy/1-a-WwfCM
+1	1	1	0	0	28034671	0	0	28034671	0	0	12098	/?106.75.100.243
+1	4	0	0	0	28121993	0	0	28076102	0	0	3986	/e-raport/public/asset/custom/loader.css
+1	2	0	0	0	28121990	0	0	28076195	0	0	2246	/e-raport/public/asset/css/scrollspyNav.css
+1	1	0	0	0	28076102	0	0	28076102	0	0	1252	/e-raport/users?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=email&columns[2][name]=email&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=address&columns[3][name]=address&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=phone&columns[4][name]=phone&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684479723079
+1	3	0	0	0	28065777	0	0	28062434	0	0	960	/cPanel_magic_revision_1680711171/unprotected/cpanel/images/icon-username.png
+1	1	0	0	0	28121990	0	0	28121990	0	0	1302	/e-raport/levels?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=fase&columns[2][name]=fase&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=status&columns[3][name]=status&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=action&columns[4][name]=action&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1687233038874
+1	3	0	0	0	28140858	0	0	28076102	0	0	9382	/e-raport/public/asset/css/datatables.css
+1	5	0	0	0	28065777	0	0	28035537	0	0	114540	/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff
+1	1	0	0	0	28076195	0	0	28076195	0	0	3336	/e-raport/setting-score/competence?draw=2&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=type.name&columns[1][name]=type.name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=code&columns[2][name]=code&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=course.name&columns[3][name]=course.name&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=study_class.name&columns[4][name]=study_class.name&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=achievement&columns[5][name]=achievement&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&columns[6][data]=description&columns[6][name]=description&columns[6][searchable]=true&columns[6][orderable]=true&columns[6][search][value]=&columns[6][search][regex]=false&columns[7][data]=action&columns[7][name]=action&columns[7][searchable]=true&columns[7][orderable]=true&columns[7][search][value]=&columns[7][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&course=bahasa-indonesia-kEbtn&study_class=kelas-2-pByjP&teacher=budi-prihatin-rtHCO&_=1684485325877
+1	2	2	0	0	28040416	0	0	28039008	0	0	12899	/?146.70.101.55
+1	5	0	0	0	28065777	0	0	28035537	0	0	2610	/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+1	1	0	0	0	28076200	0	0	28076200	0	0	18854	/e-raport/courses?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=teacher&columns[2][name]=teacher&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=classes&columns[3][name]=classes&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=status&columns[4][name]=status&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485653531
+1	0	0	5	0	0	28141770	0	0	28075704	0	0	/e-raport
+1	3	0	0	0	28076201	0	0	28076195	0	0	12620	/e-raport/public/asset/css/bootstrap-select.min.css
+1	3	0	0	0	28065777	0	0	28062434	0	0	99558	/cPanel_magic_revision_1680718859/unprotected/cpanel/style_v2_optimized.css
+1	10	0	0	0	28155192	0	0	28113813	0	0	3280	/_autoindex/assets/icons/corner-left-up.svg
+1	0	0	0	1	0	0	28076202	0	0	28076202	0	/e-raport/setting-score/assesment-weight/assets/img/favicon.ico
+1	0	0	0	2	0	0	28121833	0	0	28113769	0	/.well-known/traffic-advice
+1	2	0	0	0	28041826	0	0	28035537	0	0	2052	/cPanel_magic_revision_1650472201/unprotected/cpanel/images/notice-error.png
+1	8	8	0	0	28149055	0	0	28086608	0	0	5197	/?ND
+1	1	0	0	0	28076195	0	0	28076195	0	0	48197	/e-raport/setting-score/competence/create?course=bahasa-indonesia-kEbtn&study_class=kelas-2-pByjP&teacher=budi-prihatin-rtHCO
+1	0	0	16	0	0	28146369	0	0	28076101	0	0	/e-raport/auth/verify
+1	25	0	0	0	28155192	0	0	28070458	0	0	83170	/e-raport/public/asset/css/form-1.css
+1	2	0	0	0	28041826	0	0	28035537	0	0	640	/cPanel_magic_revision_1650472201/unprotected/cpanel/images/icon-username.png
+1	0	0	0	30	0	0	28155719	0	0	28058874	0	/robots.txt?104.223.92.177
+1	5	5	0	0	28156233	0	0	28057462	0	0	3199	/?NA
+1	0	0	0	5	0	0	28083197	0	0	28083197	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=17723889
+1	3	0	0	0	28065777	0	0	28062434	0	0	3180	/cPanel_magic_revision_1680711171/unprotected/cpanel/images/warning.png
+1	1	0	0	0	28076201	0	0	28076201	0	0	908	/e-raport/setting-score/score?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=email&columns[2][name]=email&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=&columns[3][name]=place_and_date_of_birth&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=score&columns[4][name]=score&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485715351
+1	23	0	0	0	28155192	0	0	28070458	0	0	615459	/e-raport/public/asset/css/main.css
+1	1	0	0	0	28076103	0	0	28076103	0	0	29	/e-raport/_ignition/health-check
+1	9	0	0	0	28146369	0	0	28076101	0	0	270999	/e-raport/dashboard
+1	3	3	0	0	28144742	0	0	28057407	0	0	2017	/?MD
+1	7	7	0	0	28146982	0	0	28083646	0	0	4623	/?MA
+1	1	0	0	0	28076203	0	0	28076203	0	0	908	/e-raport/setting-score/score?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=email&columns[2][name]=email&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=&columns[3][name]=place_and_date_of_birth&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=score&columns[4][name]=score&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485781968
+1	1	0	0	0	28140858	0	0	28140858	0	0	2724	/e-raport/setting-score/competence?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=type.name&columns[1][name]=type.name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=code&columns[2][name]=code&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=course.name&columns[3][name]=course.name&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=study_class.name&columns[4][name]=study_class.name&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=achievement&columns[5][name]=achievement&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&columns[6][data]=description&columns[6][name]=description&columns[6][searchable]=true&columns[6][orderable]=true&columns[6][search][value]=&columns[6][search][regex]=false&columns[7][data]=action&columns[7][name]=action&columns[7][searchable]=true&columns[7][orderable]=true&columns[7][search][value]=&columns[7][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1688365134266
+1	4	0	0	0	28041826	0	0	28035537	0	0	9596	/cPanel_magic_revision_1650472201/unprotected/cpanel/images/webmail-logo.svg
+1	1	0	0	0	28076196	0	0	28076196	0	0	18410	/e-raport/teachers?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=nip&columns[2][name]=nip&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=email&columns[3][name]=email&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=phone&columns[4][name]=phone&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485382276
+1	1	0	0	0	28076206	0	0	28076206	0	0	908	/e-raport/setting-score/score?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=email&columns[2][name]=email&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=&columns[3][name]=place_and_date_of_birth&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=score&columns[4][name]=score&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684486001556
+1	3	0	0	0	28065777	0	0	28062434	0	0	2886	/cPanel_magic_revision_1680711171/unprotected/cpanel/images/notice-success.png
+1	1	0	0	0	28076206	0	0	28076206	0	0	29984	/e-raport/setting-score/description
+1	0	0	0	1	0	0	28152945	0	0	28152945	0	/sitemap.xml?104.223.92.177
+1	19	0	0	0	28155192	0	0	28106038	0	0	22230	/_autoindex/assets/css/autoindex.css
+1	3	0	0	0	28065777	0	0	28062434	0	0	2928	/cPanel_magic_revision_1680711171/unprotected/cpanel/images/notice-info.png
+1	1	0	0	0	28076197	0	0	28076197	0	0	21240	/e-raport/teachers?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=nip&columns[2][name]=nip&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=email&columns[3][name]=email&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=phone&columns[4][name]=phone&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485470473
+1	23	0	0	0	28155192	0	0	28070458	0	0	471415	/e-raport/public/asset/css/structure.css
+1	4	0	0	0	28155192	0	0	28122151	0	0	657420	/e-raport/public/logo/20230620132315zM1Xt.jpeg
+1	1	1	0	0	28058879	0	0	28058879	0	0	799	/?C=S;O=D
+1	1	0	0	0	28121990	0	0	28121990	0	0	1293	/e-raport/majors?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=status&columns[2][name]=status&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=action&columns[3][name]=action&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1687233031992
+1	4	0	0	1	28076206	0	28076203	28076195	0	28076203	119386	/e-raport/manage-p5
+1	1	1	0	0	28061130	0	0	28061130	0	0	602	/raport/?C=S;O=D
+1	4	0	0	1	28037955	0	28034071	28036007	0	28034071	48443	/pma/index.php
+1	2	0	0	0	28140858	0	0	28076195	0	0	56763	/e-raport/setting-score/competence
+1	1	1	0	0	28036080	0	0	28036080	0	0	799	/?185.65.135.249
+1	2	0	0	0	28065777	0	0	28062434	0	0	5264	/cPanel_magic_revision_1680711171/unprotected/cpanel/images/cpanel-logo.svg
+1	5	5	0	0	28135704	0	0	28058168	0	0	3956	/?C=S;O=A
+1	3	3	0	0	28108897	0	0	28058883	0	0	1688	/raport/?C=S;O=A
+1	4	0	1	0	28121994	28121994	0	28121990	28121994	0	21294	/e-raport/classes
+1	0	0	0	2	0	0	28140858	0	0	28076195	0	/e-raport/setting-score/assets/img/favicon.ico
+1	4	0	0	1	28037955	0	28034071	28036007	0	28034071	48449	/PhpMyAdmin/index.php
+1	1	0	0	0	28076202	0	0	28076202	0	0	908	/e-raport/setting-score/score?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=email&columns[2][name]=email&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=&columns[3][name]=place_and_date_of_birth&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=score&columns[4][name]=score&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485752322
+1	8	8	0	14	28037955	0	28037955	28036007	0	28034071	96881	/axis2/axis2-admin/
+1	0	0	0	2	0	0	28080194	0	0	28076153	0	/e-raport/auth_pass_recovery.html
+1	0	0	0	1	0	0	28078925	0	0	28078925	0	/sitemap_index.xml?104.223.92.177
+1	0	0	0	3	0	0	28039408	0	0	28039408	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=18170974
+1	27	0	0	0	28155192	0	0	28070458	0	0	1366239	/e-raport/public/asset/js/jquery-3.1.1.min.js
+1	0	0	0	1	0	0	28076196	0	0	28076196	0	/e-raport/teachers/assets/img/favicon.ico
+1	1	0	0	0	28076102	0	0	28076102	0	0	7634	/e-raport/public/asset/custom/account-setting.css
+1	6	0	0	0	28080143	0	0	28070458	0	0	244060	/e-raport/public/logo/20230428092953.png
+1	3	0	0	0	28076201	0	0	28076200	0	0	170517	/e-raport/courses/matematika-zOCNi
+1	0	0	2	0	0	28076201	0	0	28076200	0	0	/e-raport/subject-teacher/updateOrCreate
+1	3	0	0	0	28140858	0	0	28076102	0	0	7054	/e-raport/public/asset/custom/datatable-custom.css
+1	1	0	0	0	28076200	0	0	28076200	0	0	35403	/e-raport/courses/create
+1	3	3	0	0	28141183	0	0	28128299	0	0	1452	/raport/?104.223.92.177
+1	1	0	0	0	28076202	0	0	28076202	0	0	908	/e-raport/setting-score/score?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=email&columns[2][name]=email&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=&columns[3][name]=place_and_date_of_birth&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=score&columns[4][name]=score&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485727503
+1	0	0	0	1	0	0	28037769	0	0	28037769	0	/raport/favicon.ico
+1	0	0	1	0	0	28076195	0	0	28076195	0	0	/e-raport/teachers/kepin-waluyo-sqfHz
+1	0	0	0	3	0	0	28099036	0	0	28099036	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=11838546
+1	1	0	0	0	28076102	0	0	28076102	0	0	13584	/e-raport/public/asset/css/dropify.min.css
+1	0	0	9	0	0	28146374	0	0	28076131	0	0	/e-raport/auth/logout
+1	1	0	0	0	28121993	0	0	28121993	0	0	5179	/e-raport/classes/create
+1	2	0	0	0	28065777	0	0	28062434	0	0	1800	/cPanel_magic_revision_1680711171/unprotected/cpanel/images/cp-logo.svg
+1	48	48	0	49	28155192	0	28070457	28070458	0	28037728	213302	/e-raport/
+1	6	6	0	0	28154324	0	0	28058017	0	0	4700	/?C=N;O=D
+1	3	0	0	0	28065777	0	0	28062434	0	0	1350	/cPanel_magic_revision_1680711171/unprotected/cpanel/images/icon-password.png
+1	3	3	0	0	28112161	0	0	28058883	0	0	1688	/raport/?C=N;O=D
+1	1	1	0	0	28057937	0	0	28057937	0	0	799	/?C=N;O=A
+1	1	0	0	0	28076195	0	0	28076195	0	0	18410	/e-raport/teachers?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=nip&columns[2][name]=nip&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=email&columns[3][name]=email&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=phone&columns[4][name]=phone&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485301487
+1	2	2	0	0	28058994	0	0	28039707	0	0	1204	/raport/?C=N;O=A
+1	5	0	0	1	28076206	0	28076203	28076202	0	28076203	140935	/e-raport/setting-score/score-competency
+1	2	0	0	0	28140858	0	0	28076195	0	0	36	/e-raport/set-template
+1	8	8	0	14	28037955	0	28037955	28036007	0	28034071	96860	/axis2-admin/
+1	1	0	0	0	28076201	0	0	28076201	0	0	30691	/e-raport/setting-score/list-competence
+1	1	0	0	0	28121990	0	0	28121990	0	0	1705	/e-raport/classes?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=level.name&columns[2][name]=level.name&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=major.name&columns[3][name]=major.name&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=status&columns[4][name]=status&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1687233043162
+1	3	0	0	0	28065777	0	0	28062434	0	0	3078	/cPanel_magic_revision_1680711171/unprotected/cpanel/images/notice-error.png
+1	0	0	0	4	0	0	28095406	0	0	28095406	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=22421450
+1	2	0	0	0	28041826	0	0	28035537	0	0	900	/cPanel_magic_revision_1650472201/unprotected/cpanel/images/icon-password.png
+1	0	0	0	3	0	0	28076206	0	0	28076198	0	/e-raport/set-layout?layout=homeroom
+1	76	76	0	0	28156128	0	0	28037727	0	0	43406	/raport/
+1	1	0	0	0	28121990	0	0	28121990	0	0	5118	/e-raport/majors
+1	2	0	0	0	28076194	0	0	28076193	0	0	105851	/e-raport/teachers/kepin-waluyo-l6Qb2/edit
+1	4	0	0	0	28146369	0	0	28076101	0	0	119386	/e-raport/public/vendor/sweetalert/sweetalert.all.js
+1	1	0	0	0	28076196	0	0	28076196	0	0	52744	/e-raport/teachers/create
+1	0	0	0	4	0	0	28078925	0	0	28076877	0	/sitemap.xml.gz
+1	1	0	0	0	28065776	0	0	28065776	0	0	2399	/cPanel_magic_revision_1680711171/unprotected/cpanel/images/webmail-logo.svg
+1	0	0	0	5	0	0	28076196	0	0	28076102	0	/e-raport/public/asset/css/fonts/dropify.ttf
+1	7	0	0	92	28142550	0	28156163	28034671	0	28034070	84726	/favicon.ico
+1	8	0	0	119	28037955	0	28156622	28036007	0	28034070	312	/robots.txt
+1	1	0	0	0	28121994	0	0	28121994	0	0	1792	/e-raport/classes?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=level.name&columns[2][name]=level.name&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=major.name&columns[3][name]=major.name&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=status&columns[4][name]=status&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1687233250642
+1	1	0	0	0	28076195	0	0	28076195	0	0	8627	/e-raport/public/asset/img/user4.jpg
+1	1	0	0	0	28076194	0	0	28076194	0	0	52868	/e-raport/teachers/kepin-waluyo-sqfHz/edit
+1	3	0	0	0	28076201	0	0	28076195	0	0	70749	/e-raport/public/asset/js/bootstrap-select.min.js
+1	1	0	0	0	28076201	0	0	28076201	0	0	1700	/e-raport/setting-score/list-competence?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=type.name&columns[1][name]=type.name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=code&columns[2][name]=code&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=achievement&columns[3][name]=achievement&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=description&columns[4][name]=description&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485704665
+1	1	0	0	5	28095476	0	28095476	28095476	0	28095476	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=7420579
+1	36	0	0	0	28156622	0	0	28106037	0	0	12744	/_autoindex/assets/icons/file.svg
+1	24	0	0	0	28155192	0	0	28070458	0	0	14421	/e-raport/public/asset/css/monokai-sublime.css
+1	28	0	0	0	28155192	0	0	28070458	0	0	273931	/e-raport/public/asset/js/perfect-scrollbar.min.js
+1	3	0	0	0	28140858	0	0	28076102	0	0	23502	/e-raport/public/asset/js/dataTables.buttons.min.js
+1	2	0	0	0	28041826	0	0	28035537	0	0	66372	/cPanel_magic_revision_1676830268/unprotected/cpanel/style_v2_optimized.css
+1	2	0	0	0	28041826	0	0	28035537	0	0	2120	/cPanel_magic_revision_1650472201/unprotected/cpanel/images/warning.png
+1	0	0	0	1	0	0	28057267	0	0	28057267	0	/robots.txt?128.90.147.42
+1	3	3	0	0	28129908	0	0	28057349	0	0	1691	/raport/?SD
+1	4	0	0	0	28076200	0	0	28076195	0	0	160296	/e-raport/courses
+1	5	0	0	0	28065777	0	0	28035537	0	0	112160	/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff
+1	2	0	0	1	28066357	0	28066357	28066357	0	28066357	24220	/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	6	6	0	0	28144742	0	0	28083688	0	0	3052	/raport/?SA
+1	0	0	0	1	0	0	28065641	0	0	28065641	0	/.well-known/security.txt
+1	1	0	0	0	28076195	0	0	28076195	0	0	1032	/e-raport/manage-p5?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=tema&columns[1][name]=tema&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=title&columns[2][name]=title&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=teacher&columns[3][name]=teacher&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=class&columns[4][name]=class&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=sub_element_count&columns[5][name]=sub_element_count&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&columns[6][data]=action&columns[6][name]=action&columns[6][searchable]=true&columns[6][orderable]=true&columns[6][search][value]=&columns[6][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485320308
+1	1	0	0	0	28076201	0	0	28076201	0	0	1032	/e-raport/manage-p5?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=tema&columns[1][name]=tema&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=title&columns[2][name]=title&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=teacher&columns[3][name]=teacher&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=class&columns[4][name]=class&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=sub_element_count&columns[5][name]=sub_element_count&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&columns[6][data]=action&columns[6][name]=action&columns[6][searchable]=true&columns[6][orderable]=true&columns[6][search][value]=&columns[6][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485708881
+1	1	1	0	0	28037726	0	0	28037726	0	0	799	/?117.187.173.101
+1	1	0	0	0	28076200	0	0	28076200	0	0	18547	/e-raport/courses?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=teacher&columns[2][name]=teacher&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=classes&columns[3][name]=classes&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=status&columns[4][name]=status&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485619201
+1	1	0	0	0	28076202	0	0	28076202	0	0	30036	/e-raport/setting-score/assesment-weight/uas?study_class=kelas-3-jCGkB
+1	0	0	1	0	0	28121994	0	0	28121994	0	0	/e-raport/classes/destroy/1-b-KItnj
+1	4	0	0	1	28037955	0	28034071	28036007	0	28034071	48472	/php/thinkphp/aaaffff123.php
+1	0	0	0	7	0	0	28153661	0	0	28076738	0	/sitemap.txt
+1	5	0	1	0	28076197	28076197	0	28076193	28076197	0	183470	/e-raport/teachers
+1	27	0	0	0	28155192	0	0	28070458	0	0	5059	/e-raport/public/asset/css/plugins.css
+1	3	0	0	0	28076201	0	0	28076200	0	0	6857	/e-raport/public/asset/custom/custom-modal.css
+1	25	0	0	0	28155192	0	0	28070458	0	0	154645	/e-raport/public/asset/css/theme-checkbox-radio.css
+1	26	0	0	0	28155192	0	0	28070458	0	0	106003	/e-raport/public/asset/css/switches.css
+1	1	0	0	0	28121994	0	0	28121994	0	0	1702	/e-raport/classes?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=level.name&columns[2][name]=level.name&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=major.name&columns[3][name]=major.name&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=status&columns[4][name]=status&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1687233279639
+1	1	0	0	0	28076102	0	0	28076102	0	0	91322	/e-raport/users/create
+1	28	0	0	0	28155192	0	0	28070458	0	0	180433	/e-raport/public/asset/js/app.js
+1	1	0	0	0	28076193	0	0	28076193	0	0	15967	/e-raport/public/asset/css/flatpickr.css
+1	1	0	0	0	28076195	0	0	28076195	0	0	1485	/e-raport/setting-score/competence?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=type.name&columns[1][name]=type.name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=code&columns[2][name]=code&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=course.name&columns[3][name]=course.name&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=study_class.name&columns[4][name]=study_class.name&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=achievement&columns[5][name]=achievement&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&columns[6][data]=description&columns[6][name]=description&columns[6][searchable]=true&columns[6][orderable]=true&columns[6][search][value]=&columns[6][search][regex]=false&columns[7][data]=action&columns[7][name]=action&columns[7][searchable]=true&columns[7][orderable]=true&columns[7][search][value]=&columns[7][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485325876
+1	1	0	0	1	28076102	0	28076103	28076102	0	28076103	36344	/e-raport/users
+1	0	0	0	1	0	0	28076200	0	0	28076200	0	/e-raport/courses/assets/img/favicon.ico
+1	0	0	0	4	0	0	28037727	0	0	28037727	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=19301639
+1	1	0	0	0	28076193	0	0	28076193	0	0	2576	/e-raport/public/asset/custom/custom-flatpickr.css
+1	40	0	0	0	28156622	0	0	28106038	0	0	12558	/_autoindex/assets/js/tablesort.number.js
+1	1	1	0	0	28058874	0	0	28058874	0	0	799	/?C=D;O=D
+1	1	1	0	0	28059696	0	0	28059696	0	0	602	/raport/?C=D;O=D
+1	0	0	0	1	0	0	28121993	0	0	28121993	0	/e-raport/classes/assets/img/favicon.ico
+1	0	0	0	1	0	0	28095476	0	0	28095476	0	/dPjCmNbSYpRFtU
+1	6	0	0	0	28146369	0	0	28076101	0	0	4576	/e-raport/public/asset/img/90x90.jpg
+1	5	5	0	0	28135525	0	0	28057748	0	0	3956	/?C=D;O=A
+1	4	4	0	0	28108838	0	0	28039707	0	0	2290	/raport/?C=D;O=A
+1	2	0	0	0	28121990	0	0	28096906	0	0	119304	/e-raport/public/logo/20230527012637.png
+1	0	0	0	2	0	0	28095472	0	0	28095472	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=8596819
+1	0	0	0	1	0	0	28095474	0	0	28095474	0	/QziNMRzB
+1	1	0	0	0	28076202	0	0	28076202	0	0	908	/e-raport/setting-score/score?draw=2&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=email&columns[2][name]=email&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=&columns[3][name]=place_and_date_of_birth&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=score&columns[4][name]=score&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=1&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485727504
+1	5	5	0	0	28144742	0	0	28087402	0	0	2530	/raport/?ND
+1	28	0	0	0	28155192	0	0	28070458	0	0	52158	/e-raport/public/asset/js/custom.js
+1	440	440	0	44	28156622	0	28155794	28034070	0	28034911	1474936	/
+1	24	0	0	0	28155192	0	0	28070458	0	0	4672	/e-raport/public/asset/js/form-1.js
+1	1	1	0	0	28132201	0	0	28132201	0	0	484	/raport/?NA
+1	1	0	0	0	28076102	0	0	28076102	0	0	10515	/e-raport/public/asset/js/dropify.min.js
+1	2	0	0	0	28041826	0	0	28035537	0	0	1952	/cPanel_magic_revision_1650472201/unprotected/cpanel/images/notice-info.png
+1	3	0	0	0	28076201	0	0	28076195	0	0	11901	/e-raport/public/asset/custom/user-profile.css
+1	65	0	0	0	28155192	0	0	28076321	0	0	646494908	/e-raport.zip
+1	0	0	0	5	0	0	28076196	0	0	28076102	0	/e-raport/public/asset/css/fonts/dropify.svg
+1	8	0	0	20	28037955	0	28153025	28036007	0	28034070	96848	/sitemap.xml
+1	0	0	0	4	0	0	28037968	0	0	28037968	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=5389869
+1	1	0	0	0	28076194	0	0	28076194	0	0	18409	/e-raport/teachers?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=nip&columns[2][name]=nip&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=email&columns[3][name]=email&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=phone&columns[4][name]=phone&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485282626
+1	2	2	0	0	28129908	0	0	28088048	0	0	1089	/raport/?MD
+1	0	0	0	1	0	0	28076195	0	0	28076195	0	/e-raport/setting-score/competence/assets/img/favicon.ico
+1	3	0	0	0	28076201	0	0	28076200	0	0	71326	/e-raport/public/asset/custom/animate.css
+1	2	0	0	0	28037955	0	0	28036007	0	0	5264	/cPanel_magic_revision_1650472201/unprotected/cpanel/images/cpanel-logo.svg
+1	5	5	0	0	28144742	0	0	28083571	0	0	2562	/raport/?MA
+1	0	0	0	4	0	0	28038459	0	0	28038459	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=19643228
+1	4	0	0	1	28037955	0	28034071	28036007	0	28034071	48424	/index_sso.php
+1	1	0	0	0	28076195	0	0	28076195	0	0	18547	/e-raport/courses?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=teacher&columns[2][name]=teacher&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=classes&columns[3][name]=classes&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=status&columns[4][name]=status&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485306489
+1	0	0	2	0	0	28076194	0	0	28076194	0	0	/e-raport/teachers/kepin-waluyo-l6Qb2
+1	1	0	0	0	28076193	0	0	28076193	0	0	48368	/e-raport/public/asset/js/flatpickr.js
+1	0	0	0	5	0	0	28095474	0	0	28095474	0	/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=23334831
+1	0	0	1	0	0	28080355	0	0	28080355	0	0	/e-raport?104.223.92.177
+1	6	0	0	0	28146369	0	0	28076101	0	0	9940	/e-raport/public/asset/img/255x255.jpg
+1	0	0	0	1	0	0	28076195	0	0	28076195	0	/e-raport/manage-p5/assets/img/favicon.ico
+1	8	8	0	14	28037955	0	28037955	28036007	0	28034071	96828	/axis2/
+1	1	0	0	0	28122036	0	0	28122036	0	0	39900	/e-raport/public/logo/20230620111922p5AuI.png
+1	1	0	0	0	28121990	0	0	28121990	0	0	5106	/e-raport/levels
+1	1	0	0	0	28076202	0	0	28076202	0	0	1032	/e-raport/manage-p5?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=tema&columns[1][name]=tema&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=title&columns[2][name]=title&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=teacher&columns[3][name]=teacher&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=class&columns[4][name]=class&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=sub_element_count&columns[5][name]=sub_element_count&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&columns[6][data]=action&columns[6][name]=action&columns[6][searchable]=true&columns[6][orderable]=true&columns[6][search][value]=&columns[6][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485777626
+1	34	0	0	0	28156622	0	0	28106038	0	0	11322	/_autoindex/assets/icons/folder-fill.svg
+1	1	0	0	0	28076193	0	0	28076193	0	0	18406	/e-raport/teachers?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=nip&columns[2][name]=nip&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=email&columns[3][name]=email&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=phone&columns[4][name]=phone&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485214498
+1	0	0	0	3	0	0	28078278	0	0	28076850	0	/sitemap_index.xml
+1	38	0	0	0	28156622	0	0	28106037	0	0	79069	/_autoindex/assets/js/tablesort.js
+1	0	0	0	18	0	0	28155405	0	0	28070458	0	/e-raport/assets/img/favicon.ico
+1	28	0	0	0	28155192	0	0	28070458	0	0	307109	/e-raport/public/asset/js/popper.min.js
+1	0	0	0	4	0	0	28078897	0	0	28076828	0	/sitemaps.xml
+1	0	0	0	4	0	0	28078893	0	0	28076836	0	/atom.xml
+1	22	22	0	3	28151657	0	28148474	28041826	0	28068911	51266	/?104.223.92.177
+1	28	0	0	0	28155192	0	0	28070458	0	0	860459	/e-raport/public/asset/js/bootstrap.min.js
+1	4	0	0	1	28037955	0	28034071	28036007	0	28034071	48456	/phpmyadmin/index.php
+1	5	0	0	0	28065777	0	0	28035537	0	0	113300	/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff
+1	1	0	0	0	28076203	0	0	28076203	0	0	908	/e-raport/setting-score/score?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=email&columns[2][name]=email&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=&columns[3][name]=place_and_date_of_birth&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=score&columns[4][name]=score&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1684485794370
+1	1	0	0	0	28121994	0	0	28121994	0	0	1763	/e-raport/classes?draw=1&columns[0][data]=DT_RowIndex&columns[0][name]=DT_RowIndex&columns[0][searchable]=false&columns[0][orderable]=false&columns[0][search][value]=&columns[0][search][regex]=false&columns[1][data]=name&columns[1][name]=name&columns[1][searchable]=true&columns[1][orderable]=true&columns[1][search][value]=&columns[1][search][regex]=false&columns[2][data]=level.name&columns[2][name]=level.name&columns[2][searchable]=true&columns[2][orderable]=true&columns[2][search][value]=&columns[2][search][regex]=false&columns[3][data]=major.name&columns[3][name]=major.name&columns[3][searchable]=true&columns[3][orderable]=true&columns[3][search][value]=&columns[3][search][regex]=false&columns[4][data]=status&columns[4][name]=status&columns[4][searchable]=true&columns[4][orderable]=true&columns[4][search][value]=&columns[4][search][regex]=false&columns[5][data]=action&columns[5][name]=action&columns[5][searchable]=true&columns[5][orderable]=true&columns[5][search][value]=&columns[5][search][regex]=false&order[0][column]=0&order[0][dir]=asc&start=0&length=10&search[value]=&search[regex]=false&_=1687233273265
+1	6	0	0	0	28076206	0	0	28076198	0	0	181558	/e-raport/statistic
+3	0	0	0	3	0	0	28039408	0	0	28039408	0	https://sdn1kalibagorkebumen.sch.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=18170974
+3	6	0	0	0	28065776	0	0	28065776	0	0	4794	https://webmail.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1680718859/unprotected/cpanel/style_v2_optimized.css
+3	2	0	0	0	28076201	0	0	28076201	0	0	29302	https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/list-competence
+3	11	0	0	6	28095476	0	28095476	28076321	0	28095476	367298410	https://sdn1kalibagorkebumen.sch.id/e-raport.zip
+3	5	0	0	0	28114224	0	0	28114224	0	0	4316	https://sdn1kalibagorkebumen.sch.id/?MD
+3	73	0	0	0	28155192	0	0	28070458	0	0	1003195	https://sdn1kalibagorkebumen.sch.id/e-raport/public/asset/css/plugins.css
+3	1	1	0	0	28065119	0	0	28065119	0	0	12071	http://cpanel.sdn1kalibagorkebumen.sch.id/
+3	5	0	2	7	28076194	28076194	28076194	28076193	28076194	28076193	156841	https://sdn1kalibagorkebumen.sch.id/e-raport/teachers/kepin-waluyo-l6Qb2/edit
+3	8	0	0	2	28140858	0	28140858	28076195	0	28076195	167457	https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/competence
+3	3	0	0	1	28076195	0	28076195	28076195	0	28076195	132647	https://sdn1kalibagorkebumen.sch.id/e-raport/manage-p5/create
+3	6	0	0	5	28076110	0	28076103	28076102	0	28076102	79166	https://sdn1kalibagorkebumen.sch.id/e-raport/users/create
+3	2	0	0	0	28121990	0	0	28121990	0	0	6449	https://sdn1kalibagorkebumen.sch.id/e-raport/levels
+3	0	0	0	3	0	0	28099036	0	0	28099036	0	https://sdn1kalibagorkebumen.sch.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=11838546
+3	1	0	1	4	28076195	28076195	28076194	28076195	28076195	28076194	36934	https://sdn1kalibagorkebumen.sch.id/e-raport/teachers/kepin-waluyo-sqfHz/edit
+3	1	1	0	0	28059686	0	0	28059686	0	0	12074	http://webmail.sdn1kalibagorkebumen.sch.id/
+3	26	0	2	0	28146374	28146374	0	28076101	28076131	0	372562	https://sdn1kalibagorkebumen.sch.id/e-raport/dashboard
+3	184	89	0	36	28155192	0	28155192	28037726	0	28035694	205896356	https://sdn1kalibagorkebumen.sch.id/
+3	25	25	0	0	28097996	0	0	28037727	0	0	21775	http://sdn1kalibagorkebumen.sch.id/e-raport/
+3	1	1	0	0	28039707	0	0	28039707	0	0	799	https://sdn1kalibagorkebumen.sch.id/raport/?C=N;O=A
+3	1	0	1	1	28076197	28076197	28076196	28076197	28076197	28076196	36932	https://sdn1kalibagorkebumen.sch.id/e-raport/teachers/create
+3	2	2	0	0	28037955	0	0	28036007	0	0	24209	http://webmail.sdn1kalibagorkebumen.sch.id/axis2/
+3	26	0	2	0	28076201	28076201	0	28076201	28076201	0	126233	https://sdn1kalibagorkebumen.sch.id/e-raport/courses/matematika-zOCNi
+3	9	0	3	0	28122151	28122036	0	28121990	28121994	0	26279	https://sdn1kalibagorkebumen.sch.id/e-raport/classes
+3	0	0	0	4	0	0	28095406	0	0	28095406	0	https://sdn1kalibagorkebumen.sch.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=22421450
+3	1	0	0	0	28076206	0	0	28076206	0	0	27602	https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/description
+3	2	2	0	0	28037955	0	0	28036007	0	0	24217	http://webmail.sdn1kalibagorkebumen.sch.id/axis2-admin/
+3	13	13	0	0	28155192	0	0	28080058	0	0	11391	https://www.google.com/
+3	9	0	1	2	28076210	28076210	28076206	28076195	28076210	28076203	108608	https://sdn1kalibagorkebumen.sch.id/e-raport/manage-p5
+3	2	2	0	0	28037955	0	0	28036007	0	0	24203	http://cpanel.sdn1kalibagorkebumen.sch.id/axis2/
+3	0	0	0	3	0	0	28037727	0	0	28037727	0	https://sdn1kalibagorkebumen.sch.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=18370650
+3	0	0	0	2	0	0	28037955	0	0	28036007	0	http://webdisk.sdn1kalibagorkebumen.sch.id/axis2/axis2-admin/
+3	1	0	0	0	28146369	0	0	28146369	0	0	2485	https://sdn1kalibagorkebumen.sch.id/e-raport/public/asset/css/structure.css
+3	10	10	0	0	28146369	0	0	28060009	0	0	8266	http://sdn1kalibagorkebumen.sch.id/
+3	7	0	0	0	28121990	0	0	28121990	0	0	124226	https://sdn1kalibagorkebumen.sch.id/e-raport/majors
+3	12	0	0	2	28076206	0	28076203	28076201	0	28076203	149166	https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/score
+3	6	1	0	4	28115280	0	28115280	28059327	0	28059326	4918	https://www.sdn1kalibagorkebumen.sch.id/
+3	9	0	0	0	28065776	0	0	28035537	0	0	108321	https://webmail.sdn1kalibagorkebumen.sch.id/
+3	0	0	0	2	0	0	28095472	0	0	28095472	0	https://sdn1kalibagorkebumen.sch.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=8596819
+3	6	0	0	0	28065777	0	0	28062434	0	0	136000	https://cpanel.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+3	1	1	0	0	28039707	0	0	28039707	0	0	602	https://sdn1kalibagorkebumen.sch.id/raport/?C=M;O=A
+3	1	0	0	0	28118824	0	0	28118824	0	0	328	https://sdn1kalibagorkebumen.sch.id/raport/?SA
+3	6	0	0	0	28065777	0	0	28062434	0	0	72680	https://cpanel.sdn1kalibagorkebumen.sch.id/
+3	2	2	0	0	28037955	0	0	28036007	0	0	24219	http://cpanel.sdn1kalibagorkebumen.sch.id/axis2/axis2-admin/
+3	9	0	0	0	28065776	0	0	28035537	0	0	204000	https://webmail.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+3	3	0	0	0	28141228	0	0	28118604	0	0	3629	https://sdn1kalibagorkebumen.sch.id/?SD
+3	6	0	0	0	28118915	0	0	28118558	0	0	2866	https://sdn1kalibagorkebumen.sch.id/?SA
+3	1	0	0	1	28076200	0	28076200	28076200	0	28076200	40074	https://sdn1kalibagorkebumen.sch.id/e-raport/courses/create
+3	0	0	0	5	0	0	28083197	0	0	28083197	0	https://sdn1kalibagorkebumen.sch.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=17723889
+3	0	0	0	2	0	0	28065852	0	0	28036488	0	http://webdisk.sdn1kalibagorkebumen.sch.id/
+3	2	0	1	1	28121994	28121994	28121993	28121993	28121994	28121993	6023	https://sdn1kalibagorkebumen.sch.id/e-raport/classes/create
+3	2	2	0	0	28037955	0	0	28036007	0	0	24214	http://cpanel.sdn1kalibagorkebumen.sch.id/axis2-admin/
+3	7	0	4	1	28076206	28076206	28076198	28076199	28076199	28076198	169995	https://sdn1kalibagorkebumen.sch.id/e-raport/statistic
+3	0	0	0	4	0	0	28037727	0	0	28037727	0	https://sdn1kalibagorkebumen.sch.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=19301639
+3	14	0	12	3	28122151	28076206	28146374	28076131	28076131	28076131	454392	https://sdn1kalibagorkebumen.sch.id/e-raport/auth/login
+3	0	0	0	2	0	0	28037955	0	0	28036007	0	http://webdisk.sdn1kalibagorkebumen.sch.id/axis2/
+3	3	0	1	4	28076195	28076195	28076196	28076195	28076195	28076195	28000	https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/competence/create?course=bahasa-indonesia-kEbtn&study_class=kelas-2-pByjP&teacher=budi-prihatin-rtHCO
+3	10	0	1	0	28076197	28076197	0	28076193	28076197	0	300888	https://sdn1kalibagorkebumen.sch.id/e-raport/teachers
+3	5	0	0	1	28076206	0	28076203	28076202	0	28076203	145536	https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/score-competency
+3	14	0	0	0	28065777	0	0	28062434	0	0	11388	https://cpanel.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1680718859/unprotected/cpanel/style_v2_optimized.css
+3	1	1	0	0	28039707	0	0	28039707	0	0	602	https://sdn1kalibagorkebumen.sch.id/raport/?C=D;O=A
+3	287	13	4	51	28155192	28146369	28155192	28070458	28076101	28037728	5563881	https://sdn1kalibagorkebumen.sch.id/e-raport/
+3	0	0	0	2	0	0	28037955	0	0	28036007	0	http://webdisk.sdn1kalibagorkebumen.sch.id/axis2-admin/
+3	12	0	0	0	28041826	0	0	28035537	0	0	9588	https://webmail.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1676830268/unprotected/cpanel/style_v2_optimized.css
+3	10	0	0	0	28076200	0	0	28076195	0	0	300098	https://sdn1kalibagorkebumen.sch.id/e-raport/courses
+3	59	41	0	6	28155192	0	28088027	28037727	0	28037968	38718	https://sdn1kalibagorkebumen.sch.id/raport/
+3	2	2	0	0	28037955	0	0	28036007	0	0	24220	http://webmail.sdn1kalibagorkebumen.sch.id/axis2/axis2-admin/
+3	29	0	1	0	28076200	28076200	0	28076200	28076200	0	325791	https://sdn1kalibagorkebumen.sch.id/e-raport/courses/bahasa-indonesia-kEbtn
+3	7	0	0	0	28076103	0	0	28076102	0	0	573402	https://sdn1kalibagorkebumen.sch.id/e-raport/users
+3	0	0	0	4	0	0	28038459	0	0	28038459	0	https://sdn1kalibagorkebumen.sch.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f?wsidchk=19643228
+3	5	0	0	0	28118542	0	0	28118542	0	0	4316	https://sdn1kalibagorkebumen.sch.id/?ND
+3	1	0	0	1	28076202	0	28076202	28076202	0	28076202	28161	https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/assesment-weight/uas?study_class=kelas-3-jCGkB
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/583.48 (KHTML, like Gecko) Chrome/86.0.1771 Safari/537.36
+4	4	4	0	3	28146438	0	28146443	28146070	0	28146017	25645	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+4	1	1	0	0	28034070	0	0	28034070	0	0	799	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_1_2) AppleWebKit/582.51 (KHTML, like Gecko) Chrome/107.0.966 Safari/537.36
+4	1	1	0	0	28152312	0	0	28152312	0	0	1735	Mozilla/5.0 (Linux; Android 13; RMX3392) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/539.53 (KHTML, like Gecko) Chrome/93.0.662 Safari/537.36
+4	1	0	0	0	28095380	0	0	28095380	0	0	36729841	Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0
+4	3	3	0	0	28038875	0	0	28036354	0	0	2397	Apache-HttpClient/5.1.4 (Java/11.0.18)
+4	5	5	0	5	28095407	0	28037730	28040416	0	28037728	10049	Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+4	23	22	0	28	28095471	0	28060046	28039706	0	28039706	36751880	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+4	5	5	0	2	28041340	0	28037727	28037727	0	28037727	3798	Mozilla/5.0 (Android 13; Mobile; rv:109.0) Gecko/111.0 Firefox/111.0
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_2_1) AppleWebKit/582.44 (KHTML, like Gecko) Chrome/87.0.1100 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1) AppleWebKit/590.44 (KHTML, like Gecko) Chrome/87.0.1301 Safari/537.36
+4	0	0	0	1	0	0	28034070	0	0	28034070	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_1_1) AppleWebKit/579.54 (KHTML, like Gecko) Chrome/78.0.593 Safari/537.36
+4	15	13	0	3	28095474	0	28095476	28037728	0	28038459	36751334	Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36
+4	7	7	0	2	28095474	0	28095474	28064476	0	28083197	11793	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+4	0	0	0	1	0	0	28084612	0	0	28084612	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.126 Safari/537.36
+4	1	1	0	0	28038295	0	0	28038295	0	0	799	UCWEB/2.0 (Java; U; MIDP-2.0; Nokia203/20.37) U2/1.0.0 UCMini/10.9.8.1006 (SpeedMode; Proxy; Android 4.4.4; HTC_Desire_601_dual_sim ) U2/1.0.0 Mobile
+4	0	0	0	14	0	0	28155405	0	0	28073425	0	Googlebot-Image/1.0
+4	1	0	0	0	28036007	0	0	28036007	0	0	12108	Mozilla/5.0 (Windows NT 7_0_2; Win64; x64) AppleWebKit/546.36 (KHTML, like Gecko) Chrome/66.0.2805 Safari/537.36
+4	1	0	0	0	28036007	0	0	28036007	0	0	12108	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.44 (KHTML, like Gecko) Chrome/55.0.64 Safari/537.36
+4	39	0	0	0	28116888	0	0	28114119	0	0	211374	Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/112.0.5615.142 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_1_2) AppleWebKit/572.43 (KHTML, like Gecko) Chrome/84.0.824 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_2) AppleWebKit/564.39 (KHTML, like Gecko) Chrome/84.0.2725 Safari/537.36
+4	1	0	0	0	28036007	0	0	28036007	0	0	52	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/568.39 (KHTML, like Gecko) Chrome/99.0.1915 Safari/537.36
+4	1	1	0	0	28036807	0	0	28036807	0	0	799	Mozilla/5.0 (Linux; Android 4.4.2; Nexus 10 Build/LMY49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+4	1	0	0	0	28036007	0	0	28036007	0	0	12106	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1) AppleWebKit/548.41 (KHTML, like Gecko) Chrome/91.0.2343 Safari/537.36
+4	3	3	0	0	28097339	0	0	28064934	0	0	1958	webprosbot/2.0 (+mailto:abuse-6337@webpros.com)
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0) AppleWebKit/537.51 (KHTML, like Gecko) Chrome/68.0.1672 Safari/537.36
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/566.40 (KHTML, like Gecko) Chrome/74.0.15 Safari/537.36
+4	1	1	0	0	28152312	0	0	28152312	0	0	1735	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+4	0	0	0	1	0	0	28037024	0	0	28037024	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_2) AppleWebKit/570.39 (KHTML, like Gecko) Chrome/97.0.1087 Safari/537.36
+4	1	1	0	0	28071406	0	0	28071406	0	0	799	Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+4	1	0	0	0	28036007	0	0	28036007	0	0	52	Mozilla/5.0 (Windows NT 8_2_1; Win64; x64) AppleWebKit/567.36 (KHTML, like Gecko) Chrome/104.0.629 Safari/537.36
+4	1	1	0	0	28037955	0	0	28037955	0	0	799	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0) AppleWebKit/565.47 (KHTML, like Gecko) Chrome/107.0.1901 Safari/537.36
+4	0	0	0	1	0	0	28037968	0	0	28037968	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+4	1	0	0	0	28037955	0	0	28037955	0	0	12103	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/589.37 (KHTML, like Gecko) Chrome/64.0.373 Safari/537.36
+4	1	1	0	0	28081543	0	0	28081543	0	0	12074	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+4	1	1	0	0	28064878	0	0	28064878	0	0	799	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/565.48 (KHTML, like Gecko) Chrome/94.0.1666 Safari/537.36
+4	4	4	0	2	28040418	0	28040418	28037727	0	28040418	2802	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/538.46 (KHTML, like Gecko) Chrome/52.0.2636 Safari/537.36
+4	1	0	0	0	28037955	0	0	28037955	0	0	12108	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_2_2) AppleWebKit/545.50 (KHTML, like Gecko) Chrome/97.0.2033 Safari/537.36
+4	1	0	0	0	28037955	0	0	28037955	0	0	26	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_2) AppleWebKit/570.40 (KHTML, like Gecko) Chrome/103.0.1958 Safari/537.36
+4	0	0	0	1	0	0	28036080	0	0	28036080	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2) AppleWebKit/577.48 (KHTML, like Gecko) Chrome/107.0.2568 Safari/537.36
+4	41	3	0	2	28065777	0	28065776	28062434	0	28036488	365195	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.121 Safari/537.36
+4	2	2	0	0	28037769	0	0	28037434	0	0	1401	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+4	1	0	0	0	28037955	0	0	28037955	0	0	12109	Mozilla/5.0 (Windows NT 8_1; Win64; x64) AppleWebKit/537.52 (KHTML, like Gecko) Chrome/69.0.2285 Safari/537.36
+4	1	0	0	0	28037955	0	0	28037955	0	0	2632	Mozilla/5.0 (Windows NT 8_1; Win64; x64) AppleWebKit/550.50 (KHTML, like Gecko) Chrome/76.0.756 Safari/537.36
+4	4	0	0	0	28135211	0	0	28132832	0	0	1209	Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/114.0.5735.179 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (Windows NT 9_2; Win64; x64) AppleWebKit/557.51 (KHTML, like Gecko) Chrome/76.0.2067 Safari/537.36
+4	8	7	0	4	28099035	0	28095474	28037727	0	28037727	36735203	Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+4	1	1	0	0	28035537	0	0	28035537	0	0	12102	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+4	4	4	0	3	28041340	0	28040418	28037727	0	28037728	3196	Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+4	1	1	0	0	28037955	0	0	28037955	0	0	12095	Mozilla/5.0 (Windows NT 8_1; Win64; x64) AppleWebKit/566.41 (KHTML, like Gecko) Chrome/90.0.1683 Safari/537.36
+4	7	7	0	4	28065848	0	28065852	28059382	0	28060710	50691	Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/574.40 (KHTML, like Gecko) Chrome/97.0.1938 Safari/537.36
+4	0	0	0	2	0	0	28121833	0	0	28113769	0	Chrome Privacy Preserving Prefetch Proxy
+4	6	1	0	1	28115280	0	28115280	28115280	0	28115280	4917	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43
+4	3	3	0	4	28040416	0	28040418	28037726	0	28037727	2200	Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+4	2	2	0	1	28095474	0	28095476	28095403	0	28095476	7832	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+4	1	1	0	0	28036007	0	0	28036007	0	0	12100	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/588.49 (KHTML, like Gecko) Chrome/100.0.592 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0_1) AppleWebKit/602.54 (KHTML, like Gecko) Chrome/65.0.1470 Safari/537.36
+4	1	1	0	0	28037955	0	0	28037955	0	0	12101	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_1) AppleWebKit/602.53 (KHTML, like Gecko) Chrome/97.0.570 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_2) AppleWebKit/548.46 (KHTML, like Gecko) Chrome/88.0.1026 Safari/537.36
+4	2	2	0	0	28096212	0	0	28096212	0	0	1958	python-httpx/0.22.0
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_2_2) AppleWebKit/583.41 (KHTML, like Gecko) Chrome/86.0.970 Safari/537.36
+4	4	4	0	2	28144743	0	28144742	28035515	0	28144742	25371	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+4	0	0	0	1	0	0	28037024	0	0	28037024	0	Mozilla/5.0 (Windows NT 9_0_1; Win64; x64) AppleWebKit/543.55 (KHTML, like Gecko) Chrome/55.0.1724 Safari/537.36
+4	1	1	0	0	28037955	0	0	28037955	0	0	799	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0_2) AppleWebKit/545.41 (KHTML, like Gecko) Chrome/86.0.2906 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/589.46 (KHTML, like Gecko) Chrome/76.0.2340 Safari/537.36
+4	19	19	0	8	28065523	0	28065641	28042351	0	28042351	558109	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+4	1	0	0	0	28036007	0	0	28036007	0	0	12105	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_1_2) AppleWebKit/583.38 (KHTML, like Gecko) Chrome/61.0.2673 Safari/537.36
+4	1	1	0	0	28035419	0	0	28035419	0	0	799	UCWEB/2.0 (Java; U; MIDP-2.0; Nokia203/20.37) U2/1.0.0 UCMini/11.0.6.1040 (SpeedMode; Proxy; Android 5.0; SM-J727T1 ) U2/1.0.0 Mobile
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/583.46 (KHTML, like Gecko) Chrome/77.0.183 Safari/537.36
+4	2	2	0	2	28095469	0	28095476	28076320	0	28095474	1958	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/561.42 (KHTML, like Gecko) Chrome/73.0.513 Safari/537.36
+4	14	12	0	0	28144742	0	0	28144742	0	0	10200	Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1041.0 Safari/535.21
+4	11	11	0	5	28153432	0	28153331	28100210	0	28099778	192680	Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+4	1	1	0	1	28084513	0	28084513	28084513	0	28084513	979	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+4	1	0	0	0	28036007	0	0	28036007	0	0	2632	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/580.51 (KHTML, like Gecko) Chrome/98.0.40 Safari/537.36
+4	4	3	0	1	28095474	0	28095406	28095403	0	28095406	36732401	Mozilla/5.0 (Android 13; Mobile; rv:109.0) Gecko/113.0 Firefox/113.0
+4	2	1	0	2	28095469	0	28095474	28095407	0	28095472	36730820	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+4	2	2	0	3	28068596	0	28099036	28068543	0	28068543	1598	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+4	8	6	0	3	28095474	0	28038459	28037726	0	28037727	73482818	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+4	1	1	0	0	28036007	0	0	28036007	0	0	12100	Mozilla/5.0 (Windows NT 8_2_1; Win64; x64) AppleWebKit/599.50 (KHTML, like Gecko) Chrome/70.0.1592 Safari/537.36
+4	1	1	0	1	28035694	0	28035694	28035694	0	28035694	799	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0
+4	3	3	0	0	28140026	0	0	28100581	0	0	2697	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/534.1
+4	2	2	0	0	28084890	0	0	28084800	0	0	1958	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.126 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	3	3	0	0	28070257	0	0	28040416	0	0	2200	Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Safari/604.1
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0) AppleWebKit/556.42 (KHTML, like Gecko) Chrome/105.0.1004 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/560.54 (KHTML, like Gecko) Chrome/104.0.2366 Safari/537.36
+4	1	1	0	0	28036007	0	0	28036007	0	0	799	Mozilla/5.0 (Windows NT 7_1_1; Win64; x64) AppleWebKit/594.50 (KHTML, like Gecko) Chrome/97.0.2996 Safari/537.36
+4	1	1	0	0	28036005	0	0	28036005	0	0	799	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:82.0) Gecko/20100101 Firefox/82.0
+4	13	1	0	1	28041826	0	28041831	28041826	0	28041831	120999	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.121 Safari/537.36
+4	2	2	0	0	28120995	0	0	28107605	0	0	1479	Mozilla/5.0 (Macintosh; Intel Mac OS X 13_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+4	21	5	0	3	28095471	0	28095476	28086171	0	28086171	510150	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+4	1	1	0	0	28035694	0	0	28035694	0	0	799	Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+4	1	1	0	0	28099035	0	0	28099035	0	0	979	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (Windows NT 8_2_1; Win64; x64) AppleWebKit/600.50 (KHTML, like Gecko) Chrome/72.0.692 Safari/537.36
+4	1	0	0	0	28036007	0	0	28036007	0	0	12112	Mozilla/5.0 (Windows NT 7_0; Win64; x64) AppleWebKit/553.48 (KHTML, like Gecko) Chrome/81.0.2991 Safari/537.36
+4	1	0	0	0	28037955	0	0	28037955	0	0	12110	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/538.45 (KHTML, like Gecko) Chrome/93.0.612 Safari/537.36
+4	20	20	2	0	28119169	28117023	0	28113553	28113981	0	13141	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	44	24	0	47	28037955	0	28037955	28036007	0	28034071	532813	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+4	0	0	0	1	0	0	28036080	0	0	28036080	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1) AppleWebKit/564.38 (KHTML, like Gecko) Chrome/54.0.416 Safari/537.36
+4	0	0	0	1	0	0	28088727	0	0	28088727	0	Mozilla/5.0 (Macintosh; PPC Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+4	3	3	0	0	28066083	0	0	28034845	0	0	2397	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+4	1	1	0	0	28036080	0	0	28036080	0	0	799	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_1) AppleWebKit/573.41 (KHTML, like Gecko) Chrome/97.0.1661 Safari/537.36
+4	1	0	0	0	28037955	0	0	28037955	0	0	26	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0_2) AppleWebKit/562.37 (KHTML, like Gecko) Chrome/56.0.1599 Safari/537.36
+4	2	2	0	0	28060149	0	0	28060148	0	0	1598	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+4	3	2	0	3	28142550	0	28068911	28065838	0	28065838	24957	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+4	61	61	0	25	28156163	0	28156163	28039523	0	28039523	49038	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+4	1	0	0	0	28036007	0	0	28036007	0	0	2399	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/553.55 (KHTML, like Gecko) Chrome/62.0.647 Safari/537.36
+4	9	7	0	5	28042858	0	28042858	28034671	0	28035538	52407	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+4	24	24	0	26	28155043	0	28156128	28073425	0	28073424	24996	Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	31	31	0	7	28154687	0	28148525	28036232	0	28038758	91900	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+4	5	4	0	4	28095476	0	28040418	28040417	0	28037728	3196	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+4	0	0	0	8	0	0	28145934	0	0	28067671	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+4	1	1	0	0	28144741	0	0	28144741	0	0	739	Go-http-client/1.1
+4	0	0	0	1	0	0	28037024	0	0	28037024	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/593.55 (KHTML, like Gecko) Chrome/97.0.2114 Safari/537.36
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_1) AppleWebKit/568.45 (KHTML, like Gecko) Chrome/81.0.304 Safari/537.36
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/549.40 (KHTML, like Gecko) Chrome/91.0.718 Safari/537.36
+4	6	6	0	7	28040417	0	28099036	28037727	0	28037727	4203	Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_1) AppleWebKit/569.51 (KHTML, like Gecko) Chrome/105.0.1843 Safari/537.36
+4	1	0	0	0	28037955	0	0	28037955	0	0	12099	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_2) AppleWebKit/583.49 (KHTML, like Gecko) Chrome/82.0.588 Safari/537.36
+4	0	0	0	2	0	0	28037769	0	0	28037434	0	curl/7.58.0
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_1_1) AppleWebKit/582.41 (KHTML, like Gecko) Chrome/78.0.289 Safari/537.36
+4	4	4	0	2	28095472	0	28095474	28083194	0	28083197	3539	Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/571.50 (KHTML, like Gecko) Chrome/98.0.877 Safari/537.36
+4	0	0	0	1	0	0	28040418	0	0	28040418	0	Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+4	1	1	0	0	28084608	0	0	28084608	0	0	36913	Mozilla/5.0 (compatible)
+4	1	0	0	0	28036007	0	0	28036007	0	0	52	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0_2) AppleWebKit/536.43 (KHTML, like Gecko) Chrome/51.0.2213 Safari/537.36
+4	72	20	2	0	28156233	28141770	0	28132201	28141138	0	287833	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.179 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (Windows NT 9_0_1; Win64; x64) AppleWebKit/597.52 (KHTML, like Gecko) Chrome/96.0.572 Safari/537.36
+4	7	7	0	1	28113770	0	28088027	28088027	0	28088027	7035	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/584.53 (KHTML, like Gecko) Chrome/75.0.891 Safari/537.36
+4	0	0	0	1	0	0	28034070	0	0	28034070	0	Mozilla/5.0 (Windows NT 7_1; Win64; x64) AppleWebKit/563.39 (KHTML, like Gecko) Chrome/56.0.2589 Safari/537.36
+4	9	9	0	3	28099035	0	28095406	28037727	0	28037968	13768	Mozilla/5.0
+4	1	0	0	0	28036007	0	0	28036007	0	0	52	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/596.36 (KHTML, like Gecko) Chrome/66.0.2692 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/575.45 (KHTML, like Gecko) Chrome/89.0.1330 Safari/537.36
+4	1	0	0	0	28037955	0	0	28037955	0	0	12104	Mozilla/5.0 (Windows NT 9_0; Win64; x64) AppleWebKit/593.44 (KHTML, like Gecko) Chrome/59.0.110 Safari/537.36
+4	2	1	0	0	28076322	0	0	28070257	0	0	36730640	Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4590.2 Mobile Safari/537.36 Chrome-Lighthouse
+4	4	2	0	2	28071243	0	28071243	28066357	0	28066357	48369	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+4	13	1	0	0	28035537	0	0	28035537	0	0	121000	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+4	7	6	0	1	28109120	0	28037728	28040418	0	28037728	36735177	Mozilla/5.0 (feeder.co; Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+4	4	4	0	0	28137487	0	0	28095393	0	0	3437	Mozilla/5.0 (Linux; arm_64; Android 12; CPH2205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.86.00 SA/3 Mobile Safari/537.36
+4	6	5	0	3	28076321	0	28040416	28037967	0	28037968	36733245	Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (Windows NT 7_1; Win64; x64) AppleWebKit/552.42 (KHTML, like Gecko) Chrome/97.0.1671 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/595.44 (KHTML, like Gecko) Chrome/56.0.809 Safari/537.36
+4	1	0	0	0	28037955	0	0	28037955	0	0	26	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0_2) AppleWebKit/587.44 (KHTML, like Gecko) Chrome/105.0.2465 Safari/537.36
+4	5	5	0	2	28152312	0	28099036	28076320	0	28095472	7163	Mozilla/5.0 (Linux; Android 11; M2010J19SI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+4	97	7	2	6	28155192	28146374	28155192	28113173	28146369	28113173	41074681	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+4	5	5	0	0	28153228	0	0	28073425	0	0	3577	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	14	14	0	41	28154324	0	28153661	28084532	0	28076537	11727	Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.5060.134 Safari/537.36
+4	3	3	0	1	28040416	0	28037727	28037727	0	28037727	1806	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0
+4	0	0	0	1	0	0	28095474	0	0	28095474	0	Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1
+4	1	0	0	0	28037955	0	0	28037955	0	0	26	Mozilla/5.0 (Windows NT 9_0_1; Win64; x64) AppleWebKit/538.49 (KHTML, like Gecko) Chrome/95.0.823 Safari/537.36
+4	2	2	0	2	28036352	0	28037808	28034912	0	28034911	1598	curl/7.29.0
+4	1	1	0	1	28035694	0	28035694	28035694	0	28035694	799	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/584.35 (KHTML, like Gecko) Chrome/59.0.2572 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (Windows NT 8_2_2; Win64; x64) AppleWebKit/572.47 (KHTML, like Gecko) Chrome/72.0 Safari/537.36
+4	1	0	0	0	28036007	0	0	28036007	0	0	12103	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/552.45 (KHTML, like Gecko) Chrome/98.0.1169 Safari/537.36
+4	4	4	0	3	28039407	0	28039408	28037966	0	28037968	2999	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (Windows NT 8_1_1; Win64; x64) AppleWebKit/551.36 (KHTML, like Gecko) Chrome/64.0.2190 Safari/537.36
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/570.36 (KHTML, like Gecko) Chrome/94.0.2607 Safari/537.36
+4	0	0	0	1	0	0	28036080	0	0	28036080	0	Mozilla/5.0 (Windows NT 7_2; Win64; x64) AppleWebKit/599.35 (KHTML, like Gecko) Chrome/97.0.97 Safari/537.36
+4	2	2	0	0	28153907	0	0	28133087	0	0	1479	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/588.39 (KHTML, like Gecko) Chrome/81.0.2010 Safari/537.36
+4	6	1	0	1	28132537	0	28132537	28132537	0	28132537	4917	Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+4	25	3	0	2	28121834	0	28121834	28121833	0	28121834	106907	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+4	1	1	0	0	28064476	0	0	28064476	0	0	799	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/540.41 (KHTML, like Gecko) Chrome/68.0.1669 Safari/537.36
+4	3	3	0	0	28040416	0	0	28037966	0	0	2200	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+4	0	0	0	1	0	0	28037955	0	0	28037955	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0) AppleWebKit/551.53 (KHTML, like Gecko) Chrome/91.0.843 Safari/537.36
+4	16	0	0	0	28080194	0	0	28080194	0	0	494232	Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/113.0.5672.92 Safari/537.36
+4	105	18	0	19	28096907	0	28096906	28065690	0	28065690	204235463	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+4	2	2	0	0	28097996	0	0	28097996	0	0	1958	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+4	58	0	0	0	28130641	0	0	28113553	0	0	214019	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.142 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	1	0	0	0	28037955	0	0	28037955	0	0	2399	Mozilla/5.0 (Windows NT 9_0_2; Win64; x64) AppleWebKit/590.41 (KHTML, like Gecko) Chrome/54.0.646 Safari/537.36
+4	13	13	0	7	28109120	0	28095476	28037967	0	28037728	24316	Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1
+4	5	5	0	2	28066083	0	28065180	28034845	0	28059134	2397	Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+4	41	9	2	2	28080355	28080355	28080194	28073424	28075704	28076153	1013738	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	0	1	0	0	28034070	0	0	28034070	0	Mozilla/5.0 (Windows NT 8_0_2; Win64; x64) AppleWebKit/573.41 (KHTML, like Gecko) Chrome/52.0.1680 Safari/537.36
+4	0	0	0	1	0	0	28036007	0	0	28036007	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/553.46 (KHTML, like Gecko) Chrome/68.0.2219 Safari/537.36
+4	5	5	0	0	28130731	0	0	28126372	0	0	2663	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.133 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	313	167	0	91	28156622	0	28156622	28057267	0	28057267	1235397	Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+4	1	1	0	0	28037024	0	0	28037024	0	0	799	Mozilla/5.0 (Windows NT 8_2; Win64; x64) AppleWebKit/594.53 (KHTML, like Gecko) Chrome/67.0.1650 Safari/537.36
+4	275	7	34	41	28140858	28140858	28140858	28076101	28076101	28076101	4931234	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15
+5	0	0	0	1	0	0	28110622	0	0	28110622	0	54.36.148.166
+5	14	2	0	0	28035537	0	0	28035537	0	0	133102	205.169.39.171
+5	1	1	0	0	28113769	0	0	28113769	0	0	1545	193.186.4.147
+5	0	0	0	1	0	0	28152682	0	0	28152682	0	54.36.148.164
+5	1	1	0	0	28037967	0	0	28037967	0	0	602	45.133.172.203
+5	0	0	0	1	0	0	28064691	0	0	28064691	0	87.236.176.41
+5	1	1	0	2	28037966	0	28037968	28037966	0	28037968	799	109.201.130.27
+5	2	1	0	1	28095469	0	28095474	28076321	0	28095474	36730820	106.161.65.206
+5	1	1	0	0	28104227	0	0	28104227	0	0	979	142.93.59.177
+5	2	2	0	1	28071243	0	28071243	28071243	0	28071243	24149	139.59.108.146
+5	1	1	0	0	28099035	0	0	28099035	0	0	979	198.12.64.44
+5	1	1	0	0	28152312	0	0	28152312	0	0	1735	52.25.241.214
+5	1	1	0	0	28084158	0	0	28084158	0	0	979	34.213.118.174
+5	0	0	0	1	0	0	28087401	0	0	28087401	0	54.36.148.146
+5	1	1	0	1	28039407	0	28039408	28039407	0	28039408	799	37.120.149.59
+5	0	0	0	1	0	0	28081568	0	0	28081568	0	54.36.148.145
+5	1	1	0	1	28150435	0	28150434	28150435	0	28150434	741	34.216.93.211
+5	1	1	0	0	28095474	0	0	28095474	0	0	602	68.235.33.170
+5	1	1	0	0	28037728	0	0	28037728	0	0	602	46.166.179.212
+5	1	1	0	0	28064934	0	0	28064934	0	0	0	18.132.14.107
+5	2	2	0	1	28037728	0	28037728	28037727	0	28037728	1401	37.120.149.54
+5	1	1	0	0	28041850	0	0	28041850	0	0	799	46.166.179.211
+5	1	1	0	0	28064476	0	0	28064476	0	0	799	46.166.179.210
+5	1	1	0	0	28100581	0	0	28100581	0	0	979	54.166.9.13
+5	1	1	0	0	28062807	0	0	28062807	0	0	799	87.236.176.17
+5	1	1	0	1	28065291	0	28042351	28065291	0	28042351	36901	51.255.62.13
+5	1	1	0	0	28065291	0	0	28065291	0	0	799	51.255.62.11
+5	0	0	0	1	0	0	28042351	0	0	28042351	0	51.255.62.10
+5	1	1	0	0	28099817	0	0	28099817	0	0	979	167.99.33.227
+5	24	2	0	2	28121834	0	28121834	28121834	0	28121834	106309	114.4.219.99
+5	1	1	0	0	28057479	0	0	28057479	0	0	799	18.237.122.102
+5	1	1	0	11	28034070	0	28034071	28034070	0	28034070	799	106.75.100.243
+5	1	1	0	1	28141677	0	28141677	28141677	0	28141677	739	35.90.117.11
+5	0	0	0	1	0	0	28114549	0	0	28114549	0	54.36.148.97
+5	1	1	0	0	28069504	0	0	28069504	0	0	799	51.15.205.3
+5	1	1	0	0	28059649	0	0	28059649	0	0	799	34.222.131.155
+5	0	0	0	1	0	0	28068911	0	0	28068911	0	167.248.133.124
+5	0	0	0	1	0	0	28155794	0	0	28155794	0	51.158.127.119
+5	0	0	0	2	0	0	28040418	0	0	28040418	0	74.80.181.138
+5	0	0	0	1	0	0	28105062	0	0	28105062	0	54.36.148.108
+5	1	1	0	0	28101529	0	0	28101529	0	0	979	34.241.58.192
+5	1	1	0	1	28037968	0	28037968	28037968	0	28037968	602	82.132.230.198
+5	1	0	0	0	28156622	0	0	28156622	0	0	354	54.36.148.106
+5	0	0	0	1	0	0	28073002	0	0	28073002	0	54.36.148.104
+5	1	1	0	0	28140232	0	0	28140232	0	0	739	54.202.252.104
+5	1	1	0	0	28111562	0	0	28111562	0	0	738	34.212.216.42
+5	1	1	0	1	28058305	0	28058305	28058305	0	28058305	799	54.202.158.26
+5	1	0	0	0	28154609	0	0	28154609	0	0	354	54.36.148.82
+5	1	1	0	0	28146625	0	0	28146625	0	0	12075	68.183.193.180
+5	1	0	0	1	28156622	0	28057267	28156622	0	28057267	333	54.36.148.79
+5	2	2	0	19	28060046	0	28060046	28060009	0	28060009	1598	125.160.96.26
+5	1	1	0	0	28083194	0	0	28083194	0	0	979	173.245.217.21
+5	1	1	0	1	28037726	0	28037727	28037726	0	28037727	799	192.200.158.222
+5	3	3	0	0	28076320	0	0	28060148	0	0	2577	173.245.217.20
+5	1	1	0	0	28095474	0	0	28095474	0	0	602	156.146.63.135
+5	1	1	0	0	28153432	0	0	28153432	0	0	36901	46.51.154.158
+5	2	1	0	2	28095476	0	28095476	28037967	0	28095476	602	205.185.223.3
+5	1	0	0	0	28095474	0	0	28095474	0	0	36729841	35.180.226.146
+5	1	1	0	1	28037727	0	28037727	28037727	0	28037727	602	216.151.180.4
+5	1	1	0	1	28141590	0	28095339	28141590	0	28095339	484	66.249.66.76
+5	2	2	0	1	28141680	0	28095339	28141228	0	28095339	1092	66.249.66.75
+5	1	1	1	0	28075704	28075704	0	28075704	28075704	0	6898	66.249.66.74
+5	0	0	0	1	0	0	28058874	0	0	28058874	0	54.36.148.65
+5	0	0	0	1	0	0	28132432	0	0	28132432	0	54.36.148.64
+5	1	1	0	0	28074333	0	0	28074333	0	0	799	54.189.81.221
+5	0	0	0	1	0	0	28130479	0	0	28130479	0	54.36.148.63
+5	0	0	0	2	0	0	28083531	0	0	28079519	0	54.36.148.58
+5	0	0	0	1	0	0	28146725	0	0	28146725	0	54.36.148.56
+5	1	1	0	0	28106521	0	0	28106521	0	0	12074	68.183.203.155
+5	1	1	0	0	28037434	0	0	28037434	0	0	799	54.244.60.62
+5	38	3	0	2	28096907	0	28096906	28096906	0	28096906	165803191	110.136.218.163
+5	1	1	0	0	28035515	0	0	28035515	0	0	12095	185.65.135.249
+5	1	1	0	0	28037967	0	0	28037967	0	0	799	172.255.125.179
+5	1	1	0	0	28152312	0	0	28152312	0	0	1735	3.122.244.217
+5	0	0	0	1	0	0	28128668	0	0	28128668	0	54.36.148.40
+5	1	0	0	0	28076321	0	0	28076321	0	0	36729841	15.188.77.122
+5	0	0	0	1	0	0	28124795	0	0	28124795	0	54.36.148.38
+5	1	0	0	0	28156622	0	0	28156622	0	0	322	54.36.149.9
+5	0	0	0	1	0	0	28101763	0	0	28101763	0	54.171.183.102
+5	2	2	0	0	28065523	0	0	28042624	0	0	37862	51.254.49.111
+5	1	1	0	0	28065523	0	0	28065523	0	0	799	51.254.49.110
+5	1	1	0	0	28070257	0	0	28070257	0	0	799	3.9.118.189
+5	1	1	0	0	28095474	0	0	28095474	0	0	602	89.44.201.112
+5	0	0	0	1	0	0	28095419	0	0	28095419	0	54.36.149.7
+5	2	2	0	0	28095474	0	0	28095472	0	0	7832	82.132.227.22
+5	0	0	0	1	0	0	28042446	0	0	28042446	0	51.254.49.107
+5	0	0	0	1	0	0	28083197	0	0	28083197	0	172.255.125.168
+5	0	0	0	1	0	0	28042446	0	0	28042446	0	51.254.49.104
+5	1	1	0	0	28065519	0	0	28065519	0	0	36901	51.254.49.103
+5	8	1	0	0	28141228	0	0	28075200	0	0	194249	66.249.66.38
+5	1	1	0	0	28125081	0	0	28125081	0	0	741	138.197.70.104
+5	10	2	0	3	28141770	0	28076405	28074984	0	28075131	294076	66.249.66.37
+5	5	3	0	2	28141500	0	28076134	28075029	0	28076133	18234	66.249.66.36
+5	2	1	0	1	28156622	0	28106974	28154609	0	28106974	922	54.36.148.22
+5	0	0	0	1	0	0	28042351	0	0	28042351	0	51.255.62.7
+5	1	1	0	0	28108728	0	0	28108728	0	0	738	34.221.245.28
+5	1	1	0	1	28040417	0	28040416	28040417	0	28040416	799	13.40.132.91
+5	1	1	0	0	28065291	0	0	28065291	0	0	799	51.255.62.6
+5	1	1	0	0	28064476	0	0	28064476	0	0	799	45.133.173.4
+5	1	1	0	0	28107605	0	0	28107605	0	0	737	34.30.188.227
+5	1	1	0	1	28094361	0	28094361	28094361	0	28094361	979	35.164.16.165
+5	1	1	0	0	28126812	0	0	28126812	0	0	12076	167.99.185.78
+5	2	2	0	0	28042351	0	0	28042351	0	0	74114	51.255.62.2
+5	1	1	0	0	28152450	0	0	28152450	0	0	12075	146.190.117.247
+5	4	4	0	1	28095472	0	28038459	28037967	0	28038459	3179	161.35.246.138
+5	0	0	0	1	0	0	28097636	0	0	28097636	0	54.36.148.10
+5	0	0	0	1	0	0	28153282	0	0	28153282	0	18.202.229.238
+5	2	2	0	2	28040418	0	28040418	28040417	0	28040418	1401	197.242.159.250
+5	1	1	0	0	28041340	0	0	28041340	0	0	799	146.70.101.56
+5	1	1	0	0	28037967	0	0	28037967	0	0	602	146.70.101.55
+5	0	0	0	2	0	0	28037769	0	0	28037434	0	52.88.62.60
+5	0	0	0	1	0	0	28083197	0	0	28083197	0	82.132.214.39
+5	5	4	0	2	28141228	0	28134851	28075131	0	28076495	4676	66.249.66.13
+5	1	1	0	0	28037727	0	0	28037727	0	0	799	31.94.9.27
+5	23	2	2	0	28141680	28141770	0	28134851	28141138	0	106640	66.249.66.12
+5	12	1	0	2	28141138	0	28141138	28134851	0	28095339	64304	66.249.66.11
+5	0	0	0	1	0	0	28099036	0	0	28099036	0	146.70.101.46
+5	0	0	0	1	0	0	28041831	0	0	28041831	0	167.88.7.162
+5	1	1	0	0	28041850	0	0	28041850	0	0	799	197.242.159.238
+5	2	2	0	3	28037728	0	28099036	28037727	0	28037727	1401	185.242.7.134
+5	1	1	0	0	28122934	0	0	28122934	0	0	734	167.172.186.87
+5	2	2	0	1	28095472	0	28095406	28095404	0	28095406	1581	199.254.199.165
+5	1	1	0	1	28110207	0	28110207	28110207	0	28110207	738	54.213.220.10
+5	0	0	0	1	0	0	28132311	0	0	28132311	0	165.22.183.23
+5	0	0	0	1	0	0	28101268	0	0	28101268	0	54.36.149.107
+5	1	0	0	0	28154609	0	0	28154609	0	0	333	54.36.149.105
+5	0	0	0	1	0	0	28075526	0	0	28075526	0	54.36.149.103
+5	0	0	0	1	0	0	28088727	0	0	28088727	0	35.93.48.245
+5	1	1	0	0	28114234	0	0	28114234	0	0	740	209.38.238.169
+5	1	1	0	0	28146052	0	0	28146052	0	0	739	54.190.158.200
+5	3	3	0	1	28074473	0	28073425	28073424	0	28073425	2397	66.249.73.5
+5	1	1	0	1	28102917	0	28102917	28102917	0	28102917	979	54.212.45.101
+5	1	1	0	6	28037024	0	28037024	28037024	0	28037024	799	106.75.16.16
+5	4	4	0	3	28116888	0	28156128	28115759	0	28073424	3124	66.249.73.3
+5	2	2	0	0	28095474	0	0	28095469	0	0	7832	68.183.245.101
+5	0	0	0	1	0	0	28064418	0	0	28064418	0	87.236.176.250
+5	28	6	0	1	28156233	0	28115380	28115605	0	28115380	94758	66.249.73.2
+5	1	1	0	1	28040417	0	28040416	28040417	0	28040416	799	143.244.34.14
+5	21	9	1	2	28136721	28117023	28116663	28073425	28117023	28074383	110323	66.249.73.1
+5	1	1	0	0	28078433	0	0	28078433	0	0	979	35.91.45.176
+5	0	0	0	1	0	0	28148474	0	0	28148474	0	143.110.220.111
+5	2	1	0	0	28126346	0	0	28126346	0	0	920	36.72.213.78
+5	1	1	0	0	28042530	0	0	28042530	0	0	37063	188.165.87.110
+5	2	2	0	0	28065339	0	0	28042416	0	0	73952	188.165.87.109
+5	0	0	0	1	0	0	28034911	0	0	28034911	0	117.187.173.43
+5	1	1	0	0	28042530	0	0	28042530	0	0	37051	188.165.87.105
+5	1	1	0	0	28034912	0	0	28034912	0	0	799	117.187.173.41
+5	3	3	0	0	28153907	0	0	28096047	0	0	2458	93.159.230.90
+5	0	0	0	1	0	0	28042497	0	0	28042497	0	188.165.87.103
+5	1	1	0	0	28112976	0	0	28112976	0	0	740	34.219.59.160
+5	0	0	0	8	0	0	28145934	0	0	28067671	0	138.246.253.24
+5	14	12	0	0	28144742	0	0	28144742	0	0	10200	104.164.173.66
+5	1	1	0	0	28115577	0	0	28115577	0	0	738	93.159.230.87
+5	0	0	0	1	0	0	28065641	0	0	28065641	0	188.165.87.102
+5	1	1	0	1	28148785	0	28148785	28148785	0	28148785	741	34.216.220.200
+5	1	1	0	0	28040416	0	0	28040416	0	0	602	15.237.52.83
+5	1	1	0	0	28069801	0	0	28069801	0	0	799	35.92.173.49
+5	1	1	0	1	28095404	0	28095406	28095404	0	28095406	602	104.129.56.141
+5	1	1	0	0	28153334	0	0	28153334	0	0	36913	34.242.75.24
+5	1	1	0	0	28095407	0	0	28095407	0	0	6853	193.36.118.248
+5	1	1	0	0	28095403	0	0	28095403	0	0	979	191.101.31.32
+5	1	1	0	0	28040418	0	0	28040418	0	0	602	193.36.118.247
+5	1	1	0	1	28100102	0	28100102	28100102	0	28100102	979	35.92.154.206
+5	1	1	0	0	28102916	0	0	28102916	0	0	979	34.221.153.205
+5	7	2	0	1	28113173	0	28113173	28113173	0	28113173	5514	182.2.79.96
+5	1	1	0	0	28144741	0	0	28144741	0	0	739	79.104.53.14
+5	1	1	0	0	28109120	0	0	28109120	0	0	1735	128.90.0.238
+5	1	1	0	0	28063420	0	0	28063420	0	0	799	87.236.176.215
+5	1	1	0	0	28150434	0	0	28150434	0	0	741	35.91.97.67
+5	1	1	0	0	28040416	0	0	28040416	0	0	799	107.150.31.41
+5	19	2	0	9	28070458	0	28070458	28070448	0	28070448	562944	125.160.104.190
+5	1	1	0	0	28151657	0	0	28151657	0	0	741	142.93.152.82
+5	1	0	0	0	28095380	0	0	28095380	0	0	36729841	91.90.42.154
+5	1	1	0	0	28065119	0	0	28065119	0	0	12071	87.236.176.208
+5	1	1	0	1	28037727	0	28037727	28037727	0	28037727	602	13.36.171.254
+5	12	6	0	6	28036007	0	28036007	28036007	0	28036007	121179	106.75.63.211
+5	1	1	0	1	28141678	0	28141678	28141678	0	28141678	739	35.167.61.198
+5	52	2	5	4	28122151	28122036	28122036	28121990	28121990	28121990	567899	125.160.104.182
+5	1	1	0	0	28083194	0	0	28083194	0	0	979	193.36.118.232
+5	5	4	1	1	28080355	28080355	28080355	28079724	28080355	28080355	15646	66.249.79.156
+5	15	2	0	1	28080355	0	28079634	28079679	0	28079634	506173	66.249.79.154
+5	2	2	0	1	28037968	0	28037968	28037967	0	28037968	1204	35.181.6.211
+5	1	1	0	1	28059650	0	28059650	28059650	0	28059650	799	35.89.55.98
+5	1	1	0	0	28059686	0	0	28059686	0	0	12074	87.236.176.201
+5	19	1	0	1	28080355	0	28080194	28079634	0	28080194	484582	66.249.79.152
+5	14	14	0	7	28040854	0	28040854	28039706	0	28039706	9807	36.72.213.38
+5	1	1	0	0	28041850	0	0	28041850	0	0	799	104.129.56.115
+5	1	1	0	0	28100582	0	0	28100582	0	0	979	18.205.25.39
+5	0	0	0	2	0	0	28153025	0	0	28152945	0	52.167.144.138
+5	1	1	0	0	28040416	0	0	28040416	0	0	602	212.102.57.24
+5	0	0	0	1	0	0	28148525	0	0	28148525	0	170.64.164.189
+5	0	0	0	1	0	0	28126372	0	0	28126372	0	66.249.79.143
+5	0	0	0	1	0	0	28037808	0	0	28037808	0	117.187.173.115
+5	1	1	0	0	28128667	0	0	28128667	0	0	734	143.198.28.59
+5	0	0	0	4	0	0	28037729	0	0	28037728	0	84.17.42.35
+5	1	1	0	0	28126372	0	0	28126372	0	0	598	66.249.79.141
+5	0	0	0	1	0	0	28060710	0	0	28060710	0	87.236.176.180
+5	1	1	0	0	28126372	0	0	28126372	0	0	598	66.249.79.140
+5	0	0	0	1	0	0	28066304	0	0	28066304	0	167.94.138.126
+5	1	1	0	0	28146641	0	0	28146641	0	0	744	170.64.129.81
+5	1	1	0	0	28141677	0	0	28141677	0	0	739	34.209.131.35
+5	2	2	0	2	28059327	0	28059327	28059326	0	28059326	1401	36.72.213.25
+5	12	6	0	4	28150838	0	28155719	28074905	0	28062395	33495	51.222.253.9
+5	19	10	0	2	28149235	0	28106037	28059696	0	28064744	134692	51.222.253.8
+5	1	1	0	0	28131618	0	0	28131618	0	0	734	146.190.30.50
+5	12	6	0	4	28150838	0	28111522	28057689	0	28076262	12826	51.222.253.7
+5	13	12	0	3	28149055	0	28143719	28057748	0	28058017	14568	51.222.253.6
+5	60	3	0	2	28155192	0	28155192	28155192	0	28155192	40767236	36.82.99.239
+5	16	6	0	6	28152682	0	28153608	28057349	0	28094667	72497	51.222.253.5
+5	1	0	0	0	28095474	0	0	28095474	0	0	36729841	43.249.128.225
+5	1	1	0	0	28095469	0	0	28095469	0	0	979	64.145.67.9
+5	2	2	0	0	28095406	0	0	28095404	0	0	7832	84.17.42.26
+5	9	4	0	2	28143719	0	28088540	28076288	0	28059696	26639	51.222.253.4
+5	1	1	0	0	28133123	0	0	28133123	0	0	740	18.236.181.164
+5	18	11	0	2	28153608	0	28092674	28057847	0	28090708	44775	51.222.253.3
+5	13	8	0	3	28149235	0	28149949	28057267	0	28067208	12626	51.222.253.2
+5	11	7	0	1	28149235	0	28115539	28058883	0	28115539	22589	51.222.253.1
+5	1	1	0	0	28036352	0	0	28036352	0	0	799	117.187.173.101
+5	1	1	0	0	28137364	0	0	28137364	0	0	741	159.223.43.150
+5	1	1	0	0	28037966	0	0	28037966	0	0	799	157.97.122.9
+5	1	1	0	1	28133124	0	28133124	28133124	0	28133124	740	54.213.168.192
+5	1	1	0	1	28039523	0	28039523	28039523	0	28039523	799	52.43.173.150
+5	2	2	0	2	28068596	0	28068543	28068543	0	28068543	1598	182.1.64.241
+5	0	0	0	1	0	0	28065852	0	0	28065852	0	87.236.176.5
+5	3	3	0	2	28109120	0	28083197	28040417	0	28040416	3513	164.90.241.135
+5	1	1	0	0	28109120	0	0	28109120	0	0	1735	18.170.73.62
+5	2	2	0	0	28095407	0	0	28095403	0	0	7832	3.70.52.200
+5	3	3	0	2	28035694	0	28035694	28035694	0	28035694	2397	34.254.53.125
+5	1	1	0	0	28059382	0	0	28059382	0	0	12073	87.236.176.152
+5	0	0	0	1	0	0	28121786	0	0	28121786	0	40.77.167.248
+5	1	1	0	0	28146070	0	0	28146070	0	0	739	170.64.187.29
+5	6	1	0	1	28115280	0	28115280	28115280	0	28115280	4917	36.72.216.110
+5	1	1	0	1	28146052	0	28146052	28146052	0	28146052	739	54.203.72.40
+5	1	1	0	0	28148786	0	0	28148786	0	0	741	54.189.164.22
+5	1	1	0	0	28153334	0	0	28153334	0	0	1735	52.208.198.60
+5	0	0	0	1	0	0	28095406	0	0	28095406	0	82.64.198.149
+5	0	0	0	1	0	0	28095476	0	0	28095476	0	143.244.40.238
+5	1	1	0	0	28036005	0	0	28036005	0	0	799	208.115.245.106
+5	1	1	0	0	28145636	0	0	28145636	0	0	742	167.71.19.58
+5	1	1	0	0	28076320	0	0	28076320	0	0	979	173.245.202.201
+5	4	4	0	0	28156527	0	0	28069512	0	0	76364	51.15.251.143
+5	1	1	0	0	28138878	0	0	28138878	0	0	739	18.236.191.57
+5	21	4	0	2	28077474	0	28077471	28077471	0	28077471	570624	36.72.215.58
+5	4	3	0	1	28095406	0	28037727	28037727	0	28037727	36738275	216.131.116.87
+5	0	0	0	1	0	0	28114417	0	0	28114417	0	40.77.167.219
+5	0	0	0	1	0	0	28037728	0	0	28037728	0	104.255.169.119
+5	1	1	0	1	28156163	0	28156163	28156163	0	28156163	740	35.89.205.172
+5	0	0	0	1	0	0	28099778	0	0	28099778	0	54.74.17.113
+5	1	1	0	1	28098622	0	28098622	28098622	0	28098622	979	35.90.236.23
+5	1	1	0	0	28144743	0	0	28144743	0	0	602	66.63.167.202
+5	1	1	0	2	28070115	0	28070115	28070115	0	28070115	799	36.72.215.49
+5	1	1	0	0	28134393	0	0	28134393	0	0	738	157.245.93.2
+5	1	1	0	0	28063994	0	0	28063994	0	0	799	54.191.245.69
+5	1	1	0	0	28095407	0	0	28095407	0	0	602	66.115.165.231
+5	1	1	0	0	28037962	0	0	28037962	0	0	799	95.164.156.43
+5	1	1	0	1	28138879	0	28138879	28138879	0	28138879	739	54.200.195.124
+5	1	1	0	1	28042624	0	28042446	28042624	0	28042446	37051	51.254.49.99
+5	2	2	0	0	28143727	0	0	28143619	0	0	1218	40.77.167.195
+5	1	1	0	1	28088027	0	28088027	28088027	0	28088027	602	182.3.199.33
+5	1	1	0	0	28071406	0	0	28071406	0	0	799	198.235.24.112
+5	6	4	0	0	28099035	0	0	28037967	0	0	36733020	87.115.231.172
+5	1	1	0	1	28078434	0	28078434	28078434	0	28078434	979	54.191.52.241
+5	2	1	0	0	28095407	0	0	28095407	0	0	36736694	154.47.20.83
+5	1	1	0	0	28141677	0	0	28141677	0	0	739	34.209.128.200
+5	2	2	0	0	28137487	0	0	28095393	0	0	1720	77.74.177.119
+5	0	0	0	1	0	0	28121786	0	0	28121786	0	40.77.167.181
+5	1	1	0	0	28095474	0	0	28095474	0	0	602	154.47.20.74
+5	0	0	0	1	0	0	28147393	0	0	28147393	0	161.35.162.61
+5	1	1	0	1	28148787	0	28148787	28148787	0	28148787	741	34.221.16.6
+5	1	1	0	0	28110207	0	0	28110207	0	0	738	34.222.116.214
+5	1	1	0	0	28153326	0	0	28153326	0	0	1739	34.242.139.78
+5	1	0	0	0	28095471	0	0	28095471	0	0	36729841	104.244.210.243
+5	1	1	0	0	28145929	0	0	28145929	0	0	12072	143.110.158.227
+5	1	1	0	0	28058305	0	0	28058305	0	0	799	18.246.32.232
+5	36	2	1	3	28140858	28140858	28140858	28140858	28140858	28140858	367423	36.72.217.94
+5	0	0	0	1	0	0	28099036	0	0	28099036	0	154.47.20.54
+5	1	1	0	1	28065690	0	28065690	28065690	0	28065690	799	36.72.217.93
+5	22	5	0	2	28080143	0	28080143	28080058	0	28080058	565684	125.160.104.83
+5	1	1	0	0	28120995	0	0	28120995	0	0	742	195.138.110.9
+5	1	1	0	0	28098621	0	0	28098621	0	0	979	52.38.59.165
+5	0	0	0	1	0	0	28147386	0	0	28147386	0	167.99.217.234
+5	1	1	0	0	28152312	0	0	28152312	0	0	1735	45.254.253.65
+5	1	1	0	0	28099035	0	0	28099035	0	0	979	138.199.22.184
+5	0	0	0	1	0	0	28083197	0	0	28083197	0	154.47.30.161
+5	0	0	0	1	0	0	28037968	0	0	28037968	0	212.102.57.154
+5	3	3	0	0	28095407	0	0	28095404	0	0	8434	138.199.22.175
+5	1	1	0	0	28111372	0	0	28111372	0	0	738	157.230.211.36
+5	1	1	0	1	28122995	0	28122995	28122995	0	28122995	734	34.217.23.16
+5	2	2	0	0	28144815	0	0	28142150	0	0	1488	157.55.39.253
+5	1	1	0	0	28082592	0	0	28082592	0	0	979	174.138.58.214
+5	0	0	0	4	0	0	28108969	0	0	28076537	0	40.77.167.138
+5	1	1	0	2	28099429	0	28099429	28099429	0	28086117	979	66.249.75.156
+5	1	1	0	0	28119992	0	0	28119992	0	0	734	159.203.23.54
+5	13	1	0	0	28065776	0	0	28065775	0	0	120981	65.154.226.170
+5	14	1	0	0	28062434	0	0	28062434	0	0	122107	65.154.226.169
+5	0	0	0	1	0	0	28083197	0	0	28083197	0	138.199.22.165
+5	1	1	0	0	28095403	0	0	28095403	0	0	979	104.152.222.39
+5	0	0	0	1	0	0	28086207	0	0	28086207	0	66.249.75.152
+5	0	0	0	1	0	0	28065776	0	0	28065776	0	65.154.226.168
+5	14	1	0	0	28065777	0	0	28065777	0	0	122107	65.154.226.167
+5	6	4	0	2	28039008	0	28038524	28034671	0	28036349	50010	44.195.244.245
+5	0	0	0	1	0	0	28036488	0	0	28036488	0	65.154.226.166
+5	1	1	0	1	28099429	0	28086117	28099429	0	28086117	979	66.249.75.148
+5	1	1	0	0	28076320	0	0	28076320	0	0	979	13.40.44.182
+5	1	1	0	0	28057449	0	0	28057449	0	0	799	34.212.106.152
+5	6	1	0	1	28132537	0	28132537	28132537	0	28132537	4917	114.79.18.128
+5	3	3	0	3	28042858	0	28042858	28035537	0	28035538	2397	18.204.233.163
+5	1	1	0	0	28064878	0	0	28064878	0	0	799	35.240.198.16
+5	4	4	0	3	28146438	0	28146443	28146070	0	28146017	25645	183.129.153.157
+5	1	1	0	0	28101572	0	0	28101572	0	0	979	54.155.238.46
+5	1	1	0	1	28038457	0	28038459	28038457	0	28038459	799	24.199.69.21
+5	1	1	0	1	28037728	0	28037728	28037728	0	28037728	602	197.242.156.68
+5	12	6	0	3	28154953	0	28155405	28113553	0	28113553	8814	66.249.75.134
+5	4	4	0	3	28041340	0	28095474	28037727	0	28037968	2999	51.178.81.195
+5	35	7	0	5	28154953	0	28153228	28113553	0	28129908	122166	66.249.75.133
+5	1	1	0	0	28144742	0	0	28144742	0	0	12074	66.115.189.178
+5	30	12	0	5	28155043	0	28154863	28113553	0	28113553	105955	66.249.75.132
+5	0	0	0	1	0	0	28095472	0	0	28095472	0	206.189.247.132
+5	0	0	0	1	0	0	28068471	0	0	28068471	0	54.36.149.84
+5	0	0	0	1	0	0	28152219	0	0	28152219	0	157.55.39.225
+5	2	1	0	0	28095474	0	0	28095471	0	0	36730443	102.129.153.191
+5	0	0	0	3	0	0	28150145	0	0	28136766	0	157.55.39.223
+5	1	1	0	0	28095472	0	0	28095472	0	0	979	35.87.41.240
+5	1	1	0	1	28063994	0	28063994	28063994	0	28063994	799	54.212.72.133
+5	0	0	0	1	0	0	28061124	0	0	28061124	0	54.36.149.76
+5	1	1	0	0	28041340	0	0	28041340	0	0	799	198.23.242.157
+5	1	1	0	0	28036232	0	0	28036232	0	0	12100	147.182.220.169
+5	1	1	0	0	28064476	0	0	28064476	0	0	799	198.23.242.156
+5	1	1	0	0	28041340	0	0	28041340	0	0	799	185.108.105.166
+5	0	0	0	1	0	0	28093520	0	0	28093520	0	54.36.149.72
+5	1	1	0	0	28037966	0	0	28037966	0	0	799	185.108.105.165
+5	0	0	0	1	0	0	28089591	0	0	28089591	0	54.36.149.69
+5	1	1	0	0	28154637	0	0	28154637	0	0	739	34.212.72.90
+5	0	0	0	2	0	0	28156622	0	0	28066024	0	54.36.149.67
+5	1	0	0	0	28156622	0	0	28156622	0	0	2137	54.36.149.66
+5	1	1	0	0	28117207	0	0	28117207	0	0	738	159.65.154.8
+5	1	1	0	0	28040418	0	0	28040418	0	0	602	212.103.48.77
+5	1	1	0	0	28094361	0	0	28094361	0	0	979	54.70.145.116
+5	0	0	0	1	0	0	28037968	0	0	28037968	0	38.95.13.131
+5	0	0	0	1	0	0	28084612	0	0	28084612	0	38.132.118.75
+5	0	0	0	1	0	0	28103064	0	0	28103064	0	54.36.149.59
+5	2	0	0	1	28066357	0	28066357	28066357	0	28066357	24220	92.223.85.239
+5	1	1	0	0	28140305	0	0	28140305	0	0	739	64.227.153.205
+5	1	1	0	1	28154609	0	28150837	28154609	0	28150837	599	54.36.149.57
+5	1	1	0	0	28037727	0	0	28037727	0	0	799	212.103.48.69
+5	1	1	0	1	28039407	0	28039408	28039407	0	28039408	799	102.129.153.165
+5	1	1	0	1	28037726	0	28037727	28037726	0	28037727	799	3.71.52.180
+5	0	0	0	1	0	0	28154609	0	0	28154609	0	54.36.149.56
+5	18	2	0	2	28086171	0	28086171	28086171	0	28086171	502093	125.160.106.202
+5	1	1	0	0	28097052	0	0	28097052	0	0	979	34.220.75.38
+5	1	1	0	0	28040416	0	0	28040416	0	0	799	193.239.84.89
+5	10	2	0	0	28113912	0	0	28113812	0	0	22955	66.249.69.140
+5	7	0	0	1	28113912	0	28113913	28113813	0	28113913	50905	66.249.69.139
+5	1	1	0	0	28040418	0	0	28040418	0	0	602	128.90.147.42
+5	5	0	1	0	28113912	28113981	0	28113912	28113981	0	31881	66.249.69.138
+5	1	1	0	0	28152312	0	0	28152312	0	0	1735	86.132.202.19
+5	0	0	0	1	0	0	28085486	0	0	28085486	0	54.36.149.45
+5	0	0	0	1	0	0	28040418	0	0	28040418	0	82.132.215.8
+5	1	1	0	0	28125766	0	0	28125766	0	0	734	128.199.49.147
+5	1	1	0	0	28148785	0	0	28148785	0	0	741	34.211.51.77
+5	0	0	0	3	0	0	28095474	0	0	28095474	0	104.244.209.75
+5	1	1	0	0	28100210	0	0	28100210	0	0	36913	34.240.11.7
+5	1	1	0	1	28040416	0	28095476	28040416	0	28095476	799	51.75.141.254
+5	0	0	0	1	0	0	28134376	0	0	28134376	0	54.36.149.38
+5	1	1	0	0	28154687	0	0	28154687	0	0	739	159.89.42.157
+5	0	0	0	1	0	0	28138304	0	0	28138304	0	54.36.149.37
+5	6	6	0	0	28066083	0	0	28034845	0	0	3196	95.216.161.91
+5	1	1	0	0	28101608	0	0	28101608	0	0	36901	34.241.74.151
+5	185	2	28	34	28076210	28076210	28076206	28076101	28076101	28076101	3994992	125.160.101.222
+5	0	0	0	1	0	0	28084800	0	0	28084800	0	66.249.70.122
+5	30	2	2	3	28146374	28146374	28146374	28146369	28146369	28146369	301931	125.160.106.171
+5	1	1	0	1	28112976	0	28112976	28112976	0	28112976	740	34.219.83.34
+5	1	1	0	0	28084800	0	0	28084800	0	0	979	66.249.70.120
+5	2	2	0	0	28084980	0	0	28084890	0	0	1958	66.249.70.118
+5	1	1	0	0	28037967	0	0	28037967	0	0	799	87.89.48.69
+5	12	6	0	6	28037955	0	28037955	28037955	0	28037955	121111	106.75.30.226
+5	1	1	0	0	28114310	0	0	28114310	0	0	740	34.219.138.53
+5	1	1	0	1	28114311	0	28114311	28114311	0	28114311	740	34.219.86.158
+5	1	1	0	0	28095471	0	0	28095471	0	0	602	52.56.116.39
+5	1	1	0	0	28100101	0	0	28100101	0	0	979	35.91.241.202
+5	1	1	0	0	28097339	0	0	28097339	0	0	979	3.253.197.168
+5	0	0	0	1	0	0	28112401	0	0	28112401	0	54.36.149.22
+5	7	3	0	0	28119169	0	0	28118542	0	0	5677	66.249.70.108
+5	4	1	0	0	28118989	0	0	28118558	0	0	1523	66.249.70.107
+5	7	1	0	1	28119079	0	28118542	28118542	0	28118542	5117	66.249.70.106
+5	16	6	0	1	28148956	0	28108052	28058879	0	28108052	12389	51.222.253.19
+5	20	11	0	1	28152682	0	28096376	28058618	0	28096376	76472	51.222.253.20
+5	26	14	0	4	28152682	0	28145726	28058168	0	28078102	52960	51.222.253.18
+5	1	1	0	0	28156162	0	0	28156162	0	0	740	35.89.118.120
+5	14	6	0	1	28148956	0	28100299	28061124	0	28100299	26933	51.222.253.17
+5	0	0	0	1	0	0	28095472	0	0	28095472	0	67.21.32.152
+5	15	11	0	1	28155719	0	28127708	28058874	0	28127708	27453	51.222.253.16
+5	0	0	0	1	0	0	28153239	0	0	28153239	0	34.255.182.158
+5	1	1	0	0	28144742	0	0	28144742	0	0	600	198.96.89.226
+5	13	6	0	0	28150838	0	0	28088048	0	0	24043	51.222.253.15
+5	11	5	0	1	28152682	0	28133440	28058881	0	28133440	10018	51.222.253.14
+5	18	10	0	2	28149950	0	28102142	28073645	0	28069755	129013	51.222.253.13
+5	0	0	0	1	0	0	28148956	0	0	28148956	0	54.36.149.11
+5	16	9	0	0	28152682	0	0	28058017	0	0	215436	51.222.253.12
+5	19	12	0	6	28146725	0	28141487	28057407	0	28072067	104053	51.222.253.11
+5	0	0	0	1	0	0	28153331	0	0	28153331	0	52.19.46.219
+5	12	5	0	1	28139376	0	28082564	28072067	0	28082564	174429	51.222.253.10
+5	1	1	0	0	28040416	0	0	28040416	0	0	602	104.244.209.41
+5	4	4	0	8	28114417	0	28078897	28084532	0	28076537	3438	52.167.144.73
+5	2	2	0	0	28096212	0	0	28096212	0	0	1958	35.225.241.79
+5	1	1	0	1	28084513	0	28084513	28084513	0	28084513	979	182.2.69.119
+5	1	1	0	0	28065435	0	0	28065435	0	0	36901	37.187.215.254
+5	3	3	0	0	28113770	0	0	28113769	0	0	2743	72.14.201.147
+5	1	1	0	3	28154324	0	28153661	28154324	0	28153403	744	40.77.167.84
+5	1	1	0	0	28070257	0	0	28070257	0	0	799	102.129.153.93
+5	2	2	0	0	28121833	0	0	28113770	0	0	1197	72.14.201.146
+5	0	0	0	1	0	0	28144742	0	0	28144742	0	69.4.234.87
+5	1	1	0	0	28037728	0	0	28037728	0	0	602	207.204.229.7
+5	0	0	0	15	0	0	28078925	0	0	28076738	0	40.77.167.83
+5	1	1	0	0	28113770	0	0	28113770	0	0	1546	72.14.201.145
+5	1	1	0	0	28141697	0	0	28141697	0	0	36901	3.250.181.194
+5	0	0	0	1	0	0	28040418	0	0	28040418	0	185.108.106.202
+5	1	1	0	0	28122995	0	0	28122995	0	0	734	35.160.111.0
+5	1	1	0	0	28065355	0	0	28065355	0	0	36901	37.187.215.250
+5	0	0	0	3	0	0	28095476	0	0	28095474	0	2.103.123.139
+5	1	1	0	0	28103809	0	0	28103809	0	0	979	143.198.32.170
+5	2	2	0	0	28095406	0	0	28095404	0	0	7832	181.214.206.114
+5	1	1	0	0	28109120	0	0	28109120	0	0	1735	23.83.130.179
+5	1	1	0	0	28078585	0	0	28078585	0	0	979	35.87.230.169
+5	1	1	0	0	28095407	0	0	28095407	0	0	6853	209.54.104.101
+5	0	0	0	1	0	0	28038758	0	0	28038758	0	206.189.143.27
+5	1	1	0	1	28074333	0	28074333	28074333	0	28074333	799	54.149.28.37
+5	1	1	0	0	28081543	0	0	28081543	0	0	12074	34.217.208.184
+5	1	1	0	0	28060148	0	0	28060148	0	0	799	128.90.146.159
+5	1	1	0	0	28065592	0	0	28065592	0	0	799	35.89.113.125
+5	1	1	0	0	28111562	0	0	28111562	0	0	738	54.185.134.15
+5	1	1	0	0	28060149	0	0	28060149	0	0	799	23.83.130.169
+5	2	2	0	2	28065180	0	28065180	28059134	0	28059134	1598	51.159.101.199
+5	2	2	0	0	28095407	0	0	28041850	0	0	7652	185.147.212.18
+5	26	10	0	33	28037955	0	28037955	28037955	0	28037955	248863	106.75.96.247
+5	1	1	0	0	28097996	0	0	28097996	0	0	979	111.7.100.21
+5	1	1	0	0	28042416	0	0	28042416	0	0	37063	188.165.87.99
+5	1	1	0	0	28097996	0	0	28097996	0	0	979	111.7.100.20
+5	2	2	0	0	28065334	0	0	28042439	0	0	73952	188.165.87.96
+5	1	1	0	0	28108728	0	0	28108728	0	0	738	34.222.72.166
+5	1	1	0	6	28036080	0	28036080	28036080	0	28036080	799	106.75.29.156
+5	1	1	0	0	28037966	0	0	28037966	0	0	799	216.131.107.4
+5	0	0	0	1	0	0	28144802	0	0	28144802	0	54.36.148.235
+5	13	1	0	0	28041826	0	0	28041826	0	0	120999	96.9.249.37
+5	0	0	0	1	0	0	28038459	0	0	28038459	0	197.242.157.235
+5	1	1	0	0	28101590	0	0	28101590	0	0	979	3.252.216.171
+5	1	1	0	0	28060149	0	0	28060149	0	0	799	212.102.35.158
+5	1	1	0	0	28148887	0	0	28148887	0	0	741	170.64.173.179
+5	0	0	0	1	0	0	28108838	0	0	28108838	0	54.36.148.229
+5	1	1	0	0	28095474	0	0	28095474	0	0	6853	23.82.137.108
+5	1	0	0	0	28095407	0	0	28095407	0	0	36729841	216.131.88.5
+5	3	3	0	1	28076320	0	28040418	28040416	0	28040418	2380	216.131.88.4
+5	0	0	0	1	0	0	28143588	0	0	28143588	0	64.227.168.32
+5	1	1	0	1	28038457	0	28038459	28038457	0	28038459	799	217.138.194.118
+5	25	9	0	27	28036007	0	28036007	28036007	0	28036007	248102	106.75.70.38
+5	1	1	0	0	28065848	0	0	28065848	0	0	12076	87.236.176.94
+5	0	0	0	1	0	0	28153365	0	0	28153365	0	207.46.13.229
+5	0	0	0	1	0	0	28140366	0	0	28140366	0	54.36.148.221
+5	0	0	0	1	0	0	28136502	0	0	28136502	0	54.36.148.218
+5	1	1	0	1	28154637	0	28154637	28154637	0	28154637	739	35.86.136.99
+5	0	0	0	1	0	0	28121833	0	0	28121833	0	64.233.173.199
+5	1	1	0	0	28064476	0	0	28064476	0	0	799	154.47.20.171
+5	0	0	0	1	0	0	28070973	0	0	28070973	0	54.36.148.215
+5	0	0	0	1	0	0	28113769	0	0	28113769	0	64.233.173.198
+5	1	0	0	0	28154609	0	0	28154609	0	0	2137	54.36.148.213
+5	0	0	0	1	0	0	28148552	0	0	28148552	0	163.172.148.199
+5	1	1	0	0	28084608	0	0	28084608	0	0	36913	52.204.27.85
+5	2	2	0	3	28070257	0	28037730	28037727	0	28037728	1598	216.131.114.7
+5	4	4	0	3	28099035	0	28037968	28037727	0	28037727	3179	84.247.50.238
+5	1	1	0	0	28095469	0	0	28095469	0	0	979	46.246.122.52
+5	6	5	0	0	28095407	0	0	28040416	0	0	36740053	216.131.114.6
+5	1	1	0	0	28036354	0	0	28036354	0	0	799	49.150.101.219
+5	1	1	0	0	28150282	0	0	28150282	0	0	744	207.46.13.216
+5	0	0	0	1	0	0	28126821	0	0	28126821	0	54.36.148.207
+5	1	1	0	0	28136766	0	0	28136766	0	0	744	207.46.13.215
+5	0	0	0	1	0	0	28142715	0	0	28142715	0	54.36.148.195
+5	0	0	0	1	0	0	28152565	0	0	28152565	0	207.46.13.213
+5	3	3	0	0	28038295	0	0	28035419	0	0	2397	58.17.6.9
+5	1	1	0	0	28149774	0	0	28149774	0	0	741	165.232.65.185
+5	2	2	0	0	28152219	0	0	28151239	0	0	1483	207.46.13.211
+5	0	0	0	1	0	0	28071819	0	0	28071819	0	51.158.66.83
+5	1	1	0	0	28139071	0	0	28139071	0	0	1868	207.46.13.210
+5	1	1	0	0	28037769	0	0	28037769	0	0	602	52.41.8.5
+5	0	0	0	1	0	0	28099415	0	0	28099415	0	54.36.148.189
+5	1	1	0	0	28040417	0	0	28040417	0	0	799	176.67.82.3
+5	1	1	0	1	28095404	0	28095406	28095404	0	28095406	602	46.246.122.40
+5	0	0	0	1	0	0	28063615	0	0	28063615	0	54.36.148.186
+5	0	0	0	1	0	0	28144742	0	0	28144742	0	176.125.235.104
+5	1	1	0	0	28121503	0	0	28121503	0	0	734	34.209.42.175
+5	1	1	0	0	28039523	0	0	28039523	0	0	799	18.236.228.23
+5	1	1	0	1	28097052	0	28097052	28097052	0	28097052	979	35.88.239.33
+5	1	1	0	0	28140026	0	0	28140026	0	0	739	54.227.12.58
+5	1	1	0	0	28129307	0	0	28129307	0	0	742	159.89.114.255
+5	1	1	0	0	28061241	0	0	28061241	0	0	799	87.236.176.63
+5	1	1	0	0	28108520	0	0	28108520	0	0	738	161.35.127.186
+5	1	1	0	0	28038875	0	0	28038875	0	0	799	191.102.170.197
+5	1	1	0	0	28153321	0	0	28153321	0	0	1740	54.195.3.30
+5	2	1	0	0	28142550	0	0	28142550	0	0	24158	167.248.133.191
+5	1	1	0	1	28065838	0	28065838	28065838	0	28065838	799	167.248.133.188
+5	0	0	0	2	0	0	28091678	0	0	28077128	0	54.36.148.175
+5	1	1	0	3	28037968	0	28037968	28037968	0	28037968	602	104.223.92.177
+z	0	60	3	28140858	0
+z	2	11	0	28140858	377
+z	3	830	584	28156622	533937
+z	4	362	60	28156622	1291902
+z	5	349	77	28156527	10137519
+z	6	39	0	28155192	12192689
+z	7	23	0	28155192	69730651
+z	8	16	0	28096906	567385444
+c	200	1587	28156622
+c	206	48	28155192
+c	301	6	28141770
+c	302	36	28146374
+c	304	55	28140858
+c	401	45	28153331
+c	403	11	28155794
+c	404	383	28156622
+c	500	56	28076206
+c	503	40	28101763

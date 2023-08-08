@@ -1,0 +1,324 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/sdn1kalibagorkbm/tmp/awstats/awstats.e-raport.sdn1kalibagorkebumen.sch.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2041                
+POS_TIME 2713                
+POS_VISITOR 6923                
+POS_DAY 7525                
+POS_DOMAIN 3325                
+POS_LOGIN 3555                
+POS_ROBOT 3710                
+POS_WORMS 3877                
+POS_EMAILSENDER 4008                
+POS_EMAILRECEIVER 4151                
+POS_SESSION 7702                
+POS_SIDER 7907                
+POS_FILETYPES 4286                
+POS_DOWNLOADS 4461                
+POS_OS 4509                
+POS_BROWSER 4615                
+POS_SCREENSIZE 4723                
+POS_UNKNOWNREFERER 4797                
+POS_UNKNOWNREFERERBROWSER 4956                
+POS_ORIGIN 5110                
+POS_SEREFERRALS 5246                
+POS_PAGEREFS 5390                
+POS_SEARCHWORDS 5617                
+POS_KEYWORDS 5769                
+POS_MISC 2377                
+POS_ERRORS 5828                
+POS_CLUSTER 3411                
+POS_SIDER_404 5969                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230605065324 1 0 10885871138484
+FirstTime 20230501113714
+LastTime 20230505114413
+LastUpdate 20230605072536 1 0 0 0 0
+TotalVisits 19                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 229
+1 0 0 0 42 45 18089
+2 0 0 0 4 4 916
+3 0 0 0 3 4 3294
+4 0 0 0 0 0 0
+5 0 0 0 3 4 3688
+6 0 0 0 40 42 16393
+7 0 0 0 4 5 916
+8 64 85 589325 43 67 3003887
+9 50 58 361515 32 37 924581
+10 124 158 496450 49 57 39203
+11 69 94 663736 36 46 1257013
+12 0 0 0 2 2 476
+13 23 41 298472 6 12 1171875
+14 38 44 134952 92 100 1227131
+15 3 3 13502 2 4 4223
+16 0 0 0 1 1 229
+17 0 0 0 0 2 2476
+18 0 0 0 38 39 15696
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 2 2 458
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+id 371 483 2557952
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+Googlebot/ 1 1598 20230503035402 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+html 13 20344 0 0
+css 58 141275 0 0
+Unknown 358 1332691 0 0
+jpg 9 19587 0 0
+png 10 582774 0 0
+js 35 461281 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+macosx15 23 16
+Unknown 3 3
+win10 457 352
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+chrome112.0.0.0 460 354
+Unknown 3 3
+chrome113.0.0.0 20 14
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WhatsApp/2.23.6.76_A 20230505111601
+WhatsApp/2.23.8.76_A 20230502134139
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.23.6.76_A 20230505111601
+WhatsApp/2.23.8.76_A 20230502134139
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 17 17
+From1 0 0
+From2 0 0
+From3 4 4
+From4 350 462
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.sdn1kalibagorkbm.sch.id 3 3
+https://www.sdn1kalibagorkbm.sch.id 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 56 127067
+302 328 72977
+403 2 2458
+301 2 1414
+500 30 7485259
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/public/.env 5 -
+/public/asset/css/fonts/dropify.ttf 19 https://e-raport.sdn1kalibagorkebumen.sch.id/public/asset/css/dropify.min.css
+/auth_pass_recovery.html 2 -
+/public/asset/css/fonts/dropify.woff 19 https://e-raport.sdn1kalibagorkebumen.sch.id/public/asset/css/dropify.min.css
+/public/https://e-raport.sdn1kalibagorkebumen.sch.id/public/asset/img/90x90.jpg 1 https://e-raport.sdn1kalibagorkebumen.sch.id/setting-score/score/create/1202022-b3J8t
+/letter_head/20230505044210.png 1 https://e-raport.sdn1kalibagorkebumen.sch.id/letterhead
+/letter_head/20230505044213.png 1 https://e-raport.sdn1kalibagorkebumen.sch.id/letterhead
+/robots.txt 8 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+36.72.217.239 136 172 536696 20230503105012
+36.72.217.163 79 85 291667 20230503150949
+36.72.214.191 47 64 332477 20230504135145
+182.2.70.219 25 25 78077 20230502083150
+125.160.97.7 19 44 424575 20230505114413
+36.72.215.175 18 18 115039 20230503111914
+36.72.213.196 15 21 234797 20230505111601
+36.72.214.186 15 21 189645 20230502085715
+36.72.215.106 5 8 140687 20230502134139
+36.72.213.207 5 16 129946 20230505081856
+36.72.215.33 3 4 68271 20230502081400
+36.72.215.96 2 3 10419 20230503085559
+182.2.83.253 2 2 5656 20230502142453
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20230501 3 24 192045 1
+20230502 50 60 482336 6
+20230503 235 278 953821 5
+20230504 47 64 332477 3
+20230505 36 57 597273 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+15mn-30mn 2
+5mn-15mn 5
+2mn-5mn 2
+30s-2mn 2
+30mn-1h 1
+0s-30s 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 49
+/classes 64 205126 0 0
+/teachers 38 125845 0 1
+/courses 22 62951 2 1
+/auth/login 21 37257 5 1
+/courses/paibp-10osH 21 148839 0 1
+/student-class 19 68215 1 2
+/statistic 18 71512 0 5
+/school-years 16 49988 1 0
+/dashboard 14 71230 0 2
+/ 13 20344 9 2
+/setting-score/competence 10 30429 0 1
+/levels 10 31443 0 0
+/setting-score/list-competence 8 21373 0 1
+/teachers/create 8 51271 0 0
+/manage-p5 8 18835 0 0
+/classes/create 8 40264 0 0
+/majors 8 24320 0 0
+/set-template 7 140 0 1
+/setting-score/assesment-weight 6 28736 0 0
+/courses/ppkn-IPLQu 4 27394 0 0
+/setting-score/score 4 10604 0 0
+/achievement 4 10409 0 0
+/users 4 14183 0 1
+/my-profile 3 17535 0 0
+/setting-score/description 2 10668 0 0
+/courses/create 2 9406 0 0
+/setting-score/score-competency 1 4925 0 0
+/setting-score/competence/create 2 10358 0 0
+/teachers/rifki-al-ghifari-rktnH/edit 1 6477 0 0
+/teachers/rifki-al-ghifari-uyvHN/edit 1 6480 0 0
+/subject-teacher/show 1 136 0 0
+/attitude/social 1 5661 0 0
+/covers 2 13406 0 0
+/users/reed-ellison-sVIo6/edit 1 6949 0 0
+/preview/print-teacher 1 3619 0 0
+/school-years/create 2 9884 0 0
+/preview/print-cover 1 4968 0 0
+/letterhead 2 12261 0 0
+/setting-score/score/create/1202022-b3J8t 1 875 0 0
+/score-extra/sepakbola-sRAP4 1 5507 1 0
+/teacher_note 1 4700 0 0
+/attendance 2 8848 0 0
+/manage-p5/create 1 7424 0 0
+/achievement/create 1 4302 0 0
+/preview 1 4853 0 0
+/classes/xii-tpb-oXvf6/edit 1 5046 0 0
+/admins 2 6578 0 0
+/setting 1 5962 0 0
+/attitude/spiritual 1 5499 0 0
+END_SIDER

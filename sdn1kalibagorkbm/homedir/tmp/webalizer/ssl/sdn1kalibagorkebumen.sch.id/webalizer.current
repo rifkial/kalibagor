@@ -1,0 +1,665 @@
+# Webalizer V2.23-08 Incremental Data - 07/14/2023 05:02:49
+2023 7 14 5 2 49
+402 287 128 40 11 22 42174998 149 121 0
+7 6 62 1 14
+8 5 6874 7 5 5
+12 10 10907 11 6 6
+74 55 494752 16 22 16
+6 4 27978 5 3 3
+29 25 34104 15 22 11
+20 14 40093 16 12 10
+51 42 341439 13 17 11
+19 12 16098 17 11 11
+21 18 94335 13 7 7
+10 8 8307 9 4 4
+31 19 118530 28 17 17
+22 16 19913 16 8 8
+91 52 40882858 11 12 10
+8 7 78810 7 3 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 4 6432 4
+31 31 187868 4
+40 33 311683 9
+10 5 92383 7
+7 6 5593 2
+85 48 40794097 11
+44 31 386740 11
+2 2 12814 2
+3 1 3830 1
+1 0 1238 0
+18 16 95886 4
+11 9 9219 4
+4 4 2708 2
+9 5 8085 6
+3 1 2008 3
+8 5 7451 2
+8 7 6211 3
+4 1 4316 1
+10 7 19975 7
+21 14 17733 12
+17 10 50992 12
+22 16 30805 14
+10 7 46440 8
+28 24 70491 20
+0
+0
+0
+287
+0
+0
+0
+0
+0
+32
+0
+2
+3
+0
+9
+0
+0
+0
+4
+0
+11
+54
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/e-raport/setting-score/competence
+0 2 8319606679846071605 10209 0 0
+/e-raport/public/asset/js/form-1.js
+0 5 8319606671172250936 615 0 0
+/_autoindex/assets/icons/corner-left-up.svg
+0 3 94737487232480 984 0 0
+/e-raport/set-template
+0 1 3833177021759958582 20 0 0
+/e-raport/dashboard
+0 2 94737487241888 10145 0 0
+/e-raport/public/asset/css/form-1.css
+0 5 0 6360 0 0
+/e-raport/public/asset/js/dataTables.buttons.min.js
+0 1 0 0 0 0
+/e-raport/public/asset/js/jquery-3.1.1.min.js
+0 5 0 147300 0 0
+/e-raport/auth/login
+0 1 0 1794 0 0
+/e-raport/public/asset/js/perfect-scrollbar.min.js
+0 6 0 25975 0 0
+/favicon.ico
+0 1 0 12085 0 0
+/e-raport/public/asset/custom/datatable-custom.css
+0 1 0 881 0 0
+/e-raport/public/asset/css/theme-checkbox-radio.css
+0 5 0 5140 0 0
+/e-raport/public/asset/img/90x90.jpg
+0 2 0 2288 0 0
+/e-raport/public/asset/css/structure.css
+0 5 0 25784 0 0
+/e-raport.zip
+0 34 0 40495943 0 0
+/e-raport/
+0 9 0 14462 5 1
+/e-raport/public/asset/css/switches.css
+0 6 0 7518 0 0
+/e-raport/public/asset/css/bootstrap.min.css
+0 6 0 107145 0 0
+/e-raport/public/asset/css/plugins.css
+0 5 0 750 0 0
+/e-raport/public/asset/js/bootstrap.min.js
+0 6 0 71070 0 0
+/_autoindex/assets/icons/folder-fill.svg
+0 12 0 3996 0 0
+/e-raport/public/asset/css/perfect-scrollbar.css
+0 5 0 3000 0 0
+/e-raport/public/asset/img/255x255.jpg
+0 2 0 4970 0 0
+/e-raport/public/asset/js/popper.min.js
+0 6 0 39270 0 0
+/_autoindex/assets/css/autoindex.css
+0 6 0 7020 0 0
+/
+0 99 0 335747 104 17
+/e-raport/public/logo/20230620132315zM1Xt.jpeg
+0 3 0 493065 0 0
+/e-raport/public/asset/js/app.js
+0 6 3616727145536303405 12672 0 0
+/raport/
+0 15 25699 7518 10 5
+/e-raport/public/asset/js/custom.js
+0 6 15780956383277364019 4944 0 0
+/e-raport/public/asset/css/monokai-sublime.css
+0 5 25693 1995 0 0
+/e-raport/public/asset/css/datatables.css
+0 1 0 1265 0 0
+/_autoindex/assets/js/tablesort.js
+0 14 3328778248690151726 27781 0 0
+/e-raport/public/asset/js/datatables.js
+0 1 430649067265 109569 0 0
+/_autoindex/assets/js/tablesort.number.js
+0 15 0 4508 0 0
+/_autoindex/assets/icons/file.svg
+0 12 0 4248 0 0
+/e-raport/public/vendor/sweetalert/sweetalert.all.js
+0 2 0 34650 0 0
+/e-raport/public/asset/css/main.css
+0 5 0 41645 0 0
+/e-raport/public/asset/custom/dashboard.css
+0 2 0 3628 0 0
+# End Of Table - urls
+# -sites- (monthly)
+s176125235104.blix.com
+0 1 0 1229 1 1688598175
+/
+ec2-54-189-164-22.us-west-2.compute.amazonaws.com
+0 1 1 741 1 1688840800
+/
+hydrogen265-ext2.a.ahrefs.com
+0 1 1 322 0 0
+-
+hydrogen213-ext2.a.ahrefs.com
+0 1 1 2137 0 0
+-
+ec2-3-122-244-217.eu-central-1.compute.amazonaws.com
+0 1 1 1735 1 1689052358
+/
+ec2-52-19-46-219.eu-west-1.compute.amazonaws.com
+0 1 0 35 1 1689113469
+/
+msnbot-207-46-13-210.search.msn.com
+0 1 1 1868 1 1688257877
+/e-raport/
+ec2-34-212-72-90.us-west-2.compute.amazonaws.com
+0 1 1 739 1 1689191843
+/
+msnbot-157-55-39-223.search.msn.com
+0 2 0 2476 0 0
+-
+proxy-ca002-ext2.a.ahrefs.com
+0 4 4 5481 2 1689130101
+/
+ec2-35-89-118-120.us-west-2.compute.amazonaws.com
+0 1 1 740 1 1689283372
+/
+167.99.217.234
+0 1 0 52 1 1688756791
+/
+crawl-66-249-66-75.googlebot.com
+0 2 2 1092 2 1688414418
+/raport/
+125.160.106.171
+0 35 30 307524 1 1688696074
+/e-raport/auth/login
+proxy-ca001-ext2.a.ahrefs.com
+0 3 2 2843 0 0
+-
+119-127-158-51.instances.scw.cloud
+0 1 0 1229 1 1689261257
+/
+ec2-35-91-97-67.us-west-2.compute.amazonaws.com
+0 1 1 741 1 1688939682
+/
+170.64.173.179
+0 1 1 741 1 1688846850
+/
+64.227.153.205
+0 1 1 739 1 1688331959
+/
+ec2-3-250-181-194.eu-west-1.compute.amazonaws.com
+0 1 1 36901 1 1688415440
+/
+crawl-66-249-66-12.googlebot.com
+0 13 11 60483 2 1688419819
+-
+159.89.42.157
+0 1 1 739 1 1689194876
+/
+hydrogen322-ext2.a.ahrefs.com
+0 1 1 2137 0 0
+-
+hydrogen361-ext2.a.ahrefs.com
+0 1 1 333 0 0
+-
+cerebro-ldc-stg-103.kaspersky-labs.com
+0 1 1 739 1 1689148053
+/
+ec2-54-202-252-104.us-west-2.compute.amazonaws.com
+0 1 1 739 1 1688327558
+/
+hydrogen293-ext2.a.ahrefs.com
+0 1 0 1238 0 0
+-
+proxy-ca006-ext2.a.ahrefs.com
+0 5 5 8594 1 1688335579
+/
+proxy-ca007-ext2.a.ahrefs.com
+0 2 2 1403 0 0
+-
+ec2-18-236-191-57.us-west-2.compute.amazonaws.com
+0 1 1 739 1 1688246325
+/
+msnbot-52-167-144-138.search.msn.com
+0 2 0 2476 0 0
+-
+66.115.189.178
+0 1 1 12074 1 1688598135
+/
+64.227.168.32
+0 1 0 1229 1 1688528904
+/
+199-148-172-163.instances.scw.cloud
+0 1 0 35 1 1688826771
+/
+ec2-34-216-93-211.us-west-2.compute.amazonaws.com
+0 2 1 1979 1 1688939701
+/
+165.232.65.185
+0 1 1 741 1 1688900050
+/
+ec2-34-221-16-6.us-west-2.compute.amazonaws.com
+0 2 1 1979 1 1688840834
+/
+crawl-66-249-66-36.googlebot.com
+0 2 2 1086 2 1688403617
+/
+hydrogen235-ext2.a.ahrefs.com
+0 1 0 1238 0 0
+-
+crawl-66-249-66-11.googlebot.com
+0 3 2 9966 0 0
+-
+161.35.162.61
+0 1 0 1229 1 1688757232
+/
+msnbot-40-77-167-84.search.msn.com
+0 4 1 4458 1 1689173092
+/
+hydrogen313-ext2.a.ahrefs.com
+0 2 1 1837 1 1689190160
+/
+proxy-ca015-ext2.a.ahrefs.com
+0 3 3 1800 3 1689256796
+/
+36.82.99.239
+0 62 60 40770466 1 1689225149
+/e-raport/
+hydrogen221-ext2.a.ahrefs.com
+0 1 0 1238 0 0
+-
+crawl-66-249-66-37.googlebot.com
+0 1 1 1575 1 1688419820
+/e-raport/
+hydrogen056-ext2.a.ahrefs.com
+0 1 0 1238 0 0
+-
+proxy-ca012-ext2.a.ahrefs.com
+0 4 4 2288 4 1688910601
+/
+ec2-54-227-12-58.compute-1.amazonaws.com
+0 1 1 739 1 1688315182
+/
+hydrogen079-ext2.a.ahrefs.com
+0 1 1 333 0 0
+-
+proxy-ca003-ext2.a.ahrefs.com
+0 2 2 655 0 0
+-
+crawl-66-249-73-3.googlebot.com
+0 1 0 1238 0 0
+-
+ec2-54-200-195-124.us-west-2.compute.amazonaws.com
+0 2 1 1977 1 1688246361
+/
+hydrogen164-ext2.a.ahrefs.com
+0 1 0 1238 0 0
+-
+ec2-35-90-117-11.us-west-2.compute.amazonaws.com
+0 2 1 1977 1 1688414265
+/
+crawl-66-249-66-38.googlebot.com
+0 1 1 1170 0 0
+-
+proxy-ca016-ext2.a.ahrefs.com
+0 2 2 954 1 1688601726
+/
+ec2-34-216-220-200.us-west-2.compute.amazonaws.com
+0 2 1 1979 1 1688840757
+/
+hydrogen323-ext2.a.ahrefs.com
+0 1 0 1238 0 0
+-
+ec2-35-86-136-99.us-west-2.compute.amazonaws.com
+0 2 1 1977 1 1689191867
+/
+hydrogen195-ext2.a.ahrefs.com
+0 1 0 1238 0 0
+-
+proxy-ca018-ext2.a.ahrefs.com
+0 4 4 1598 1 1688276200
+/
+proxy-ca004-ext2.a.ahrefs.com
+0 8 4 7131 0 0
+-
+167.71.19.58
+0 1 1 742 1 1688651761
+/
+proxy-ca005-ext2.a.ahrefs.com
+0 2 1 1840 1 1688856903
+/
+36.72.217.94
+0 40 27 372830 1 1688365134
+/e-raport/setting-score/competence
+crawl-66-249-66-76.googlebot.com
+0 1 1 484 1 1688409018
+/raport/
+proxy-ca017-ext2.a.ahrefs.com
+0 7 6 26904 1 1688963881
+/
+crawl-66-249-75-133.googlebot.com
+0 12 10 37953 0 0
+-
+170.64.129.81
+0 1 1 744 1 1688712105
+/
+1051899.cloudwaysapps.com
+0 1 0 1229 1 1688825114
+/
+crawl-66-249-66-13.googlebot.com
+0 2 2 1895 1 1688381906
+/e-raport/
+proxy-ca008-ext2.a.ahrefs.com
+0 4 3 4308 1 1688657188
+/
+69.4.234.87
+0 1 0 1229 1 1688598127
+/
+proxy-ca019-ext2.a.ahrefs.com
+0 6 6 40360 1 1688219463
+/
+ec2-34-255-182-158.eu-west-1.compute.amazonaws.com
+0 1 0 1229 1 1689107955
+/
+proxy-ca013-ext2.a.ahrefs.com
+0 4 4 3424 1 1688476518
+/
+ec2-34-211-51-77.us-west-2.compute.amazonaws.com
+0 1 1 741 1 1688840740
+/
+hydrogen267-ext2.a.ahrefs.com
+0 1 0 1238 0 0
+-
+ec2-34-242-139-78.eu-west-1.compute.amazonaws.com
+0 1 1 1739 1 1689113186
+/
+183.129.153.157
+0 7 4 28155 4 1688700234
+/
+hydrogen312-ext2.a.ahrefs.com
+0 1 0 1238 0 0
+-
+proxy-ca009-ext2.a.ahrefs.com
+0 2 2 836 1 1688193192
+/raport/
+143.110.220.111
+0 1 0 1229 1 1688822079
+/
+proxy-ca010-ext2.a.ahrefs.com
+0 2 1 1838 1 1688717157
+/
+ec2-34-209-128-200.us-west-2.compute.amazonaws.com
+0 1 1 739 1 1688414249
+/
+146.190.117.247
+0 1 1 12075 1 1689060607
+/
+ec2-34-209-131-35.us-west-2.compute.amazonaws.com
+0 1 1 739 1 1688414273
+/
+68.183.193.180
+0 1 1 12075 1 1688711115
+/
+ec2-46-51-154-158.eu-west-1.compute.amazonaws.com
+0 1 1 36901 1 1689119531
+/
+66.63.167.202.static.quadranet.com
+0 1 1 602 1 1688598182
+/
+msnbot-207-46-13-211.search.msn.com
+0 2 2 1483 2 1689046794
+/
+ec2-34-242-75-24.eu-west-1.compute.amazonaws.com
+0 1 1 36913 1 1689113665
+/
+host86-132-202-19.range86-132.btcentralplus.com
+0 1 1 1735 1 1689052358
+/
+proxy-ca011-ext2.a.ahrefs.com
+0 4 4 2121 3 1689074558
+/
+msnbot-40-77-167-195.search.msn.com
+0 2 2 1218 2 1688537249
+/raport/
+msnbot-207-46-13-213.search.msn.com
+0 1 0 1238 0 0
+-
+143-251-15-51.instances.scw.cloud
+0 3 3 75565 2 1689305275
+/
+proxy-ca000-ext2.a.ahrefs.com
+0 3 3 16390 2 1688867711
+/e-raport/
+msnbot-157-55-39-253.search.msn.com
+0 2 2 1488 2 1688602531
+/
+ec2-54-203-72-40.us-west-2.compute.amazonaws.com
+0 2 1 1977 1 1688676770
+/
+ec2-54-195-3-30.eu-west-1.compute.amazonaws.com
+0 1 1 1740 1 1689112864
+/
+ec2-52-25-241-214.us-west-2.compute.amazonaws.com
+0 1 1 1735 1 1689052361
+/
+ec2-54-190-158-200.us-west-2.compute.amazonaws.com
+0 1 1 739 1 1688676759
+/
+crawl-66-249-73-2.googlebot.com
+0 2 2 1084 2 1689287631
+/
+planetlab24.gino-research.net.in.tum.de
+0 2 0 2476 0 0
+-
+170.64.187.29
+0 1 1 739 1 1688677829
+/
+hydrogen106-ext2.a.ahrefs.com
+0 1 1 354 0 0
+-
+hydrogen022-ext2.a.ahrefs.com
+0 2 2 922 1 1689310963
+/
+ec2-35-167-61-198.us-west-2.compute.amazonaws.com
+0 2 1 1977 1 1688414290
+/
+ec2-35-89-205-172.us-west-2.compute.amazonaws.com
+0 2 1 1978 1 1689283386
+/
+crawl-66-249-75-134.googlebot.com
+0 6 5 6640 1 1689107297
+/
+msnbot-207-46-13-229.search.msn.com
+0 1 0 1238 0 0
+-
+scanner-29.ch1.censys-scanner.com
+0 2 2 24158 1 1688466600
+/
+198.96.89.226.static.quadranet.com
+0 1 1 600 1 1688598163
+/
+ec2-52-208-198-60.eu-west-1.compute.amazonaws.com
+0 1 1 1735 1 1689113664
+/
+79.104.53.14
+0 1 1 739 1 1688598079
+/
+ec2-18-202-229-238.eu-west-1.compute.amazonaws.com
+0 1 0 1229 1 1689110567
+/
+proxy-ca014-ext2.a.ahrefs.com
+0 2 2 2459 0 0
+-
+msnbot-207-46-13-216.search.msn.com
+0 1 1 744 1 1688930550
+/
+hydrogen082-ext2.a.ahrefs.com
+0 1 1 354 0 0
+-
+143.110.158.227
+0 1 1 12072 1 1688669379
+/
+104.164.173.66
+0 14 14 10200 1 1688598135
+/
+crawl-66-249-75-132.googlebot.com
+0 12 11 69045 5 1689216226
+/raport/
+45.254.253.65
+0 1 1 1735 1 1689052359
+/
+142.93.152.82
+0 1 1 741 1 1689013077
+/
+msnbot-157-55-39-225.search.msn.com
+0 1 0 1238 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+hydrogen265-ext2.a.ahrefs.com
+0 1 1 322 0 0
+-
+hydrogen322-ext2.a.ahrefs.com
+0 1 1 2137 0 0
+-
+hydrogen079-ext2.a.ahrefs.com
+0 1 1 333 0 0
+-
+hydrogen323-ext2.a.ahrefs.com
+0 1 0 1238 0 0
+-
+143-251-15-51.instances.scw.cloud
+0 2 2 73826 1 1689305275
+/
+hydrogen106-ext2.a.ahrefs.com
+0 1 1 354 0 0
+-
+hydrogen022-ext2.a.ahrefs.com
+0 1 1 600 1 1689310963
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://sdn1kalibagorkebumen.sch.id/raport/
+0 6
+https://www.google.com/
+0 1
+- (Direct Request)
+0 227
+http://sdn1kalibagorkebumen.sch.id/
+0 1
+https://sdn1kalibagorkebumen.sch.id/e-raport/public/asset/css/structure.css
+0 1
+https://sdn1kalibagorkebumen.sch.id/e-raport/dashboard
+0 11
+https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/competence
+0 6
+https://sdn1kalibagorkebumen.sch.id/e-raport/
+0 70
+https://sdn1kalibagorkebumen.sch.id/
+0 62
+https://sdn1kalibagorkebumen.sch.id/e-raport/public/asset/css/plugins.css
+0 16
+https://sdn1kalibagorkebumen.sch.id/e-raport/auth/login
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 97
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 9
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 7
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15
+0 40
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 13; RMX3392) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+0 1
+Go-http-client/1.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 93
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/534.1
+0 1
+Googlebot-Image/1.0
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.179 Mobile
+0 48
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 28
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.50
+0 19
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 5
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1041.0 Safari/535.21
+0 14
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+0 7
+Mozilla/5.0 (Linux; Android 11; M2010J19SI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 16
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

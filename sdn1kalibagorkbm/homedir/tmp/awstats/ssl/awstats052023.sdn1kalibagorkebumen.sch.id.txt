@@ -1,0 +1,454 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/sdn1kalibagorkbm/tmp/awstats/ssl/awstats.sdn1kalibagorkebumen.sch.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2036                
+POS_TIME 2713                
+POS_VISITOR 9381                
+POS_DAY 12437               
+POS_DOMAIN 3391                
+POS_LOGIN 3768                
+POS_ROBOT 3923                
+POS_WORMS 4275                
+POS_EMAILSENDER 4406                
+POS_EMAILRECEIVER 4549                
+POS_SESSION 12928               
+POS_SIDER 13118               
+POS_FILETYPES 4684                
+POS_DOWNLOADS 4931                
+POS_OS 5007                
+POS_BROWSER 5244                
+POS_SCREENSIZE 5807                
+POS_UNKNOWNREFERER 5881                
+POS_UNKNOWNREFERERBROWSER 6507                
+POS_ORIGIN 6874                
+POS_SEREFERRALS 7012                
+POS_PAGEREFS 7175                
+POS_SEARCHWORDS 8024                
+POS_KEYWORDS 8176                
+POS_MISC 2377                
+POS_ERRORS 8235                
+POS_CLUSTER 3624                
+POS_SIDER_404 8381                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230601042705 20 3392 9176981980253
+FirstTime 20230506080900
+LastTime 20230531232149
+LastUpdate 20230601070342 20 0 19 0 0
+TotalVisits 82                  
+TotalUnique 76                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 79                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 1778 4 8 8929
+1 7 7 16868 2 5 159
+2 13 49 808592 18 33 7131
+3 4 4 3376 15 38 513731
+4 2 2 48989 6 7 8583
+5 18 35 582350 13 35 497664
+6 2 18 502093 2 5 602
+7 12 42 1407995 16 43 1678809
+8 93 168 3153137 50 68 6941789
+9 0 0 0 5 8 3961
+10 5 8 110194418 9 25 401741
+11 2 2 1598 5 6 3231
+12 3 3 25019 7 10 4587
+13 1 1 602 3 5 2200
+14 0 0 0 8 11 4580
+15 3 3 13472 3 6 2065
+16 1 1 12073 4 5 9655
+17 1 1 799 5 10 4175
+18 3 3 38499 8 23 399189
+19 8 18 233789 7 11 2937
+20 2 2 1598 1 2 799
+21 7 7 53510 6 12 4203
+22 8 8 65045 2 5 1031
+23 4 4 3556 1 4 979
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+id 121 276 6204912
+us 49 80 73904169
+fr 10 10 224602
+be 7 7 50691
+ua 4 4 1598
+gb 3 3 2577
+at 2 2 24220
+au 2 2 24149
+it 1 1 799
+ca 1 1 799
+in 1 1 799
+jp 0 1 36729841
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+AhrefsBot/ 97 848744 20230531182055 0
+Googlebot/ 68 1523561 20230525110047 0
+no_user_agent 2 1598 20230514171259 0
+bingbot/ 2 1958 20230528233209 0
+bot[\s_+:,\.\;\/\\-] 2 979 20230521002510 0
+feed 1 799 20230511051601 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+php 2 24220 0 0
+css 92 1758403 0 0
+zip 3 110189523 0 0
+Unknown 95 2558129 0 0
+html 95 479356 0 0
+jpg 8 14107 0 0
+png 24 258442 0 0
+svg 5 9463 0 0
+js 55 1673513 0 0
+woff 9 204000 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/e-raport.zip 3 0 110189523
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+ios_iphone 6 5
+macosx11 1 1
+android10 21 5
+linux 67 38
+linuxubuntu 10 10
+win10 76 24
+androidoreo 1 1
+android 1 1
+androidnougat 2 1
+win7 1 1
+macosx15 191 103
+Unknown 11 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+safari15.6.1 185 97
+chrome112.0.0.0 10 10
+chrome94.0.4590.2 2 1
+chrome109.0.0.0 1 1
+safari16.3 1 1
+chrome113.0.0.0 87 19
+chrome85.0.4183.102 1 1
+safari16.1 1 0
+chrome90.0.4430.93 1 1
+firefox112.0 1 1
+netscape5.0 1 1
+chrome111.0.0.0 1 1
+firefox104.0 4 4
+safari16.4 2 2
+Unknown 1 1
+chrome112.0.5615.121 41 12
+chrome83.0.4103.97 17 17
+safari16.5 1 1
+chrome106.0.0.0 1 1
+chrome108.0.0.0 1 1
+mozilla 9 9
+chrome81.0.4044.129 4 4
+firefox54.0 1 1
+firefox108.0 2 2
+chrome87.0.4280.88 1 1
+safari16.2 1 1
+firefox58.0 10 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230512035846
+Mozilla/5.0 20230519104041
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230512040844
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230516004657
+Mozilla/5.0_(compatible) 20230525044854
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230516004657
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 57 57
+From1 0 0
+From2 2 2
+From3 11 40
+From4 131 289
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+https://cpanel.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+https://webmail.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+http://cpanel.sdn1kalibagorkebumen.sch.id 1 1
+http://webmail.sdn1kalibagorkebumen.sch.id 1 1
+https://cpanel.sdn1kalibagorkebumen.sch.id 0 6
+https://webmail.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1680718859/unprotected/cpanel/style_v2_optimized.css 0 6
+https://webmail.sdn1kalibagorkebumen.sch.id 0 3
+https://cpanel.sdn1kalibagorkebumen.sch.id/cPanel_magic_revision_1680718859/unprotected/cpanel/style_v2_optimized.css 0 14
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 28 13212
+500 24 7998706
+301 2 506
+404 94 112251
+401 8 416
+503 4 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 13
+/sitemap.xml.gz 4 -
+/.well-known/security.txt 1 -
+/e-raport/public/asset/css/fonts/dropify.woff 5 https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/competence/create
+/sitemaps.xml 4 -
+/e-raport/public/asset/css/fonts/dropify.svg 5 https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/competence/create
+/e-raport/auth_pass_recovery.html 2 -
+/sitemap_index.xml 4 -
+/e-raport/public/asset/css/fonts/dropify.ttf 5 https://sdn1kalibagorkebumen.sch.id/e-raport/setting-score/competence/create
+/robots.txt 48 -
+/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f 5 https://sdn1kalibagorkebumen.sch.id/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f
+/atom.xml 4 -
+/sitemap.txt 3 -
+/sitemap.xml 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 79
+125.160.101.222 97 185 3994992 20230519085004
+125.160.104.83 5 22 565684 20230522022327
+36.72.215.58 4 21 570624 20230520055427
+95.216.161.91 4 4 1598 20230512080318
+65.154.226.170 4 13 120981 20230512025601
+65.154.226.169 4 14 122107 20230509191440
+65.154.226.167 4 14 122107 20230512025758
+173.245.217.20 3 3 2577 20230519104041
+125.160.106.202 2 18 502093 20230526065119
+51.159.101.199 2 2 1598 20230511170008
+139.59.108.146 2 2 24149 20230515220313
+182.1.64.241 2 2 1598 20230514015639
+92.223.85.239 2 2 24220 20230512123741
+125.160.104.190 2 19 562944 20230515085844
+125.160.96.26 2 2 1598 20230508032607
+36.72.213.25 2 2 1401 20230507152707
+212.102.35.158 1 1 799 20230508050904
+36.72.217.93 1 1 799 20230512013030
+54.202.158.26 1 1 799 20230506222537
+23.83.130.169 1 1 799 20230508050900
+128.90.146.159 1 1 799 20230508050858
+34.213.118.174 1 1 979 20230524211828
+34.222.131.155 1 1 799 20230507204950
+188.165.87.109 1 1 36901 20230511193940
+36.72.215.49 1 1 799 20230515031507
+51.254.49.110 1 1 799 20230511224322
+18.246.32.232 1 1 799 20230506222520
+35.164.16.165 1 1 979 20230531232149
+54.212.72.133 1 1 799 20230510211440
+87.236.176.94 1 1 12076 20230512040844
+34.212.106.152 1 1 799 20230506080900
+167.248.133.188 1 1 799 20230512035846
+51.254.49.111 1 1 799 20230511224321
+35.89.55.98 1 1 799 20230507205028
+54.191.52.241 1 1 979 20230520215411
+35.91.45.176 1 1 979 20230520215357
+54.70.145.116 1 1 979 20230531232129
+188.165.87.96 1 1 36901 20230511193436
+3.9.118.189 1 1 799 20230515053724
+198.23.242.156 1 1 799 20230511051602
+87.236.176.17 1 1 799 20230510012754
+51.254.49.103 1 1 36901 20230511223916
+13.40.44.182 1 1 979 20230519104041
+34.217.208.184 1 1 12074 20230523014357
+51.255.62.13 1 1 36901 20230511185154
+106.161.65.206 0 1 36729841 
+54.189.81.221 1 1 799 20230518013311
+15.188.77.122 0 1 36729841 
+87.236.176.201 1 1 12074 20230507212639
+216.131.88.4 1 1 979 20230519104041
+87.236.176.215 1 1 799 20230510114038
+193.36.118.232 1 1 979 20230524051402
+182.2.69.119 1 1 979 20230525031313
+173.245.217.21 1 1 979 20230524051402
+154.47.20.171 1 1 799 20230511051601
+216.131.114.6 1 1 979 20230519104041
+87.236.176.208 1 1 12071 20230511155919
+51.255.62.11 1 1 799 20230511185154
+35.240.198.16 1 1 799 20230511115832
+182.3.199.33 1 1 602 20230527134719
+37.187.215.250 1 1 36901 20230511195540
+54.149.28.37 1 1 799 20230518013334
+102.129.153.93 1 1 799 20230515053726
+37.187.215.254 1 1 36901 20230511211535
+198.235.24.112 1 1 799 20230516004657
+45.133.173.4 1 1 799 20230511051601
+173.245.202.201 1 1 979 20230519104042
+216.131.116.87 0 1 36729841 
+174.138.58.214 1 1 979 20230523191204
+87.236.176.63 1 1 799 20230508232137
+51.255.62.6 1 1 799 20230511185154
+216.131.114.7 1 1 799 20230515053725
+18.237.122.102 1 1 799 20230506083912
+164.90.241.135 1 1 979 20230524051401
+35.92.173.49 1 1 799 20230514220148
+87.236.176.152 1 1 12073 20230507162209
+54.191.245.69 1 1 799 20230510211410
+35.89.113.125 1 1 799 20230511235231
+52.204.27.85 1 1 36913 20230525044854
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20230506 4 4 3196 4
+20230507 7 7 27945 6
+20230508 9 9 6392 7
+20230509 4 14 122107 1
+20230510 4 4 3196 4
+20230511 17 17 241467 17
+20230512 15 34 281781 7
+20230514 3 3 2397 2
+20230515 9 26 591088 7
+20230516 1 1 799 1
+20230518 2 2 1598 2
+20230519 102 193 114189410 7
+20230520 6 23 572582 3
+20230522 5 22 565684 2
+20230523 2 2 13053 2
+20230524 4 4 3916 4
+20230525 2 2 37892 2
+20230526 2 18 502093 1
+20230527 1 1 602 1
+20230531 2 2 1958 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 76
+2mn-5mn 1
+15mn-30mn 1
+5mn-15mn 1
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 31
+/ 85 435576 79 71
+/e-raport/auth/login 13 97324 1 2
+/e-raport/setting-score/score 13 167514 0 0
+/e-raport/teachers 10 278345 0 0
+/e-raport/manage-p5 9 124546 0 0
+/e-raport/courses 8 234791 0 0
+/e-raport/ 6 41372 0 3
+/e-raport/dashboard 6 255772 0 0
+/e-raport/statistic 6 181558 0 0
+/e-raport/setting-score/score-competency 5 140935 0 0
+/raport/ 4 2408 1 2
+/e-raport/setting-score/competence 3 54099 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 3 67980 0 0
+/e-raport/courses/matematika-zOCNi 3 170517 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 3 67296 0 3
+/e-raport/courses/bahasa-indonesia-kEbtn 3 294079 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 3 68724 0 0
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 24220 1 1
+/e-raport/setting-score/list-competence 2 32391 0 0
+/e-raport/users 2 37596 0 0
+/e-raport/teachers/kepin-waluyo-l6Qb2/edit 2 105851 0 0
+/e-raport/teachers/create 1 52744 0 0
+/e-raport/setting-score/assesment-weight/uas 1 30036 0 0
+/e-raport/_ignition/health-check 1 29 0 0
+/e-raport/set-template 1 16 0 0
+/e-raport/setting-score/description 1 29984 0 0
+/e-raport/courses/create 1 35403 0 0
+/e-raport/users/create 1 91322 0 0
+/e-raport/manage-p5/create 1 42212 0 0
+/e-raport/setting-score/competence/create 1 48197 0 0
+/e-raport/teachers/kepin-waluyo-sqfHz/edit 1 52868 0 0
+END_SIDER

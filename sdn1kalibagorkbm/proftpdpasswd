@@ -1,0 +1,3 @@
+sdn1kalibagorkbm:$6$CscPU2W94rJdCPez$8XJTwyElTi0CnBgoyz71laH1XL9Ml0Frk2UfmH16S3B/ODGVfMOGxkOYlX.TxIBMVDJxoTPVH.Y8OMHd7ZfVv0:1171:1175:sdn1kalibagorkbm:/home/sdn1kalibagorkbm:/bin/bash
+sdn1kalibagorkbm_logs:$6$CscPU2W94rJdCPez$8XJTwyElTi0CnBgoyz71laH1XL9Ml0Frk2UfmH16S3B/ODGVfMOGxkOYlX.TxIBMVDJxoTPVH.Y8OMHd7ZfVv0:1171:1175:sdn1kalibagorkbm:/etc/apache2/logs/domlogs/sdn1kalibagorkbm:/bin/ftpsh
+ftp::14:50:sdn1kalibagorkbm:/home/sdn1kalibagorkbm/public_ftp:/bin/ftpsh

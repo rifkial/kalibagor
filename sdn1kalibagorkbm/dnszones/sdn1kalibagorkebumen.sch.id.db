@@ -1,0 +1,46 @@
+; cPanel first:110.0.2 (update_time):1683344537 Cpanel::ZoneFile::VERSION:1.3 hostname:admin.aplikasimysch.my.id latest:110.0.5
+; Zone file for sdn1kalibagorkebumen.sch.id
+$TTL 14400
+sdn1kalibagorkebumen.sch.id.	86400	IN	SOA	ns1.aplikasimysch.my.id.	naililfitri05.gmail.com.	(
+						2023050604 ;Serial Number
+						3600 ;refresh
+						1800 ;retry
+						1209600 ;expire
+						86400	)
+; sdn1kalibagorkebumen.sch.id.	86400	IN	SOA	ns1.myschid.my.id.	naililfitri05.gmail.com.	( ; Previous value removed by cPanel transfer auto-merge on 20230506033902 GMT
+; 						2023041816 ;Serial Number ; Previous value removed by cPanel transfer auto-merge on 20230506033902 GMT
+; 						3600 ;refresh ; Previous value removed by cPanel transfer auto-merge on 20230506033902 GMT
+; 						1800 ;retry ; Previous value removed by cPanel transfer auto-merge on 20230506033902 GMT
+; 						1209600 ;expire ; Previous value removed by cPanel transfer auto-merge on 20230506033902 GMT
+; 						86400	) ; Previous value removed by cPanel transfer auto-merge on 20230506033902 GMT
+; sdn1kalibagorkebumen.sch.id.	86400	IN	NS	ns1.myschid.my.id. ; Previous value removed by cPanel transfer auto-merge on 20230506033902 GMT
+sdn1kalibagorkebumen.sch.id.	86400	IN	NS	ns2.aplikasimysch.my.id.
+sdn1kalibagorkebumen.sch.id.	86400	IN	NS	ns1.aplikasimysch.my.id.
+; sdn1kalibagorkebumen.sch.id.	86400	IN	NS	ns2.myschid.my.id. ; Previous value removed by cPanel transfer auto-merge on 20230506033902 GMT
+sdn1kalibagorkebumen.sch.id.	14400	IN	A	54.254.143.10
+mail	14400	IN	CNAME	sdn1kalibagorkebumen.sch.id.
+www	14400	IN	CNAME	sdn1kalibagorkebumen.sch.id.
+ftp	14400	IN	A	54.254.143.10
+sdn1kalibagorkebumen.sch.id.	14400	IN	MX	0	sdn1kalibagorkebumen.sch.id.
+sdn1kalibagorkebumen.sch.id.	14400	IN	TXT	"v=spf1 ip4:54.254.143.10 ip4:52.77.82.54 +a +mx ~all"
+cpanel	14400	IN	A	54.254.143.10
+webmail	14400	IN	A	54.254.143.10
+cpcalendars	14400	IN	A	54.254.143.10
+webdisk	14400	IN	A	54.254.143.10
+whm	14400	IN	A	54.254.143.10
+cpcontacts	14400	IN	A	54.254.143.10
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvP3VoFJUCVOKIGejsH8IlGz9EDpOtVQlCVm+lHJSyo8474cH559PIHMhWKmsyvEkb50Y3oA5hQDVqE+3ehnNlMFm4M51fkEsp4qpl+qzIITHcOxw0q6E7fGdqrB9s8T+Le9ZJEQGzw3+wvGSuCaXdVfmD+jBiuPL8DEKLmpEprQNtixuOgnXR2o0Kjb8To31Z" lt+R+R7wArmZhhgUPQnLITM+XDEsz+SkP6VB9Hnh5SsybPx7rnoFulgsx3rz+hxQY39j//Z902lg5+yhAsiN7LnYg02o8CIGFPCgS3UmchSgod4EmC/9xEe6UsuQmL9TSGr981BkiHC8sRX3N1pPwIDAQAB\;
+_cpanel-dcv-test-record	14400	IN	TXT	_cpanel-dcv-test-record=ySSZZPzZ9ftW6LZE0MRtGeyCApvkdOBk0FvKZJ3ZZtn68LU4thPoh0tp09SKfod4
+_713ce91d11f5434f0ecab7f3b7a0ff26.www	14400	IN	CNAME	28bb95d1c5444d79590a51ca39d218db.ff1f0bcf8e57bc02e18e40ee28c7165f.comodoca.com.
+_f6b905517b915ad5215ea318b8236ae4	14400	IN	CNAME	71bcc1f6459458f516259febe101ac73.1b1bdeac2d6dfe35e5d7267d472821e5.comodoca.com.
+e-raport	14400	IN	A	54.254.143.10
+www.e-raport	14400	IN	A	54.254.143.10
+default._domainkey.e-raport	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuyZR4iZJivJJIOA22ol21Ebx0Dahm6WqQdS0U+gLVT7pYIBgmfRWXJRcojb1pYmq3Pvzh2hWytAUrUiBXk9IYLTrabcKuRts8Ki5ZDf2vhZ6cSFfcZZ7h8FBL7xEjPv6HLt44ZSD3wvP0lSsl8gY5H9u7QDCqyA3t0d9Q3QUUnpd0KHY+TVC6A6dSegqxqTY/" 2I02iOPh6rEg3Wlo0hQk8el0NDE0b3Q+oqVf4kek8Kt8dPwqujo/IgXBPPQ/rmYKAgDyxVChKScbinWoYHQGB0VHzvxBFU/Ap5638di/WdOPK5tiD8vABtrjKhMqOQJ9w1j1ZSl8qMHp2ngH2XsXwIDAQAB\;
+e-raport	14400	IN	TXT	"v=spf1 ip4:54.254.143.10 +a +mx +ip4:52.77.82.54 ~all"
+cpcalendars.e-raport	14400	IN	A	54.254.143.10
+webdisk.e-raport	14400	IN	A	54.254.143.10
+cpcontacts.e-raport	14400	IN	A	54.254.143.10
+cpanel.e-raport	14400	IN	A	54.254.143.10
+webmail.e-raport	14400	IN	A	54.254.143.10
+whm.e-raport	14400	IN	A	54.254.143.10
+_6a7260b1cfc0a13b5ab8f1efe94e6794	14400	IN	CNAME	ac41c31048a4b13d6dbfc23afdb20ffc.c4cc44323b22ce168fe99a5ab9dd26d7.comodoca.com.

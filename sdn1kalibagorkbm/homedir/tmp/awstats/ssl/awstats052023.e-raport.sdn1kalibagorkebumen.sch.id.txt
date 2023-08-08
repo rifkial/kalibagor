@@ -1,0 +1,672 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/sdn1kalibagorkbm/tmp/awstats/ssl/awstats.e-raport.sdn1kalibagorkebumen.sch.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2045                
+POS_TIME 2716                
+POS_VISITOR 10043               
+POS_DAY 14663               
+POS_DOMAIN 3548                
+POS_LOGIN 3856                
+POS_ROBOT 4011                
+POS_WORMS 4294                
+POS_EMAILSENDER 4425                
+POS_EMAILRECEIVER 4568                
+POS_SESSION 15328               
+POS_SIDER 15539               
+POS_FILETYPES 4703                
+POS_DOWNLOADS 4896                
+POS_OS 4944                
+POS_BROWSER 5161                
+POS_SCREENSIZE 5678                
+POS_UNKNOWNREFERER 5752                
+POS_UNKNOWNREFERERBROWSER 6238                
+POS_ORIGIN 6532                
+POS_SEREFERRALS 6674                
+POS_PAGEREFS 6837                
+POS_SEARCHWORDS 7104                
+POS_KEYWORDS 7256                
+POS_MISC 2378                
+POS_ERRORS 7315                
+POS_CLUSTER 3712                
+POS_SIDER_404 7522                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230601014833 421 280778 8447215427714
+FirstTime 0
+LastTime 20230531085901
+LastUpdate 20230601070342 421 0 420 0 0
+TotalVisits 153                 
+TotalUnique 110                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 110                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 320 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 20 54 1200910 19 25 7775
+1 638 928 26061746 353 616 43906991
+2 527 825 27729110 232 436 43884101
+3 573 765 23099469 224 361 15266119
+4 473 765 24122405 188 298 9823910
+5 31 99 3535916 12 25 1134720
+6 374 547 17908733 181 246 9864031
+7 1035 1480 52024814 442 594 15912445
+8 706 893 29527448 275 427 11631886
+9 53 83 1467448 83 97 4688799
+10 13 19 434753 13 18 43095
+11 46 49 1069952 24 48 3654047
+12 40 108 3054043 49 65 1706143
+13 10 10 216396 4 24 1500392
+14 33 68 2047138 57 81 12466768
+15 20 23 1364678 12 22 1217448
+16 2 18 508028 3 8 26412
+17 2 3 81828 3 7 20503
+18 0 0 0 2 4 13206
+19 0 0 0 38 45 1275587
+20 6 6 119424 42 46 1276997
+21 0 0 0 2 3 13206
+22 46 62 1851370 15 31 30896
+23 0 0 0 1 4 107
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+id 4533 6540 210689434
+us 89 198 5286312
+au 20 53 1200955
+be 4 4 27652
+ru 1 1 6853
+hn 1 9 214403
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 131 3534454 20230524025406 0
+bingbot/ 4 27487 20230529040205 0
+bot[\s_+:,\.\;\/\\-] 2 6898 20230518111319 0
+DotBot/ 1 6881 20230524062158 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+html 216 1525155 0 0
+png 225 6354645 0 0
+css 1034 18834598 0 0
+js 740 41617768 0 0
+jpg 158 309329 0 0
+Unknown 4432 148784114 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+macosx6 1 1
+macosx15 926 535
+androidnougat 36 19
+Unknown 23 23
+linux 56 5
+android 37 4
+linuxubuntu 9 1
+win10 5679 4056
+android10 21 3
+androidoreo 17 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+chrome106.0.0.0 2 2
+chrome10.0.648.133 9 1
+chrome4.0.212.0 1 1
+chrome84.0.4147.105 1 1
+chrome108.0.0.0 17 1
+chrome106.0.5249.126 34 17
+Unknown 15 15
+chrome91.0.4472.88 21 3
+safari15.6.1 45 12
+chrome81.0.4044.129 2 2
+chrome112.0.0.0 229 124
+firefox113.0 96 20
+chrome112.0.5615.121 36 2
+chrome110.0.5481.177 18 1
+chrome113.0.0.0 5964 4268
+chrome99.0.4844.88 20 3
+chrome60.0.3112.107 2 2
+chrome109.0.0.0 56 12
+mozilla 8 8
+opera98.0.0.0 212 152
+chrome87.0.4280.141 17 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Atlassian 20230513011441
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230511160522
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230515041009
+WhatsApp/2.23.9.76_A 20230517025041
+WhatsApp/2.23.8.76_A 20230513041227
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20230524065623
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20230524065623
+WhatsApp/2.23.8.76_A 20230513041227
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Atlassian 20230513011441
+WhatsApp/2.23.9.76_A 20230517025041
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 146 154
+From1 0 0
+From2 1 1
+From3 38 38
+From4 4463 6612
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://www.sdn1kalibagorkbm.sch.id 18 18
+https://sdn1kalibagorkbm.sch.id 17 17
+https://www.sdn1kalibagorkbm.sch.id 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+503 1 0
+405 6 6068166
+422 2 178
+500 221 162376283
+403 2 22498
+301 4 1124
+419 3 19827
+302 1092 523892
+206 2 42836
+404 1103 6735060
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 63
+/config/config.json 6 -
+/core/.env 6 -
+/cover/20230523072202.png 1 https://e-raport.sdn1kalibagorkebumen.sch.id/covers
+/admin/info.php 6 -
+/data/.env 6 -
+/local/.env 6 -
+/dev/.env 6 -
+/config/.env 6 -
+/_profiler/phpinfo 6 -
+/robots.txt 48 -
+/public/.env 4 -
+/public/asset/css/fonts/dropify.ttf 340 https://e-raport.sdn1kalibagorkebumen.sch.id/public/asset/css/dropify.min.css
+/adm 1 -
+/phpinfo.php 6 -
+/stag/.env 6 -
+/public/asset/css/fonts/dropify.woff 339 https://e-raport.sdn1kalibagorkebumen.sch.id/public/asset/css/dropify.min.css
+/admin/phpinfo 6 -
+/config/202220232-49EhZ 1 https://e-raport.sdn1kalibagorkebumen.sch.id/dashboard
+/sitemap.xml.gz 3 -
+/letter_head/20230505044210.png 2 https://e-raport.sdn1kalibagorkebumen.sch.id/letterhead
+/apps/.env 6 -
+/sitemap_index.xml 3 -
+/cover/20230523072205.png 1 https://e-raport.sdn1kalibagorkebumen.sch.id/covers
+/.aws/credentials 6 -
+/staging/.env 6 -
+/.env.save 6 -
+/core/app/.env 6 -
+/.env.php 6 -
+/production/.env 6 -
+/.env.stage 6 -
+/login/.env 6 -
+/api/.env 6 -
+/score-extra/tes 3 https://e-raport.sdn1kalibagorkebumen.sch.id/statistic
+/info.php 6 -
+/home/.env 6 -
+/.env 6 -
+/conf/.env 6 -
+/.env.backup 6 -
+/sitemap.xml 4 -
+/member/.env 6 -
+/cover/20230523072251.png 14 https://e-raport.sdn1kalibagorkebumen.sch.id/covers
+/.env.bak 6 -
+/auth_pass_recovery.html 4 -
+/public/https://e-raport.sdn1kalibagorkebumen.sch.id/public/asset/img/90x90.jpg 15 https://e-raport.sdn1kalibagorkebumen.sch.id/setting-score/score/create/1202022-b3J8t
+/auth/auth_pass_recovery.html 1 https://e-raport.sdn1kalibagorkebumen.sch.id/auth/login
+/config.js 6 -
+/config.json 6 -
+/.env.local 6 -
+/cover/20230523072235.png 15 https://e-raport.sdn1kalibagorkebumen.sch.id/covers
+/.env.prod 6 -
+/app/.env 6 -
+/sitemap.txt 4 -
+/admin/phpinfo.php 6 -
+/config/year=202220232-49EhZ 1 -
+/public/logo/20230409154341.jpeg 66 https://e-raport.sdn1kalibagorkebumen.sch.id/raport/prev-classes
+/403.shtml 2 -
+/config/aws.yml 6 -
+/letter_head/20230505044213.png 2 https://e-raport.sdn1kalibagorkebumen.sch.id/letterhead
+/public/asset/css/fonts/dropify.svg 1 https://e-raport.sdn1kalibagorkebumen.sch.id/teachers/budi-prihatin-GY4ho/edit
+/sitemaps.xml 2 -
+/phpinfo 6 -
+/atom.xml 4 -
+/aws.yml 6 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 110
+36.72.216.157 960 1267 44307816 20230524090032
+36.72.216.40 368 466 17040248 20230523085227
+125.160.103.4 335 446 14940834 20230525090256
+36.72.216.231 280 303 9005835 20230516082301
+36.72.215.176 273 349 11569845 20230531085901
+36.72.215.42 252 434 13514447 20230516071626
+36.72.216.138 205 257 9868451 20230525023441
+125.160.101.115 157 190 6900700 20230524071148
+36.72.213.187 144 152 4366678 20230511042450
+125.160.106.202 115 191 6502922 20230526085919
+125.160.104.83 106 114 3078616 20230522065614
+125.160.109.222 102 131 2678690 20230519085708
+182.1.65.147 89 98 3247576 20230512035651
+125.160.102.69 84 110 2591858 20230511042308
+36.72.213.112 79 88 2450792 20230512134835
+36.72.212.88 76 98 3323248 20230513045555
+125.160.105.92 58 164 5710896 20230509081727
+182.2.69.119 55 97 2476927 20230525042616
+36.72.214.21 54 72 1436247 20230511071300
+125.160.96.83 48 71 2386098 20230511013357
+36.72.216.45 47 50 1374973 20230512083145
+36.72.217.93 40 45 1357153 20230512014039
+36.72.215.78 37 71 2009991 20230530090329
+125.160.101.90 37 41 986619 20230509080408
+125.160.97.149 34 96 3236537 20230527054525
+87.236.176.248 1 1 6898 20230511111000
+36.72.216.126 3 3 39580 20230517031649
+34.87.170.146 1 1 6898 20230517064155
+36.72.214.35 5 5 142610 20230511090233
+125.160.102.4 25 67 2550250 20230516073840
+182.2.72.109 3 21 643052 20230529140116
+18.208.224.41 1 1 6898 20230519040654
+198.16.66.123 10 15 373691 20230530223139
+36.72.216.29 26 78 2402785 20230529030308
+200.10.38.172 1 9 214403 20230518225630
+167.248.133.33 1 1 6898 20230512080747
+182.1.66.147 32 35 1883266 20230511150118
+125.160.101.212 32 67 2336121 20230527083508
+167.94.138.49 1 1 6898 20230515041009
+35.240.198.16 2 2 13856 20230512062613
+182.2.73.175 3 20 582958 20230518170226
+65.154.226.168 1 18 562145 20230509050249
+140.213.101.96 12 18 1004220 20230529030048
+125.160.101.222 11 14 320485 20230519073348
+125.160.105.193 31 48 2612693 20230525060343
+87.236.176.88 1 1 6958 20230509132954
+198.16.74.205 3 3 57237 20230511224808
+182.2.78.69 3 3 21910 20230516014440
+36.72.216.130 11 38 1442771 20230519020327
+139.59.108.146 2 2 13796 20230515220312
+198.16.78.44 32 82 2402682 20230525123936
+125.160.104.63 2 2 13796 20230512020010
+125.160.105.113 26 59 2356322 20230515072206
+36.72.212.79 12 35 772074 20230526075902
+182.2.70.161 1 2 6853 20230530003948
+87.236.176.199 1 1 6898 20230511160522
+36.72.213.153 1 1 6898 20230520011351
+125.160.107.142 2 39 567590 20230530030412
+167.248.133.184 2 2 13796 20230514023325
+198.16.70.53 5 5 112526 20230516205649
+125.160.106.7 5 23 627430 20230529023356
+182.2.78.181 2 2 46702 20230509043106
+65.154.226.169 1 18 562145 20230509050937
+35.214.138.10 1 1 6871 20230527011747
+34.126.94.129 1 1 6898 20230517143831
+36.72.216.182 6 6 196949 20230522072528
+125.160.110.122 1 18 562145 20230520010756
+36.72.217.165 10 58 1065717 20230522023124
+125.160.102.165 25 28 554902 20230521114257
+125.160.110.232 29 50 1014917 20230523015547
+185.162.223.20 1 1 6853 20230529142522
+36.72.212.82 7 28 142887 20230519012059
+182.2.85.68 1 17 501085 20230530121624
+114.142.168.30 17 34 686074 20230529005256
+140.213.49.135 3 3 59166 20230509050504
+113.197.108.36 1 19 630130 20230515075858
+114.142.168.12 1 17 501085 20230530005511
+54.242.57.161 1 1 6898 20230516014634
+125.160.97.91 11 20 948830 20230514032952
+182.2.70.207 8 8 179509 20230522072710
+87.236.176.175 1 1 6898 20230510000301
+35.173.218.141 1 1 6881 20230524020143
+198.16.66.196 10 13 210596 20230517070409
+125.160.111.53 1 2 6853 20230530122948
+35.174.242.55 1 1 6898 20230513011441
+125.160.108.193 1 3 42814 20230526012837
+18.116.72.167 1 18 560737 20230529140141
+198.16.74.43 9 9 327288 20230511061657
+125.160.111.12 1 2 67913 20230511050020
+50.7.142.182 1 1 6898 20230516205504
+36.72.212.47 2 3 86423 20230527020752
+36.72.214.38 1 18 6898 20230519014533
+125.160.101.169 8 22 1500456 20230508072140
+125.160.96.26 1 1 6898 20230508063455
+182.2.69.156 2 2 13796 20230510025815
+182.2.78.199 19 20 560845 20230517025422
+36.72.213.25 21 51 542202 20230508120438
+36.72.213.60 8 9 246190 20230522083618
+18.234.216.190 2 2 13779 20230524065623
+125.160.104.159 1 2 6853 20230531012002
+125.160.107.209 1 5 6882 20230526012040
+125.160.104.126 14 15 335956 20230529085558
+125.160.101.67 20 76 2573304 20230525022026
+36.72.214.161 2 2 49731 20230513011607
+125.160.102.64 1 18 562145 20230512020128
+125.160.109.97 23 27 1160292 20230522074642
+125.160.111.89 1 1 6898 20230511075118
+34.239.152.216 1 1 6898 20230523012658
+36.72.217.95 13 18 241952 20230517030304
+182.2.69.206 7 7 63533 20230509033110
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20230508 30 74 2049556 4
+20230509 148 295 9339308 14
+20230510 7 7 77246 3
+20230511 395 474 13655805 15
+20230512 270 361 12123129 13
+20230513 79 101 3379877 4
+20230514 12 21 955728 2
+20230515 255 446 12800306 7
+20230516 330 413 11987770 10
+20230517 47 56 1066769 6
+20230518 14 41 1024560 3
+20230519 73 141 2946610 7
+20230520 2 19 569043 2
+20230521 25 28 554902 1
+20230522 161 222 5927273 8
+20230523 407 549 19104474 7
+20230524 1119 1459 51222278 6
+20230525 670 975 33839378 9
+20230526 129 234 7324692 5
+20230527 69 167 5665952 6
+20230529 80 233 6827844 9
+20230530 52 126 3406411 8
+20230531 274 363 11576698 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 21
+1h+ 25
+30s-2mn 19
+0s-30s 55
+30mn-1h 5
+5mn-15mn 15
+2mn-5mn 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 181
+/teachers 309 8846823 1 2
+/users 301 9079857 1 3
+/auth/login 231 1695692 32 36
+/ 216 1525155 98 45
+/statistic 211 6212028 0 8
+/student-class 194 5570415 0 1
+/courses 174 4873439 0 2
+/dashboard 159 6764936 6 8
+/setting-score/competence 156 4040775 3 2
+/set-template 112 1792 1 2
+/manage-p5 111 1944692 0 0
+/school-years 98 1954722 0 0
+/classes 94 2497194 1 2
+/template 85 4300660 0 2
+/levels 81 2026021 1 0
+/setting-score/score 81 1767909 0 0
+/setting-score/assesment-weight/uas 77 3006836 0 1
+/basic-competency 75 1502484 0 0
+/setting-score/list-competence 71 1541208 0 0
+/extracurricular 68 1365431 0 1
+/admins 67 1402205 0 0
+/majors 65 1397922 0 2
+/setting 55 2424671 0 3
+/raport/list-classes 53 2999288 0 2
+/general-weight/uas 52 2226859 0 1
+/teachers/budi-prihatin-h0u5w/edit 1 52871 0 0
+/levels/create 7 244884 0 0
+/teachers/adji-pangestu-pWW8r/edit 1 52036 0 0
+/courses/create 21 741549 0 0
+/teachers/kepin-waluyo-Zybhl/edit 2 105760 0 0
+/levels/i-ItN6B/edit 1 35125 0 0
+/teachers/dino-al-radiansyah-71Wb6/edit 2 105900 0 0
+/leger/prev-classes/1-k5dDy 7 318121 1 0
+/setting-score/kkm 17 702396 0 0
+/teachers/virda-agustina-WbPBw/edit 2 104222 0 0
+/extracurricular/edit/jurnalis-y357J 2 75266 0 0
+/courses/ppkn-IPLQu 3 190614 0 0
+/setting-score/score/create/1202022-b3J8t 7 236249 1 1
+/subject-teacher/export 5 195072 0 0
+/teachers/kepin-waluyo-GLfiO/edit 4 211600 0 0
+/setting-score/score/create/112022-4MHjN 15 364577 0 1
+/teachers/budi-prihantto-Juybf/edit 1 52216 0 0
+/courses/matematika-zOCNi 7 397776 0 0
+/achievement/edit/catur12-JRoTf 1 29076 0 0
+/attitude/social 17 706338 0 1
+/teachers/kevin-laksito-Zbieb/edit 1 52042 0 0
+/majors/-PQwSI/edit 1 34810 0 0
+/users/sulpi-alpianto-9lj8D/edit 19 795317 0 0
+/preview/print-cover 22 993215 0 1
+/teachers/guru-1-dh841/edit 1 52924 0 0
+/teachers/budi-prihatin-E5zDL/edit 2 105766 0 0
+/preview 47 2919599 1 0
+/setting-score/pas-configuration 1 42417 0 0
+/teachers/guru-1-rGUzD/edit 1 52924 0 0
+/teachers/maul-al-hisyam-SGzuH/edit 2 105886 0 0
+/leger/prev-classes/kelas-1-LQaNP 7 290537 0 1
+/achievement 34 536218 0 0
+/classes/kelas-2-pByjP/edit 2 77106 0 0
+/config/tes 1 42783 0 0
+/setting-score/predicated-score/create 17 628286 0 0
+/levels/ii-WTHDW/edit 1 35127 0 0
+/teachers/rifki-al-ghifari-SKlSW/edit 2 104335 0 0
+/setting-score/description 48 1831749 0 1
+/k13/score 48 761382 0 0
+/teachers/chomsatun-OmJIK/edit 1 52902 0 0
+/levels/v-74ZkR/edit 1 35125 0 0
+/score-extra/jurnalis-y357J 3 178456 0 0
+/family/update 5 210 0 0
+/courses/matematika-XB4Bi/edit 1 35505 0 0
+/teachers/rifki-al-ghifari-pkQRp/edit 1 52243 0 0
+/raport/prev-classes 34 2222864 0 1
+/manage-p5/edit/menjual-sempol-GvjHT 2 252138 0 0
+/teachers/sangadji-pangeran-6GY1m/edit 3 158773 0 0
+/basic-competency/edit/deskripsi-kd-1-kfN8A 1 39572 0 0
+/_ignition/health-check 11 319 0 0
+/school-years/202220232-Yljqq/edit 1 35586 0 0
+/setting-score/competence/download/export 5 90624 0 0
+/teachers/guru-1-nIGJ0/edit 1 53428 0 0
+/levels/iii-J20zT/edit 1 35129 0 0
+/config/home 43 1895310 1 2
+/courses/fisika-0yQpr 5 288346 0 0
+/courses/bahasa-indonesia-kEbtn 44 3723660 0 0
+/teacher_note 20 776941 0 0
+/teachers/guru-qNYBm/edit 1 52880 0 0
+/users/jaime-murphy-1U6Sp/edit 4 193842 0 0
+/k13/score/create/812022-5LjhH 9 294536 0 0
+/setting-score/pts-configuration 2 81768 0 0
+/k13/score/create/912022-GgDua 5 171003 0 0
+/teachers/andi-yC1lJ/edit 3 158715 1 0
+/admins/admin/edit 1 44022 0 0
+/achievement/create 3 85847 0 0
+/levels/vi-i0nyI/edit 1 35127 0 0
+/school-years/create 8 289184 0 0
+/courses/matematika-XB4Bi 1 52026 0 0
+/preview/sample 26 612633 0 1
+/users/reed-ellison-sVIo6/edit 23 910927 0 0
+/school_years/activated 19 494 0 0
+/manual-v2/score 8 386008 0 1
+/extracurricular/edit/futsal-ocnja 1 37633 0 0
+/attendance 15 607559 0 0
+/teachers/kepin-waluyo-mtQQO/edit 2 105726 0 0
+/admins/create 8 350376 0 0
+/attitude-grade/spiritual 7 314927 0 0
+/users/export 7 218624 0 0
+/teachers/create 35 1841883 0 0
+/preview/print-p5 5 117708 0 1
+/manage-p5/detail/menjual-sempol-GvjHT 1 56630 0 0
+/users/create 33 3016796 0 0
+/teachers/andi-0C4DF/edit 1 52894 0 0
+/general-weight/uts 39 1664250 0 0
+/manage-p5/create 33 2430769 0 1
+/teachers/budi-prihatin-GY4ho/edit 3 158561 0 0
+/setting-score/competence/create 41 1862051 0 2
+/classes/kelas-3-jCGkB/edit 1 38566 0 0
+/teachers/virda-agustina-bSSs0/edit 1 52064 0 0
+/setting-score/predicated-score/edit/a-kT7dh 1 37447 0 0
+/family/edit 1 401 0 0
+/courses/bahasa-indonesia-Nsr5q 3 170348 0 0
+/setting-score/competence/edit 3 127073 0 0
+/courses/bilogi-AJ3hW 11 663248 0 0
+/setting-score/assesment-weight/uts 27 1107598 0 0
+/manual/score 2 95326 0 0
+/teachers/rifki-al-ghifari-voIhe/edit 1 52243 0 0
+/setting-score/score-competency 29 4023739 1 0
+/family 6 57507 0 0
+/setting-score/predicated-score 42 820826 0 0
+/set-layout/teacher 4 10588 0 0
+/extracurricular/edit/sepakbola-sRAP4 1 36989 0 0
+/attitude/spiritual 12 502436 0 0
+/courses/pendidikan-agama-islam-dan-budi-pekerti-6zvIA 33 2682609 0 0
+/subject-teacher/study_class 12 34439 0 1
+/basic-competency/export 4 114688 0 0
+/home 10 145852 0 1
+/majors/create 7 243195 0 0
+/basic-competency/create 9 300318 0 0
+/family/create 1 31836 0 0
+/k13/score/create/212022-WKPU5 2 74994 0 0
+/leger/list-classes 19 1069248 0 0
+/leger/prev-classes/kelas-3-jCGkB 2 54910 0 0
+/score-extra/sepak-bola-97yJz 20 1277648 0 0
+/letterhead 37 1741036 2 3
+/extracurricular/create 8 301020 0 0
+/levels/iv-DyQKF/edit 1 35127 0 0
+/teachers/rifki-al-ghifari-J0s2c/edit 1 52243 0 0
+/extracurricular/edit/sepakbola-ZyT6J 1 37656 0 0
+/score-extra/sepakbola-ZyT6J 2 150340 0 0
+/subject-teacher/show 15 3276 0 0
+/preview/print/202220232-ZWhM8 2 193167 0 0
+/classes/kelas-4-2hSB4/edit 1 38566 0 0
+/teachers/kevin-laksito-j0wBE/edit 1 52215 0 0
+/classes/kelas-5-JOnei/edit 1 38566 0 0
+/teachers/guru-1-pCzLS/edit 1 52250 0 0
+/teachers/rifki-al-ghifari-p0kyk/edit 8 423047 0 0
+/k13/score/create/112022-4MHjN 9 340217 0 0
+/teachers/budi-prihatin-rtHCO/edit 2 105873 0 0
+/courses/sejarah-O3NLp 5 282705 0 0
+/manage-p5/edit/hmj-lCkYL 3 404713 0 0
+/classes/kelas-6-ln2a1/edit 1 38566 0 0
+/my-profile 6 524095 0 0
+/classes/1-k5dDy/edit 4 152520 0 0
+/attitude-grade/social 12 555350 0 0
+/setting-score/score/create/2202022-4q30f 3 116835 0 0
+/setting-score/assesment-weight 3 120890 0 0
+/course/download/export 6 33792 0 0
+/manage-p5/detail/hmj-lCkYL 13 666978 0 0
+/teachers/rifki-al-ghifari-ZITE5/edit 5 264611 0 0
+/preview/print-teacher 41 3895401 0 4
+/teachers/guru-1-v09Fw/edit 1 53428 0 0
+/majors/2-NZ2Ho/edit 1 34785 0 0
+/users/raven-hampton-G0bug/edit 2 96861 0 0
+/teachers/fatimatur-rohmah-wSwiH/edit 4 214105 0 0
+/score-extra/tes 9 447383 0 0
+/classes/create 9 342021 0 1
+/manage-p5/edit/menjual-sempol-8SZhk 1 126081 0 0
+/courses/bhs-inggris-D4KLL 6 334031 0 0
+/score-extra/futsal-ocnja 9 634502 0 0
+/setting-score/score/create/212022-WKPU5 7 271905 0 0
+/covers 29 1503575 1 4
+/basic-competency/edit/ini-kd-1-ya-d9JHg 2 51792 0 0
+/teachers/export 7 229376 0 1
+/setting-score/predicated-score/edit/c-0efv3 1 36618 0 0
+END_SIDER

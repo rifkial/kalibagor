@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/sdn1kalibagorkbm/public_html
+group: sdn1kalibagorkbm
+hascgi: 0
+homedir: /home/sdn1kalibagorkbm
+ip: 172.26.14.48
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@sdn1kalibagorkebumen.sch.id
+serveralias: mail.sdn1kalibagorkebumen.sch.id www.sdn1kalibagorkebumen.sch.id
+servername: sdn1kalibagorkebumen.sch.id
+ssl: 1
+usecanonicalname: 'Off'
+user: sdn1kalibagorkbm
+userdirprotect: ''

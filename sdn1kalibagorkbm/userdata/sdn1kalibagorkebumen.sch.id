@@ -1,0 +1,26 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/sdn1kalibagorkebumen.sch.id
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/sdn1kalibagorkebumen.sch.id-bytes_log
+documentroot: /home/sdn1kalibagorkbm/public_html
+group: sdn1kalibagorkbm
+hascgi: 0
+homedir: /home/sdn1kalibagorkbm
+ip: 172.26.14.48
+owner: root
+phpopenbasedirprotect: 1
+phpversion: alt-php81
+port: 80
+scriptalias: 
+  - 
+    path: /home/sdn1kalibagorkbm/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@sdn1kalibagorkebumen.sch.id
+serveralias: mail.sdn1kalibagorkebumen.sch.id www.sdn1kalibagorkebumen.sch.id
+servername: sdn1kalibagorkebumen.sch.id
+usecanonicalname: 'Off'
+user: sdn1kalibagorkbm

@@ -1,0 +1,179 @@
+# Webalizer V2.23-08 Incremental Data - 07/08/2023 15:17:15
+2023 7 8 15 17 15
+60 14 10 9 1 6 34007 11 8 0
+1 1 39 2 8
+0 0 0 0 0 0
+2 0 1366 2 2 2
+44 4 29191 3 5 2
+4 4 282 1 0 0
+7 6 1119 3 1 1
+1 0 683 1 1 1
+1 0 683 1 1 1
+1 0 683 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 683 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 0 1366 2
+2 0 1366 2
+0 0 0 0
+1 0 683 1
+39 0 28226 4
+0 0 0 0
+0 0 0 0
+9 8 1221 1
+6 6 462 0
+0
+0
+0
+14
+0
+0
+0
+0
+0
+0
+0
+0
+45
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/pki-validation/21B53C241F91417A56CB3194DAA2807C.txt
+0 1 430782286081 64 0 0
+/.well-known/pki-validation/38EA15E48B4D663B3CC7822FCF9B3EDD.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/78481E2FF90A201CC7E735674436FE54.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/1520CC5FB50A4FDB85C30AA4A6D4A7C1.txt
+0 4 0 308 0 0
+/.well-known/pki-validation/729B15A1C3091698655EC37123D9194D.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/6025B4B0500E5452B03D6260181D360F.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/12B080315BCE966B6A768CA3AE495E13.txt
+0 2 0 154 0 0
+/.well-known/pki-validation/E419642CE580C5595D57735DEDB3AAC5.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/F4E9D9CDB403847D12D2A15FB062B0F9.txt
+0 2 0 154 0 0
+# End Of Table - urls
+# -sites- (monthly)
+41.153.197.35.bc.googleusercontent.com
+0 39 0 28226 1 1688412000
+-
+104.248.4.80
+0 1 0 683 1 1688523132
+-
+142.93.148.73
+0 1 0 683 1 1688755478
+-
+admin.aplikasimysch.my.id
+0 12 12 846 0 0
+-
+159.65.117.131
+0 1 0 683 1 1688656492
+-
+ec2-54-234-27-197.compute-1.amazonaws.com
+0 1 0 683 1 1688314963
+-
+ec2-54-171-199-72.eu-west-1.compute.amazonaws.com
+0 1 0 683 1 1688421697
+-
+142.93.74.16
+0 1 0 683 1 1688829435
+-
+secure.trust-provider.net
+0 2 2 154 0 0
+-
+ec2-54-226-193-230.compute-1.amazonaws.com
+0 1 0 683 1 1688314984
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+142.93.74.16
+0 1 0 683 1 1688829435
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 60
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+COMODO DCV
+0 12
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/534.1
+0 2
+Sectigo DCV
+0 2
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 39
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
